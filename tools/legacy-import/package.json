@@ -1,0 +1,28 @@
+{
+  "name": "@doyuyo/legacy-import",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "crawl": "tsx src/crawl.ts",
+    "parse": "tsx src/parse.ts",
+    "media": "tsx src/download-media.ts",
+    "report": "tsx src/verify.ts",
+    "allergens": "tsx src/parse-allergens.ts",
+    "all": "tsx src/crawl.ts && tsx src/parse.ts && tsx src/download-media.ts --client-approved && tsx src/parse-allergens.ts && tsx src/verify.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "domhandler": "^6.0.1",
+    "image-size": "^2.1.0",
+    "p-limit": "^7.3.3",
+    "unpdf": "^2.2.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.2.0",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

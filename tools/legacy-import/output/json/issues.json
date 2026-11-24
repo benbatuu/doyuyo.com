@@ -1,0 +1,12 @@
+{
+  "menu": [
+    "product page not linked from any category: https://doyuyo.com/en/menu/spicy-wings-9"
+  ],
+  "branches": [
+    "TR branch page links to an EN page that is not this branch: doyuyo-forum-diyarbakir-avm -> https://doyuyo.com/en/branch/-1 (resolves to https://doyuyo.com/en/branch/doyuyo-silivri-vega-mall)",
+    "branch without EN version: doyuyo-forum-diyarbakir-avm",
+    "branch coordinates are approximate (embed): doyuyo-istiklal-caddesi",
+    "branch without coordinates: doyuyo-meydan-avm"
+  ],
+  "pages": []
+}

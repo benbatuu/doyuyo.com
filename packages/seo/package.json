@@ -1,0 +1,15 @@
+{
+  "name": "@doyuyo/seo",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@doyuyo/core": "workspace:*",
+    "@doyuyo/i18n": "workspace:*"
+  }
+}

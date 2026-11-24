@@ -1,0 +1,482 @@
+[
+  {
+    "page": "investor",
+    "locale": "tr",
+    "fields": [
+      {
+        "name": "name",
+        "label": "İsim",
+        "placeholder": "İsminiz",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "surname",
+        "label": "Soyisim",
+        "placeholder": "Soyisminiz",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "phone",
+        "label": "Telefon",
+        "placeholder": "(___) ___ __ __",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "E-posta",
+        "placeholder": "E-posta adresiniz",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "investor_country",
+        "label": "Yatırım yapmak istediğiniz ülke",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Türkiye"
+        ]
+      },
+      {
+        "name": "investor_province",
+        "label": "İl",
+        "placeholder": "",
+        "type": "select",
+        "required": true,
+        "options": []
+      },
+      {
+        "name": "investor_district",
+        "label": "İlçe",
+        "placeholder": "",
+        "type": "select",
+        "required": true,
+        "options": []
+      },
+      {
+        "name": "job",
+        "label": "Mesleğiniz/Güncel olarak yaptığınız iş",
+        "placeholder": "Mesleğiniz/Güncel olarak yaptığınız iş",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "store_square_meter",
+        "label": "Mağaza metrekare",
+        "placeholder": "Mağaza metrekare",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "investment_budget",
+        "label": "Yatırım için ayırdığınız bütçe (TL)",
+        "placeholder": "Yatırım için ayırdığınız bütçe (TL)",
+        "type": "text",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Yatırımcı Ol"
+  },
+  {
+    "page": "investor",
+    "locale": "en",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "placeholder": "Name",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "surname",
+        "label": "Surname",
+        "placeholder": "Surname",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "phone",
+        "label": "Telephone",
+        "placeholder": "(___) ___ __ __",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "placeholder": "Your e-mail address",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "investor_country",
+        "label": "The country you want to invest in",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Türkiye"
+        ]
+      },
+      {
+        "name": "investor_province",
+        "label": "Province",
+        "placeholder": "",
+        "type": "select",
+        "required": true,
+        "options": []
+      },
+      {
+        "name": "investor_district",
+        "label": "District",
+        "placeholder": "",
+        "type": "select",
+        "required": true,
+        "options": []
+      },
+      {
+        "name": "job",
+        "label": "Your profession / current job",
+        "placeholder": "Your profession / current job",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "store_square_meter",
+        "label": "Store square meters",
+        "placeholder": "Store square meters",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "investment_budget",
+        "label": "Budget allocated for investment (TL)",
+        "placeholder": "Budget allocated for investment (TL)",
+        "type": "text",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Franchising"
+  },
+  {
+    "page": "careers",
+    "locale": "tr",
+    "fields": [
+      {
+        "name": "name",
+        "label": "İsim",
+        "placeholder": "İsminiz",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "surname",
+        "label": "Soyisim",
+        "placeholder": "Soyisminiz",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "phone",
+        "label": "Telefon",
+        "placeholder": "(___) ___ __ __",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "E-posta",
+        "placeholder": "E-posta adresiniz",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "subject_id",
+        "label": "Başvuruda Bulunulan Departman",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Genel Başvuru"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Mesajınız",
+        "placeholder": "Mesajınız",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Gönder"
+  },
+  {
+    "page": "careers",
+    "locale": "en",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "placeholder": "Name",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "surname",
+        "label": "Surname",
+        "placeholder": "Surname",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "phone",
+        "label": "Telephone",
+        "placeholder": "(___) ___ __ __",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "placeholder": "Your e-mail address",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "subject_id",
+        "label": "Department of Application",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "General Application"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Your Message",
+        "placeholder": "Your Message",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Send"
+  },
+  {
+    "page": "contact",
+    "locale": "tr",
+    "fields": [
+      {
+        "name": "name",
+        "label": "İsim",
+        "placeholder": "İsminiz",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "surname",
+        "label": "Soyisim",
+        "placeholder": "Soyisminiz",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "phone",
+        "label": "Telefon",
+        "placeholder": "(___) ___ __ __",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "E-posta",
+        "placeholder": "E-posta adresiniz",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "subject_id",
+        "label": "İletişime Geçmek İstediğiniz Konu",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Şubeniz olmak istiyorum",
+          "İş başvurusu yapmak istiyorum",
+          "Şikayetim var",
+          "Diğer"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Mesajınız",
+        "placeholder": "Mesajınız",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Gönder"
+  },
+  {
+    "page": "contact",
+    "locale": "en",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "placeholder": "Name",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "surname",
+        "label": "Surname",
+        "placeholder": "Surname",
+        "type": "text",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "phone",
+        "label": "Telephone",
+        "placeholder": "(___) ___ __ __",
+        "type": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "placeholder": "Your e-mail address",
+        "type": "email",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "subject_id",
+        "label": "Subject you would like to contact",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Be a franchise!",
+          "Apply for a Job",
+          "I have a complaint",
+          "Others"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Your message",
+        "placeholder": "Your message",
+        "type": "textarea",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Send"
+  },
+  {
+    "page": "branches",
+    "locale": "tr",
+    "fields": [
+      {
+        "name": "country",
+        "label": "",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Türkiye",
+          "Birleşik Arap Emirlikleri"
+        ]
+      },
+      {
+        "name": "province",
+        "label": "",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "district",
+        "label": "",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Filtrele"
+  },
+  {
+    "page": "branches",
+    "locale": "en",
+    "fields": [
+      {
+        "name": "country",
+        "label": "",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": [
+          "Türkiye",
+          "Birleşik Arap Emirlikleri"
+        ]
+      },
+      {
+        "name": "province",
+        "label": "",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": []
+      },
+      {
+        "name": "district",
+        "label": "",
+        "placeholder": "",
+        "type": "select",
+        "required": false,
+        "options": []
+      }
+    ],
+    "submitLabel": "Filter"
+  }
+]

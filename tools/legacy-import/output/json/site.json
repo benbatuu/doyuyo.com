@@ -1,0 +1,437 @@
+{
+  "tr": {
+    "headerNav": [
+      {
+        "text": "Biz Kimiz",
+        "href": "https://doyuyo.com/biz-kimiz"
+      },
+      {
+        "text": "Lezzetlerimiz",
+        "href": "https://doyuyo.com/lezzetlerimiz"
+      },
+      {
+        "text": "Malzemelerimiz",
+        "href": "https://doyuyo.com/malzemelerimiz"
+      },
+      {
+        "text": "Şubelerimiz",
+        "href": "https://doyuyo.com/subelerimiz"
+      },
+      {
+        "text": "Yatırımcı Ol",
+        "href": "https://doyuyo.com/yatirimci"
+      }
+    ],
+    "footerNav": [
+      {
+        "text": "Biz Kimiz",
+        "href": "https://doyuyo.com/biz-kimiz"
+      },
+      {
+        "text": "Lezzetlerimiz",
+        "href": "https://doyuyo.com/lezzetlerimiz"
+      },
+      {
+        "text": "Malzemelerimiz",
+        "href": "https://doyuyo.com/malzemelerimiz"
+      },
+      {
+        "text": "Şubelerimiz",
+        "href": "https://doyuyo.com/subelerimiz"
+      },
+      {
+        "text": "Yatırımcı Ol",
+        "href": "https://doyuyo.com/yatirimci"
+      },
+      {
+        "text": "Bize Katıl",
+        "href": "https://doyuyo.com/insan-kaynaklari"
+      },
+      {
+        "text": "Menülerimiz",
+        "href": "https://doyuyo.com/menuler"
+      },
+      {
+        "text": "İletişim",
+        "href": "https://doyuyo.com/iletisim"
+      },
+      {
+        "text": "Kişisel Verilerin Korunması ve İşlenmesi Politikası",
+        "href": "https://doyuyo.com/yasal-metin/kisisel-verilerin-korunmasi-ve-islenmesi-politikasi"
+      },
+      {
+        "text": "Gizlilik Sözleşmesi",
+        "href": "https://doyuyo.com/yasal-metin/gizlilik-sozlesmesi"
+      }
+    ],
+    "social": [
+      "https://www.instagram.com/doyuyotr/",
+      "https://www.youtube.com/channel/UCf4LbiovZtHq8nvw77xLiAQ",
+      "https://twitter.com/doyuyotr/",
+      "https://www.linkedin.com/company/doyuyotr/"
+    ],
+    "copyright": "Tüm hakları saklıdır. ©",
+    "cookieText": "Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanır. Devam ederek çerez kullanımımızı kabul etmiş olursunuz.",
+    "cookieButton": "Kabul Et",
+    "logo": "https://doyuyo.com/assets/images/logo/colored.svg?v=4",
+    "favicons": [
+      "https://doyuyo.com/frontend/icons/safari-pinned-tab.svg",
+      "https://doyuyo.com/assets/images/favicon/apple-touch-icon.png",
+      "https://doyuyo.com/assets/images/favicon/favicon-32x32.png",
+      "https://doyuyo.com/assets/images/favicon/favicon-16x16.png",
+      "https://doyuyo.com/assets/images/favicon/site.webmanifest",
+      "https://doyuyo.com/assets/images/favicon/safari-pinned-tab.svg"
+    ],
+    "htmlLang": "tr",
+    "themeColor": "#ffffff",
+    "orderPlatforms": {
+      "title": "Online satış kanallarımız",
+      "text": "Uzun uzun anlatmaya gerek yok, Doyuyo Anlatılmaz Yenir! Gurme çıtır lezzetlerimizi Türkiye’nin farklı noktalarındaki fast-casual a la carte ve self servis restoranlarımızda tadabilir, menünüzü beklerken Doyuyo mutfağından başlangıç seçenekleriyle dört dörtlük bir lezzet deneyimi yaşayabilirsiniz. En yakındaki Doyuyo lezzetlerine ulaşmak için tıklayın.",
+      "items": [
+        {
+          "name": "Migros Yemek",
+          "href": "https://www.migros.com.tr/yemek/doyuyo-sf-62f",
+          "logo": "https://doyuyo.com/storage/875/Property-1=migros,-Property-2=empty.svg"
+        },
+        {
+          "name": "Yemek Sepeti",
+          "href": "https://yemek.go.link/gLrL7",
+          "logo": "https://doyuyo.com/storage/212/conversions/Yemeksepeti_logo.svg-optimize-213.webp"
+        },
+        {
+          "name": "Getir Yemek",
+          "href": "https://getir.onelink.me/5Bpa/ctjtatfx",
+          "logo": "https://doyuyo.com/storage/411/conversions/gy-logo-1024x238-2-optimize-213.webp"
+        },
+        {
+          "name": "Trendyol",
+          "href": "https://tgo.gl/mealseller_doyuyo",
+          "logo": "https://doyuyo.com/storage/874/conversions/20860151acba44d29636acd2c8e047d5-1-(2)-optimize-213.png"
+        }
+      ],
+      "sourceUrl": "https://doyuyo.com/sube/adana-optimum-avm"
+    },
+    "branchFlavors": {
+      "title": "Lezzetlerimize Ulaş",
+      "text": "Doyuyo lezzetlerine ulaşmak için en yakın şubemizi ziyaret edebilirsiniz. Doyuyo lezzetlerini tadabileceğiniz şubelerimizi aşağıda bulabilirsiniz.",
+      "items": [
+        {
+          "title": "TENDERS FESTIVAL",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/b016a12551466998b1ec0819718c5683.png",
+              "alt": "b016a12551466998b1ec0819718c5683.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Tenders’ı fast casual restoran konsepti ile tanıştıran Doyuyo, Tenders Festival’de 4 farklı tenders lezzetini bir arada sunuyor. Derisiz ve kemiksiz, %100 baby filetodan elde edilip 12 saat marine edilen, çıtır kaplamasıyla kaplanıp kızartılan tenders, baharatlar arasında seçim yapmakta zorlananlar için Original, Köri, Cajun ve Paprika Parmesan’lı dört çeşit bu tepside bir arada.",
+              "text": "Tenders’ı fast casual restoran konsepti ile tanıştıran Doyuyo, Tenders Festival’de 4 farklı tenders lezzetini bir arada sunuyor. Derisiz ve kemiksiz, %100 baby filetodan elde edilip 12 saat marine edilen, çıtır kaplamasıyla kaplanıp kızartılan tenders, baharatlar arasında seçim yapmakta zorlananlar için Original, Köri, Cajun ve Paprika Parmesan’lı dört çeşit bu tepside bir arada."
+            },
+            {
+              "type": "paragraph",
+              "html": "Bol patates, büyük boy içecek, ketçap, mayonez ve tercih ettiğin 1 adet gurme sos da bu tepside.",
+              "text": "Bol patates, büyük boy içecek, ketçap, mayonez ve tercih ettiğin 1 adet gurme sos da bu tepside."
+            }
+          ]
+        },
+        {
+          "title": "CHICKEN BURGER",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/0483be799f460d5d388122761f8ee50b.png",
+              "alt": "0483be799f460d5d388122761f8ee50b.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Mütevazi olamayacağımız konulardan biri de Chicken Burger!",
+              "text": "Mütevazi olamayacağımız konulardan biri de Chicken Burger!"
+            },
+            {
+              "type": "paragraph",
+              "html": "%100 baby filetodan hazırlanıp çıtır çıtır kızaran tenders ile yapılan Chicken Burger kendi üretimimiz olan Brioche burger ekmekleri içerisinde hazırlanır. Doyuyo mutfağından özel soslar ve baharatlar ile mükemmel lezzetine ulaşır.",
+              "text": "%100 baby filetodan hazırlanıp çıtır çıtır kızaran tenders ile yapılan Chicken Burger kendi üretimimiz olan Brioche burger ekmekleri içerisinde hazırlanır. Doyuyo mutfağından özel soslar ve baharatlar ile mükemmel lezzetine ulaşır."
+            },
+            {
+              "type": "paragraph",
+              "html": "Ekmek arası lezzetleri sevenler içinse kendi üretimimiz brioche ekmeği içerisinde çıtır çıtır kızarmış tavukla sandviç formunda hazırladığımız ikili Tenders Royale, yanında bol patates, büyük içecek ve sosla servis ediliyor.",
+              "text": "Ekmek arası lezzetleri sevenler içinse kendi üretimimiz brioche ekmeği içerisinde çıtır çıtır kızarmış tavukla sandviç formunda hazırladığımız ikili Tenders Royale, yanında bol patates, büyük içecek ve sosla servis ediliyor."
+            }
+          ]
+        },
+        {
+          "title": "ACISEVER LEZZETLER",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/fd757cb291bd48577b22e1ad49451de1.png",
+              "alt": "fd757cb291bd48577b22e1ad49451de1.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Bu acı tatlı acı, lezzeti katlayan acı!",
+              "text": "Bu acı tatlı acı, lezzeti katlayan acı!"
+            },
+            {
+              "type": "paragraph",
+              "html": "Acıdan anlarım diyorsan, kendine güveniyorsan sana acısever menülerle meydan okuyoruz.",
+              "text": "Acıdan anlarım diyorsan, kendine güveniyorsan sana acısever menülerle meydan okuyoruz."
+            },
+            {
+              "type": "paragraph",
+              "html": "Kemiksiz %100 filetodan hazırlayıp, 6 farklı baharatla tatlandırdığımız çıtır tavuklarımız, burger, tenders ve chickers formunda Acısever Lezzetler arasında.",
+              "text": "Kemiksiz %100 filetodan hazırlayıp, 6 farklı baharatla tatlandırdığımız çıtır tavuklarımız, burger, tenders ve chickers formunda Acısever Lezzetler arasında."
+            }
+          ]
+        },
+        {
+          "title": "CHEESE BURGER",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/4ccfb6449e5ddb2d7add492009142566.png",
+              "alt": "4ccfb6449e5ddb2d7add492009142566.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Doyuyo’nun burgerleri, kendi mutfağımızda %100 Dana Etinden, dondurulmamış burger köftelerimiz ve kendi üretimimiz olan Brioche ekmeklerle hazırlanır. Mutfağımızın olmazsa olmazı Katkı maddesi içermeyen hammaddedir. Burgerler Doyuyo’nun özel sosları ve baharatları ile zenginleşir, soğan, turşu, yeşillik ve tercih göre dilim cheddar ile mükemmel lezzetine ulaşır.",
+              "text": "Doyuyo’nun burgerleri, kendi mutfağımızda %100 Dana Etinden, dondurulmamış burger köftelerimiz ve kendi üretimimiz olan Brioche ekmeklerle hazırlanır. Mutfağımızın olmazsa olmazı Katkı maddesi içermeyen hammaddedir. Burgerler Doyuyo’nun özel sosları ve baharatları ile zenginleşir, soğan, turşu, yeşillik ve tercih göre dilim cheddar ile mükemmel lezzetine ulaşır."
+            }
+          ]
+        },
+        {
+          "title": "SOSLAR",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/e772e6475bd131b38505c15f4283b49e.png",
+              "alt": "e772e6475bd131b38505c15f4283b49e.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Doyuyo, kızarmış tavuk lezzetinin önemli bir tamamlayıcısı olan soslarını dünyanın farklı mutfaklarından ilham alarak hazırlıyor, sos ve baharat karışımları ile geniş bir damak tadına hitap eden lezzetler sunuyor. Bu karışımlara ilişkin Ar-Ge çalışmaları ve menüde yer alan tüm sos ile baharat karışımlarının üretimi ise, Gebze Şekerpınar’da yer 3.000 m2 kapalı alana yerleşik tesiste gerçekleştiriliyor.",
+              "text": "Doyuyo, kızarmış tavuk lezzetinin önemli bir tamamlayıcısı olan soslarını dünyanın farklı mutfaklarından ilham alarak hazırlıyor, sos ve baharat karışımları ile geniş bir damak tadına hitap eden lezzetler sunuyor. Bu karışımlara ilişkin Ar-Ge çalışmaları ve menüde yer alan tüm sos ile baharat karışımlarının üretimi ise, Gebze Şekerpınar’da yer 3.000 m2 kapalı alana yerleşik tesiste gerçekleştiriliyor."
+            }
+          ]
+        }
+      ],
+      "sourceUrl": "https://doyuyo.com/sube/adana-optimum-avm"
+    }
+  },
+  "en": {
+    "headerNav": [
+      {
+        "text": "About Us",
+        "href": "https://doyuyo.com/en/about-us"
+      },
+      {
+        "text": "Our Flavors",
+        "href": "https://doyuyo.com/en/flavors"
+      },
+      {
+        "text": "Materials",
+        "href": "https://doyuyo.com/en/materials"
+      },
+      {
+        "text": "Our Branches",
+        "href": "https://doyuyo.com/en/branches"
+      },
+      {
+        "text": "Franchising",
+        "href": "https://doyuyo.com/en/investor"
+      }
+    ],
+    "footerNav": [
+      {
+        "text": "About Us",
+        "href": "https://doyuyo.com/en/about-us"
+      },
+      {
+        "text": "Our Flavors",
+        "href": "https://doyuyo.com/en/flavors"
+      },
+      {
+        "text": "Materials",
+        "href": "https://doyuyo.com/en/materials"
+      },
+      {
+        "text": "Our Branches",
+        "href": "https://doyuyo.com/en/branches"
+      },
+      {
+        "text": "Franchising",
+        "href": "https://doyuyo.com/en/investor"
+      },
+      {
+        "text": "Join Us",
+        "href": "https://doyuyo.com/en/human-resources"
+      },
+      {
+        "text": "Our Menus",
+        "href": "https://doyuyo.com/en/menus"
+      },
+      {
+        "text": "Contact",
+        "href": "https://doyuyo.com/en/contact"
+      },
+      {
+        "text": "Personal Data Protection and Processing Policy",
+        "href": "https://doyuyo.com/en/legal-agreement/personal-data-protection-and-processing-policy"
+      },
+      {
+        "text": "Non-Disclosure Agreement",
+        "href": "https://doyuyo.com/en/legal-agreement/non-disclosure-agreement"
+      }
+    ],
+    "social": [
+      "https://www.instagram.com/doyuyotr/",
+      "https://www.youtube.com/channel/UCf4LbiovZtHq8nvw77xLiAQ",
+      "https://twitter.com/doyuyotr/",
+      "https://www.linkedin.com/company/doyuyotr/"
+    ],
+    "copyright": "All rights reserved ©",
+    "cookieText": "This website uses cookies to improve your experience. By continuing, you agree to our use of cookies.",
+    "cookieButton": "Accept",
+    "logo": "https://doyuyo.com/assets/images/logo/colored.svg?v=4",
+    "favicons": [
+      "https://doyuyo.com/frontend/icons/safari-pinned-tab.svg",
+      "https://doyuyo.com/assets/images/favicon/apple-touch-icon.png",
+      "https://doyuyo.com/assets/images/favicon/favicon-32x32.png",
+      "https://doyuyo.com/assets/images/favicon/favicon-16x16.png",
+      "https://doyuyo.com/assets/images/favicon/site.webmanifest",
+      "https://doyuyo.com/assets/images/favicon/safari-pinned-tab.svg"
+    ],
+    "htmlLang": "en",
+    "themeColor": "#ffffff",
+    "orderPlatforms": {
+      "title": "Our online sales channels",
+      "text": "There is no need for a long explanation, Doyuyo is a must-eat! You can taste our gourmet crispy flavors at our fast-casual a la carte and self-service restaurants in different locations across Turkey, and while you wait for your menu, you can have a complete taste experience with starter options from Doyuyo cuisine. Click here to find the nearest Doyuyo restaurants.",
+      "items": [
+        {
+          "name": "Migros Yemek",
+          "href": "https://www.migros.com.tr/yemek/doyuyo-sf-62f",
+          "logo": "https://doyuyo.com/storage/876/Property-1=migros,-Property-2=empty.svg"
+        },
+        {
+          "name": "Yemek Sepeti",
+          "href": "https://yemek.go.link/gLrL7",
+          "logo": "https://doyuyo.com/storage/212/conversions/Yemeksepeti_logo.svg-optimize-213.webp"
+        },
+        {
+          "name": "Getir Yemek",
+          "href": "https://getir.onelink.me/5Bpa/ctjtatfx",
+          "logo": "https://doyuyo.com/storage/411/conversions/gy-logo-1024x238-2-optimize-213.webp"
+        },
+        {
+          "name": "Trendyol",
+          "href": "https://tgo.gl/mealseller_doyuyo",
+          "logo": "https://doyuyo.com/storage/874/conversions/20860151acba44d29636acd2c8e047d5-1-(2)-optimize-213.png"
+        }
+      ],
+      "sourceUrl": "https://doyuyo.com/en/branch/adana-optimum-avm"
+    },
+    "branchFlavors": {
+      "title": "Reach Our Flavors",
+      "text": "You can visit our nearest branch to reach Doyuyo flavors. You can find our branches where you can taste Doyuyo flavors below.",
+      "items": [
+        {
+          "title": "TENDERS FESTIVAL",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/b016a12551466998b1ec0819718c5683.png",
+              "alt": "b016a12551466998b1ec0819718c5683.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Doyuyo!, which introduced Tenders to the fast casual restaurant concept, offers 4 different tenders flavours at Tenders Festival. Tenders are skinless and boneless, made from 100% inner fillet, marinated for 12 hours, coated with crispy coating and fried. For those who have difficulty in choosing between spices, Tenders are available in four different flavors with Original, Cajun, Hot Pepper and Paprika Parmesan.<br><br>Plenty of potatoes, big size drink, ketchup, mayonnaise and 1 gourmet sauce of your choice are also on this tray.",
+              "text": "Doyuyo!, which introduced Tenders to the fast casual restaurant concept, offers 4 different tenders flavours at Tenders Festival. Tenders are skinless and boneless, made from 100% inner fillet, marinated for 12 hours, coated with crispy coating and fried. For those who have difficulty in choosing between spices, Tenders are available in four different flavors with Original, Cajun, Hot Pepper and Paprika Parmesan. Plenty of potatoes, big size drink, ketchup, mayonnaise and 1 gourmet sauce of your choice are also on this tray."
+            }
+          ]
+        },
+        {
+          "title": "CHICKEN BURGER",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/0483be799f460d5d388122761f8ee50b.png",
+              "alt": "0483be799f460d5d388122761f8ee50b.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "One of the things we cannot be modest about is our Chicken Burger!",
+              "text": "One of the things we cannot be modest about is our Chicken Burger!"
+            },
+            {
+              "type": "paragraph",
+              "html": "Chicken Burger, made with 100% inner fillet and crispy fried tenders, is prepared in our homemade Brioche buns. It reaches its perfect taste with special sauces and spices from Doyuyo! cuisine.",
+              "text": "Chicken Burger, made with 100% inner fillet and crispy fried tenders, is prepared in our homemade Brioche buns. It reaches its perfect taste with special sauces and spices from Doyuyo! cuisine."
+            },
+            {
+              "type": "paragraph",
+              "html": "For those who love flavors in sandwich form, we have prepared the double Tenders Royale sandwich with crispy fried chicken in our homemade brioche bun, served with plenty of potatoes, a large drink and gourmet sauce.",
+              "text": "For those who love flavors in sandwich form, we have prepared the double Tenders Royale sandwich with crispy fried chicken in our homemade brioche bun, served with plenty of potatoes, a large drink and gourmet sauce."
+            }
+          ]
+        },
+        {
+          "title": "SPICY FLAVORS",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/fd757cb291bd48577b22e1ad49451de1.png",
+              "alt": "fd757cb291bd48577b22e1ad49451de1.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "This spice is hot, hot spice that multiplies the flavour!",
+              "text": "This spice is hot, hot spice that multiplies the flavour!"
+            },
+            {
+              "type": "paragraph",
+              "html": "If you say you know about hot spice, if you are confident, we challenge you with our spicy menus.",
+              "text": "If you say you know about hot spice, if you are confident, we challenge you with our spicy menus."
+            },
+            {
+              "type": "paragraph",
+              "html": "Our crispy chickens, which we prepare from boneless 100% fillet and flavoured with 6 different spices, are among the Spicy Flavours in the form of burgers, tenders and chickers.",
+              "text": "Our crispy chickens, which we prepare from boneless 100% fillet and flavoured with 6 different spices, are among the Spicy Flavours in the form of burgers, tenders and chickers."
+            }
+          ]
+        },
+        {
+          "title": "CHEESE BURGER",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/4ccfb6449e5ddb2d7add492009142566.png",
+              "alt": "4ccfb6449e5ddb2d7add492009142566.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Doyuyo!'s burgers are prepared in our own kitchen with 100% beef, unfrozen burger patties and our homemade Brioche buns. The essential part of our kitchen is the raw material that does not contain any additives. The burgers are enriched with Doyuyo!'s special sauces and spices, and reach their perfect taste with onion, pickle, greens and optionally sliced cheddar.",
+              "text": "Doyuyo!'s burgers are prepared in our own kitchen with 100% beef, unfrozen burger patties and our homemade Brioche buns. The essential part of our kitchen is the raw material that does not contain any additives. The burgers are enriched with Doyuyo!'s special sauces and spices, and reach their perfect taste with onion, pickle, greens and optionally sliced cheddar."
+            }
+          ]
+        },
+        {
+          "title": "SAUCES",
+          "content": [
+            {
+              "type": "image",
+              "src": "https://doyuyo.com/storage/images/e772e6475bd131b38505c15f4283b49e.png",
+              "alt": "e772e6475bd131b38505c15f4283b49e.png"
+            },
+            {
+              "type": "paragraph",
+              "html": "Doyuyo! prepares its sauces, which are an important complement to the fried chicken flavor, by taking inspiration from different cuisines of the world, and offers flavors that appeal to a wide range of tastes with its sauce and spice mixtures. The R&amp;D studies on these mixtures and the production of all sauce and spice mixtures in the menu are carried out in the facility located in Gebze Şekerpınar, with a closed area of 3,000 m2.",
+              "text": "Doyuyo! prepares its sauces, which are an important complement to the fried chicken flavor, by taking inspiration from different cuisines of the world, and offers flavors that appeal to a wide range of tastes with its sauce and spice mixtures. The R&D studies on these mixtures and the production of all sauce and spice mixtures in the menu are carried out in the facility located in Gebze Şekerpınar, with a closed area of 3,000 m2."
+            }
+          ]
+        }
+      ],
+      "sourceUrl": "https://doyuyo.com/en/branch/adana-optimum-avm"
+    }
+  }
+}

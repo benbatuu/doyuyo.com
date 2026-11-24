@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:17-alpine
+    container_name: doyuyo-db
+    environment:
+      POSTGRES_USER: doyuyo
+      POSTGRES_PASSWORD: doyuyo
+      POSTGRES_DB: doyuyo
+    ports:
+      - "5433:5432"
+    volumes:
+      - doyuyo-db:/var/lib/postgresql/data
+volumes:
+  doyuyo-db:

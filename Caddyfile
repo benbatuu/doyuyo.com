@@ -1,0 +1,13 @@
+www.doyuyo.com {
+	redir https://doyuyo.com{uri} permanent
+}
+
+doyuyo.com {
+	encode zstd gzip
+	reverse_proxy web:3000
+}
+
+admin.doyuyo.com {
+	encode zstd gzip
+	reverse_proxy admin:3000
+}

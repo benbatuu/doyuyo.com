@@ -1,0 +1,253 @@
+{
+  "nav": {
+    "menu": "Menü",
+    "branches": "Şubeler",
+    "order": "Sipariş Ver",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "language": "Dil",
+    "home": "Ana Sayfa",
+    "skip": "İçeriğe geç",
+    "main": "Ana menü"
+  },
+  "common": {
+    "seeAll": "Tümünü gör",
+    "seeMenu": "Menüyü keşfet",
+    "findBranch": "Şube bul",
+    "readMore": "Devamını oku",
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "download": "İndir",
+    "close": "Kapat"
+  },
+  "home": {
+    "categories": "Menüde neler var?",
+    "featured": "Menüden seçmeler",
+    "statBranches": "şube",
+    "statCities": "şehir",
+    "statCountries": "ülke",
+    "orderTitle": "Online sipariş"
+  },
+  "menu": {
+    "items": "{count, plural, one {# ürün} other {# ürün}}",
+    "allergens": "Alerjen ve besin değerleri",
+    "alsoIn": "Bu üründe ayrıca:",
+    "related": "Aynı kategoriden",
+    "orderOn": "Şu kanallardan sipariş verin"
+  },
+  "branches": {
+    "search": "Şube, AVM ya da ilçe ara",
+    "allCities": "Tüm şehirler",
+    "nearMe": "Bana en yakın",
+    "locating": "Konum alınıyor…",
+    "locationDenied": "Konum izni verilmedi.",
+    "openNow": "Şimdi açık",
+    "closedNow": "Şu an kapalı",
+    "today": "Bugün",
+    "directions": "Yol tarifi",
+    "details": "Şube detayı",
+    "hours": "Çalışma saatleri",
+    "address": "Adres",
+    "nearby": "Yakındaki şubeler",
+    "count": "{count, plural, one {# şube} other {# şube}}",
+    "noResults": "Aramanızla eşleşen şube yok.",
+    "kmAway": "{km} km",
+    "mapUnavailable": "Bu şubenin harita konumu henüz yok.",
+    "list": "Liste",
+    "map": "Harita",
+    "more": "Daha fazla göster"
+  },
+  "allergens": {
+    "allergenTable": "Alerjen tablosu",
+    "nutritionTable": "Kalori ve besin değerleri",
+    "product": "Ürün",
+    "energy": "Enerji (kJ / kcal)",
+    "fat": "Yağ (g)",
+    "protein": "Protein (g)",
+    "carbs": "Karbonhidrat (g)",
+    "contains": "içerir",
+    "pdf": "Tablonun PDF hâli",
+    "onProduct": "Alerjen ve besin bilgisi",
+    "fullTable": "Tüm tablo",
+    "singleIntro": "Bu ürün için marka tablosunda işaretli alerjenler:",
+    "comboIntro": "Menüdeki ürünlerin tablodaki alerjenleri birleştirildi. Seçtiğiniz sos ve içecek ayrıca alerjen içerebilir.",
+    "noRow": "Bu ürün için alerjen tablosunda ayrı bir satır yok. Lütfen tüm tabloya veya PDF'e bakın ya da personelimize danışın.",
+    "notContains": "içermez",
+    "per100": "Besin değerleri (100 g / 100 ml)",
+    "kcal": "Enerji (kcal)",
+    "inThisMenu": "Menüdeki ürünler",
+    "none": "İşaretli alerjen yok",
+    "notInTable": "Tabloda satırı yok",
+    "pdfView": "PDF görünümü",
+    "search": "Ürün ara"
+  },
+  "footer": {
+    "explore": "Keşfet",
+    "legal": "Yasal",
+    "contact": "İletişim",
+    "follow": "Takip edin",
+    "cookieSettings": "Çerez tercihleri"
+  },
+  "notFound": {
+    "title": "Bu sayfa menüde yok.",
+    "text": "Aradığınız sayfa taşınmış ya da kaldırılmış olabilir.",
+    "toMenu": "Menüye git",
+    "toBranches": "Şubeleri gör"
+  },
+  "cookie": {
+    "decline": "Reddet"
+  },
+  "forms": {
+    "ui": {
+      "submit": "Gönder",
+      "sending": "Gönderiliyor…",
+      "next": "Devam",
+      "back": "Geri",
+      "stepOf": "Adım {current} / {total}",
+      "required": "Bu alan gerekli.",
+      "invalid": "Lütfen geçerli bir değer girin.",
+      "consent": "Kişisel verilerimin işlenmesine ilişkin",
+      "consentLink": "aydınlatma metnini okudum, onaylıyorum.",
+      "consentRequired": "Devam etmek için onay gerekli.",
+      "successTitle": "Teşekkürler!",
+      "successText": "Mesajınız bize ulaştı. Ekibimiz en kısa sürede sizinle iletişime geçecek.",
+      "error": "Bir sorun oldu. Lütfen tekrar deneyin ya da 444 39 55'i arayın.",
+      "rateLimited": "Çok fazla deneme yapıldı. Lütfen biraz sonra tekrar deneyin.",
+      "again": "Yeni form",
+      "consentAgree": "Okudum, onaylıyorum",
+      "close": "Kapat"
+    },
+    "f": {
+      "name": "İsminiz",
+      "surname": "Soyisminiz",
+      "phone": "Telefon",
+      "email": "E-posta adresiniz",
+      "subject": "İletişime geçmek istediğiniz konu",
+      "message": "Mesajınız",
+      "department": "Başvurulan departman",
+      "city": "Yaşadığınız şehir",
+      "model": "Hangi model ilginizi çekiyor?",
+      "country": "Yatırım yapmak istediğiniz ülke",
+      "province": "İl",
+      "district": "İlçe",
+      "hasLocation": "Hazır bir lokasyonunuz var mı?",
+      "storeSize": "Mağaza metrekare",
+      "budget": "Yatırım için ayırdığınız bütçe (TL)",
+      "timeline": "Ne zaman başlamak istiyorsunuz?",
+      "job": "Mesleğiniz/Güncel olarak yaptığınız iş"
+    },
+    "o": {
+      "subject": {
+        "franchise": "Şubeniz olmak istiyorum",
+        "job": "İş başvurusu yapmak istiyorum",
+        "complaint": "Şikayetim var",
+        "other": "Diğer"
+      },
+      "department": {
+        "general": "Genel Başvuru"
+      },
+      "model": {
+        "franchise": "Bayilik (işletmeyi ben yürütürüm)",
+        "investor_only": "Sadece yatırımcı (PardoFood yönetir)",
+        "master_franchise": "Yurt dışı Master Franchise"
+      },
+      "hasLocation": {
+        "yes": "Evet",
+        "no": "Henüz değil"
+      },
+      "budget": {
+        "lt5": "5 milyon TL altı",
+        "5to10": "5 – 10 milyon TL",
+        "10to20": "10 – 20 milyon TL",
+        "gt20": "20 milyon TL üzeri"
+      },
+      "timeline": {
+        "0-3": "0–3 ay",
+        "3-6": "3–6 ay",
+        "6+": "6 ay ve sonrası"
+      },
+      "country": {
+        "turkiye": "Türkiye"
+      }
+    },
+    "steps": {
+      "investor": {
+        "0": "Sizi tanıyalım",
+        "1": "Yatırım planınız",
+        "2": "Son adım"
+      }
+    },
+    "investorSubmit": "Yatırımcı Ol"
+  },
+  "investor": {
+    "apply": "Başvuru yap",
+    "watch": "Tanıtım filmini izle",
+    "catalog": "PardoFood kataloğu",
+    "statBranches": "aktif şube",
+    "statCities": "şehir",
+    "statCountries": "ülke",
+    "statTarget": "restoran hedefi",
+    "statPartners": "yatırımcı ortak",
+    "statAds": "ay ulusal reklam desteği",
+    "growthTitle": "Şube sayımız",
+    "today": "Bugün",
+    "whyTitle": "Neden Doyuyo!?",
+    "modelsTitle": "Size uygun yatırım modeli",
+    "modelCta": "Bu modelle başvur",
+    "processTitle": "Başvurudan açılışa",
+    "processNote": "Süreç adımları bilgilendirme amaçlıdır; takvim lokasyona göre netleşir.",
+    "steps": [
+      "Başvuru formu",
+      "Ön görüşme",
+      "Lokasyon değerlendirmesi",
+      "Sözleşme",
+      "Kurulum ve eğitim",
+      "Açılış"
+    ],
+    "networkTitle": "Türkiye'den Dubai'ye ağımız",
+    "networkCta": "Tüm şubeleri gör",
+    "groupTitle": "PardoFood ailesi",
+    "formTitle": "Yatırımcı başvuru formu",
+    "formText": "Formu doldurun, yatırım ekibimiz sizinle iletişime geçsin. Bilgileriniz sadece bu değerlendirme için kullanılır.",
+    "callUs": "Hemen arayın",
+    "sticky": "Yatırımcı ol",
+    "gallery": "Restoranlarımızdan"
+  },
+  "contact": {
+    "formTitle": "Bize yazın",
+    "formText": "Soru, öneri ya da şikayetiniz için formu doldurun. Ekibimiz size dönüş yapsın.",
+    "hq": "Genel Müdürlük",
+    "call": "Bizi arayın",
+    "hours": "Çalışma saatleri",
+    "directions": "Yol tarifi al",
+    "quick": "Aradığınız bunlardan biri mi?",
+    "order": "Online sipariş",
+    "follow": "Sosyal medyada Doyuyo!"
+  },
+  "careers": {
+    "formTitle": "Başvuru formu",
+    "formText": "Doyuyo! ailesine katılmak için bilgilerinizi bırakın. Uygun bir pozisyon açıldığında sizinle iletişime geçelim."
+  },
+  "legal": {
+    "contents": "İçindekiler",
+    "print": "Yazdır",
+    "other": "Diğer yasal metinler",
+    "top": "Başa dön"
+  },
+  "story": {
+    "discover": "Menüde gör"
+  },
+  "about": {
+    "eyebrow": "Biz kimiz?",
+    "growthTitle": "Yıllara göre şube sayımız",
+    "storyTitle": "Hikâyemiz",
+    "groupEyebrow": "Üretici ve grup"
+  },
+  "seo": {
+    "branchOf": "Doyuyo! {name} şubesi",
+    "hours": "Çalışma saatleri",
+    "cityBranches": "{city} şehrindeki {count} Doyuyo! şubesinin adresi ve çalışma saatleri:",
+    "allergens": "Doyuyo! menüsündeki ürünlerin alerjen ve besin değerleri (kalori, yağ, protein, karbonhidrat) tablosu.",
+    "productFallback": "Doyuyo! {category} menüsündeki {name}: içerik, alerjen ve besin değerleri."
+  }
+}

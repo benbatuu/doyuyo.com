@@ -1,0 +1,28 @@
+{
+  "name": "doyuyo",
+  "private": true,
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "legacy:crawl": "pnpm --filter @doyuyo/legacy-import crawl",
+    "legacy:parse": "pnpm --filter @doyuyo/legacy-import parse",
+    "legacy:media": "pnpm --filter @doyuyo/legacy-import media",
+    "legacy:report": "pnpm --filter @doyuyo/legacy-import report",
+    "legacy:all": "pnpm --filter @doyuyo/legacy-import all",
+    "dev": "turbo run dev --filter=@doyuyo/web --filter=@doyuyo/admin",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "db:up": "docker compose up -d db",
+    "db:push": "pnpm --filter @doyuyo/infrastructure db:push",
+    "db:migrate": "pnpm --filter @doyuyo/infrastructure db:migrate",
+    "check:env": "node scripts/check-env.mjs",
+    "db:seed": "pnpm --filter @doyuyo/infrastructure db:seed",
+    "media:link": "node scripts/link-media.mjs",
+    "check:arch": "node scripts/check-architecture.mjs",
+    "seo:audit": "node scripts/seo-audit.mjs",
+    "seo:indexnow": "node scripts/indexnow.mjs"
+  },
+  "devDependencies": {
+    "turbo": "^2",
+    "typescript": "^5"
+  }
+}

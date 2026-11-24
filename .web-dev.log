@@ -1,0 +1,51 @@
+
+> @doyuyo/web@ predev /Users/bennbatuu/Desktop/fast-food/doyuyo/apps/web
+> node scripts/copy-vendor.mjs
+
+maplibre worker copied
+
+> @doyuyo/web@ dev /Users/bennbatuu/Desktop/fast-food/doyuyo/apps/web
+> next dev --port 3000
+
+▲ Next.js 16.4.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.5:3000
+- Environments: .env.local
+✓ Ready in 227ms
+✓ Running next.config.ts took 30ms
+
+✓ Generated AGENTS.md for AI agents. Set `agentRules: false` in next.config to disable.
+ GET /tr 200 in 1188ms (next.js: 550ms, proxy.ts: 89ms, generate-params: 193ms, application-code: 357ms)
+ GET /tr 200 in 178ms (next.js: 3ms, proxy.ts: 4ms, generate-params: 1.6ms, application-code: 169ms)
+ GET /tr/bakim 200 in 452ms (next.js: 226ms, proxy.ts: 3ms, generate-params: 193ms, application-code: 29ms)
+ GET /tr 200 in 162ms (next.js: 3ms, proxy.ts: 1.9ms, generate-params: 1.4ms, application-code: 156ms)
+ GET /tr/bakim 200 in 69ms (next.js: 38ms, proxy.ts: 3ms, generate-params: 1.6ms, application-code: 26ms)
+ GET /tr 200 in 173ms (next.js: 12ms, proxy.ts: 1.8ms, generate-params: 1.3ms, application-code: 158ms)
+ GET /manifest.webmanifest 200 in 33ms (next.js: 21ms, application-code: 12ms)
+✓ Compiled in 57ms
+ GET /tr 200 in 239ms (next.js: 41ms, proxy.ts: 71ms, generate-params: 2ms, application-code: 125ms)
+ GET /manifest.webmanifest 200 in 4ms (next.js: 0.7ms, application-code: 3ms)
+ GET /tr 200 in 345ms (next.js: 7ms, proxy.ts: 4ms, generate-params: 2ms, application-code: 331ms)
+ GET /manifest.webmanifest 200 in 5ms (next.js: 0.6ms, application-code: 5ms)
+ GET /manifest.webmanifest 200 in 5ms (next.js: 0.9ms, application-code: 4ms)
+✓ Compiled in 74ms
+✓ Compiled in 83ms
+ GET /tr 200 in 136ms (next.js: 33ms, proxy.ts: 3ms, generate-params: 1.8ms, application-code: 98ms)
+ GET /manifest.webmanifest 200 in 3ms (next.js: 0.5ms, application-code: 3ms)
+ GET /tr 200 in 351ms (next.js: 6ms, proxy.ts: 5ms, generate-params: 3ms, application-code: 338ms)
+ GET /manifest.webmanifest 200 in 3ms (next.js: 0.5ms, application-code: 3ms)
+ GET /tr 200 in 203ms (next.js: 3ms, proxy.ts: 3ms, generate-params: 1.8ms, application-code: 196ms)
+ GET /manifest.webmanifest 200 in 5ms (next.js: 0.7ms, application-code: 4ms)
+ GET /tr 200 in 283ms (next.js: 10ms, proxy.ts: 7ms, generate-params: 3ms, application-code: 262ms)
+ GET /manifest.webmanifest 200 in 5ms (next.js: 0.4ms, application-code: 5ms)
+ GET /manifest.webmanifest 200 in 8ms (next.js: 2ms, application-code: 5ms)
+✓ Compiled in 140ms
+ GET /tr 200 in 240ms (next.js: 24ms, proxy.ts: 56ms, generate-params: 3ms, application-code: 157ms)
+ GET /manifest.webmanifest 200 in 3ms (next.js: 0.5ms, application-code: 3ms)
+ GET /tr 200 in 287ms (next.js: 10ms, proxy.ts: 6ms, generate-params: 3ms, application-code: 267ms)
+ GET /tr 200 in 223ms (next.js: 2ms, proxy.ts: 2ms, generate-params: 1.5ms, application-code: 217ms)
+ GET /tr 200 in 232ms (next.js: 10ms, proxy.ts: 10ms, generate-params: 3ms, application-code: 209ms)
+ GET /tr 200 in 205ms (next.js: 2ms, proxy.ts: 2ms, generate-params: 1.4ms, application-code: 199ms)
+ GET /tr 200 in 330ms (next.js: 11ms, proxy.ts: 13ms, generate-params: 0.0ms, application-code: 306ms)
+ GET /tr 200 in 237ms (next.js: 4ms, proxy.ts: 3ms, generate-params: 3ms, application-code: 227ms)
+ GET /tr 200 in 246ms (next.js: 5ms, proxy.ts: 4ms, generate-params: 3ms, application-code: 235ms)

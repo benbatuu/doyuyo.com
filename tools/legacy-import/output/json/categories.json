@@ -1,0 +1,504 @@
+[
+  {
+    "id": "baslangiclar",
+    "order": 1,
+    "image": "https://doyuyo.com/storage/305/conversions/baslangic-menuleri-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "soslu-patates-cheddar-ilaveli",
+      "chickers-sepeti",
+      "soslu-patates",
+      "patates",
+      "pesto-cheddar-fusilli",
+      "baslangic-sepeti",
+      "aci-tatli-chickers-patates",
+      "mozzarella-sticks"
+    ],
+    "translations": {
+      "tr": {
+        "name": "BAŞLANGIÇLAR",
+        "slug": "baslangiclar",
+        "url": "https://doyuyo.com/menuler/baslangiclar",
+        "description": "Yemeğinize lezzetli bir başlangıç yapın! Çıtır soğan halkaları, baharatlı patates kızartmaları ve nefis çıtır tavuk parçalarıyla doyurucu bir başlangıç deneyimi sizi bekliyor.",
+        "meta": {
+          "title": "Menü - Başlangıç Menüleri | Doyuyo! Menü",
+          "description": "Başlangıç menülerimizle lezzet yolculuğunuza eşsiz bir başlangıç yapın. Mozzarella sticks ve soslu patates gibi favoriler sizi bekliyor.",
+          "canonical": "https://doyuyo.com/menuler/baslangiclar",
+          "ogTitle": "Menü - Başlangıç Menüleri | Doyuyo! Menü",
+          "ogDescription": "Başlangıç menülerimizle lezzet yolculuğunuza eşsiz bir başlangıç yapın. Mozzarella sticks ve soslu patates gibi favoriler sizi bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/baslangiclar",
+            "tr": "https://doyuyo.com/menuler/baslangiclar",
+            "en": "https://doyuyo.com/en/our-menus/starters"
+          }
+        }
+      },
+      "en": {
+        "name": "STARTERS",
+        "slug": "starters",
+        "url": "https://doyuyo.com/en/our-menus/starters",
+        "description": "Get your meal off to a delicious start! A satisfying starter experience awaits you with crispy onion rings, spicy fries and delicious crispy chicken pieces.",
+        "meta": {
+          "title": "Menu - Starters Menu | Doyuyo! Menu",
+          "description": "Start your flavor journey with our starters menu. Favorites like mozzarella sticks and cheesy fries await you!",
+          "canonical": "https://doyuyo.com/en/our-menus/starters",
+          "ogTitle": "Menu - Starters Menu | Doyuyo! Menu",
+          "ogDescription": "Start your flavor journey with our starters menu. Favorites like mozzarella sticks and cheesy fries await you!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/baslangiclar",
+            "tr": "https://doyuyo.com/menuler/baslangiclar",
+            "en": "https://doyuyo.com/en/our-menus/starters"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "doyasiya-citir-combo",
+    "order": 2,
+    "image": "https://doyuyo.com/storage/307/conversions/doyasiya-citir-combo-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "friends-combo",
+      "doyuyo-galactic",
+      "tenders-festival",
+      "deluxe-burger-combo",
+      "cheeseburger-festival",
+      "cajun-combo",
+      "acisever-combo"
+    ],
+    "translations": {
+      "tr": {
+        "name": "DOYASIYA ÇITIR COMBO",
+        "slug": "doyasiya-citir-combo",
+        "url": "https://doyuyo.com/menuler/doyasiya-citir-combo",
+        "description": "Doyuyo’nun en doyurucu seçkisi burada! Çıtır tavukların nefis uyumuna; yanında gelen doyurucu eşlikçiler katılıyor ve lezzet deneyimini tamamlıyor. Combo Menüler, acıktığın her an seni mutlu etmeye hazır!",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo - Doyasıya Çıtır Combo Menüleri | Doyuyo! Menü",
+          "description": "Doyuyo Çıtır Combo menüleri, paylaşması keyifli çıtır tavuk seçenekleri sunuyor. Restoranlarımızda doyurucu lezzetleri keşfedin.",
+          "canonical": "https://doyuyo.com/menuler/doyasiya-citir-combo",
+          "ogTitle": "Doyuyo Çıtır Combo - Doyasıya Çıtır Combo Menüleri | Doyuyo! Menü",
+          "ogDescription": "Doyuyo Çıtır Combo menüleri, paylaşması keyifli çıtır tavuk seçenekleri sunuyor. Restoranlarımızda doyurucu lezzetleri keşfedin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/doyasiya-citir-combo",
+            "tr": "https://doyuyo.com/menuler/doyasiya-citir-combo",
+            "en": "https://doyuyo.com/en/our-menus/doyuyo-fulfilling-crispy-combo"
+          }
+        }
+      },
+      "en": {
+        "name": "FULL-ON CRISPY COMBO",
+        "slug": "doyuyo-fulfilling-crispy-combo",
+        "url": "https://doyuyo.com/en/our-menus/doyuyo-fulfilling-crispy-combo",
+        "description": "Doyuyo's most satisfying selection is here! The delicious combination of crispy chicken and the hearty accompaniments complete the flavor experience. Combo Menus are ready to satisfy you whenever you're hungry!",
+        "meta": {
+          "title": "Fulfilling Crispy Combo - Delicious Crispy Chicken Combo Menus | Doyuyo! Menu",
+          "description": "Doyuyo Crispy Combo menus offer sharable and satisfying crispy chicken options. Discover these delicious offerings at our restaurants!",
+          "canonical": "https://doyuyo.com/en/our-menus/doyuyo-fulfilling-crispy-combo",
+          "ogTitle": "Fulfilling Crispy Combo - Delicious Crispy Chicken Combo Menus | Doyuyo! Menu",
+          "ogDescription": "Doyuyo Crispy Combo menus offer sharable and satisfying crispy chicken options. Discover these delicious offerings at our restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/doyasiya-citir-combo",
+            "tr": "https://doyuyo.com/menuler/doyasiya-citir-combo",
+            "en": "https://doyuyo.com/en/our-menus/doyuyo-fulfilling-crispy-combo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "acisever",
+    "order": 3,
+    "image": "https://doyuyo.com/storage/309/conversions/1-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "acisever-combo",
+      "acili-tenders",
+      "acili-cheese-sandwich-x2",
+      "spicy-wings-6-li",
+      "spicy-wings-9-lu"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ACISEVER",
+        "slug": "acisever",
+        "url": "https://doyuyo.com/menuler/acisever",
+        "description": "Bu acı tatlı acı! Lezzeti katlayan acı! Acıdan anlarım diyorsan, kendine güveniyorsan, sana acısever menülerle meydan okuyoruz!",
+        "meta": {
+          "title": "Acısever - Acısever Menüleri | Doyuyo! Menü",
+          "description": "Acılı dokunuşlarla hazırlanan Acısever menülerimizle çıtır tavuk keyfini zirveye taşıyın. Restoranlarımızda sizi bekliyor.",
+          "canonical": "https://doyuyo.com/menuler/acisever",
+          "ogTitle": "Acısever - Acısever Menüleri | Doyuyo! Menü",
+          "ogDescription": "Acılı dokunuşlarla hazırlanan Acısever menülerimizle çıtır tavuk keyfini zirveye taşıyın. Restoranlarımızda sizi bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/acisever",
+            "tr": "https://doyuyo.com/menuler/acisever",
+            "en": "https://doyuyo.com/en/our-menus/spice-lovers"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICE LOVERS",
+        "slug": "spice-lovers",
+        "url": "https://doyuyo.com/en/our-menus/spice-lovers",
+        "description": "This bittersweet bitter! The bitter that doubles the flavor! If you say you know about bitterness, if you are confident, we challenge you with spicy menus!",
+        "meta": {
+          "title": "Spice Lovers - Best Spicy Tenders | Doyuyo! Menu",
+          "description": "Elevate your crispy chicken experience with our Spicy Lovers menus, crafted with bold and flavorful touches. Visit our restaurants today!",
+          "canonical": "https://doyuyo.com/en/our-menus/spice-lovers",
+          "ogTitle": "Spice Lovers - Best Spicy Tenders | Doyuyo! Menu",
+          "ogDescription": "Elevate your crispy chicken experience with our Spicy Lovers menus, crafted with bold and flavorful touches. Visit our restaurants today!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/acisever",
+            "tr": "https://doyuyo.com/menuler/acisever",
+            "en": "https://doyuyo.com/en/our-menus/spice-lovers"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "tenders",
+    "order": 4,
+    "image": "https://doyuyo.com/storage/442/conversions/Tenders-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "tenders-festival-2",
+      "cajun-tenders",
+      "paprika-parmesan-tenders",
+      "original-tenders"
+    ],
+    "translations": {
+      "tr": {
+        "name": "TENDERS",
+        "slug": "tenders",
+        "url": "https://doyuyo.com/menuler/tenders",
+        "description": "Doyuyo’nun alamet-i farikası, o bir kızarmış tavuk efsanesi. 12 saat marine edilmiş %100 baby filetolardan hazırlanıp çıtır çıtır kızartılmış tenders 4 ayrı lezzetiyle sadece Doyuyo’da!",
+        "meta": {
+          "title": "Tenders - Tenders Menüleri | Doyuyo! Menü",
+          "description": "Paprika parmesan, cajun gibi baharatlarla hazırlanan tenders menülerimizle çıtır tavuk keyfini yaşayın. Restoranlarımızda tadın!",
+          "canonical": "https://doyuyo.com/menuler/tenders",
+          "ogTitle": "Tenders - Tenders Menüleri | Doyuyo! Menü",
+          "ogDescription": "Paprika parmesan, cajun gibi baharatlarla hazırlanan tenders menülerimizle çıtır tavuk keyfini yaşayın. Restoranlarımızda tadın!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/tenders",
+            "tr": "https://doyuyo.com/menuler/tenders",
+            "en": "https://doyuyo.com/en/our-menus/tenders"
+          }
+        }
+      },
+      "en": {
+        "name": "TENDERS",
+        "slug": "tenders",
+        "url": "https://doyuyo.com/en/our-menus/tenders",
+        "description": "The trademark of Doyuyo is a fried chicken legend. Prepared from 100% baby fillets marinated for 12 hours and fried crispy, tenders are only available at Doyuyo with 4 different flavors!",
+        "meta": {
+          "title": "Tenders - Tenders Menus | Doyuyo! Menu",
+          "description": "Enjoy crispy chicken with our Tenders menus, enriched with paprika parmesan, cajun spices, and more. Taste them at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/our-menus/tenders",
+          "ogTitle": "Tenders - Tenders Menus | Doyuyo! Menu",
+          "ogDescription": "Enjoy crispy chicken with our Tenders menus, enriched with paprika parmesan, cajun spices, and more. Taste them at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/tenders",
+            "tr": "https://doyuyo.com/menuler/tenders",
+            "en": "https://doyuyo.com/en/our-menus/tenders"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "spicywings",
+    "order": 5,
+    "image": "https://doyuyo.com/storage/444/conversions/Spicy_Wings-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "wings-of-friend",
+      "cosmo-wings",
+      "spicy-wings-6-pieces",
+      "spicy-wings-9-lu"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SPICY WINGS",
+        "slug": "spicywings",
+        "url": "https://doyuyo.com/menuler/spicywings",
+        "description": "Onu daha önce hiç böyle görmedin! Kendine has eşsiz baharatı, dışı çıtır çıtır, içi dolgun tavuğuyla Doyuyo Spicy Wings seni bekliyor!",
+        "meta": {
+          "title": "SPICY WINGS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menuler/spicywings",
+          "ogTitle": "SPICY WINGS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/spicywings",
+            "tr": "https://doyuyo.com/menuler/spicywings",
+            "en": "https://doyuyo.com/en/our-menus/spicywings"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY WINGS",
+        "slug": "spicywings",
+        "url": "https://doyuyo.com/en/our-menus/spicywings",
+        "description": "You've never seen it like this before! With its unique spice, crispy outside and plump inside chicken, Doyuyo Spicy Wings is waiting for you!",
+        "meta": {
+          "title": "SPICY WINGS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/our-menus/spicywings",
+          "ogTitle": "SPICY WINGS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/spicywings",
+            "tr": "https://doyuyo.com/menuler/spicywings",
+            "en": "https://doyuyo.com/en/our-menus/spicywings"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "chicken-burger",
+    "order": 6,
+    "image": "https://doyuyo.com/storage/446/conversions/Chicken_Burger-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "cheese-tenders-royale",
+      "tenders-royale",
+      "double-cheese-chicken-burger",
+      "cheese-chicken-burger",
+      "acili-cheese-chicken-burger",
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHICKEN BURGER",
+        "slug": "chicken-burger",
+        "url": "https://doyuyo.com/menuler/chicken-burger",
+        "description": "Isırdığın anda çıtırtısıyla başını döndüren o burger, işte bu burger! Ekmeğinden sosuna Doyuyo mutfağından çıkan nefis Chicken Burger!",
+        "meta": {
+          "title": "Chicken Burger - Chicken Burger Menüleri | Doyuyo! Menü",
+          "description": "Tavuk severler için özel olarak hazırlanan Chicken Burger menülerimizle çıtır tavuk lezzetlerini keşfedin. Doyuyo’da sizi bekliyor.",
+          "canonical": "https://doyuyo.com/menuler/chicken-burger",
+          "ogTitle": "Chicken Burger - Chicken Burger Menüleri | Doyuyo! Menü",
+          "ogDescription": "Tavuk severler için özel olarak hazırlanan Chicken Burger menülerimizle çıtır tavuk lezzetlerini keşfedin. Doyuyo’da sizi bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/chicken-burger",
+            "tr": "https://doyuyo.com/menuler/chicken-burger",
+            "en": "https://doyuyo.com/en/our-menus/chicken-burger"
+          }
+        }
+      },
+      "en": {
+        "name": "CHICKEN BURGER",
+        "slug": "chicken-burger",
+        "url": "https://doyuyo.com/en/our-menus/chicken-burger",
+        "description": "That burger that makes you dizzy with its crunch when you bite into it, this is it! From its bread to its sauce, the delicious Chicken Burger from Doyuyo kitchen!",
+        "meta": {
+          "title": "Chicken Burgers - Chicken Burgers Menus | Doyuyo! Menu",
+          "description": "Specially crafted for chicken lovers, discover crispy chicken flavors with our Chicken Burger menus at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/our-menus/chicken-burger",
+          "ogTitle": "Chicken Burgers - Chicken Burgers Menus | Doyuyo! Menu",
+          "ogDescription": "Specially crafted for chicken lovers, discover crispy chicken flavors with our Chicken Burger menus at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/chicken-burger",
+            "tr": "https://doyuyo.com/menuler/chicken-burger",
+            "en": "https://doyuyo.com/en/our-menus/chicken-burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "burger",
+    "order": 7,
+    "image": "https://doyuyo.com/storage/448/conversions/Burger-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "deluxe-burger-combo",
+      "deluxe-burger",
+      "cheeseburger-festival",
+      "double-cheese-burger",
+      "cheese-burger",
+      "hamburger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "BURGER",
+        "slug": "burger",
+        "url": "https://doyuyo.com/menuler/burger",
+        "description": "Doyuyo mutfağında hazırlanan nefis köftesi, yumuşacık ekmeği ve lezzetini çeşitlendiren efsane sosları ile et severler için Doyuyo’dan Burger!",
+        "meta": {
+          "title": "Burger - Burger Menüleri | Doyuyo! Menü",
+          "description": "Doyuyo burger menüleri, %100 dana eti ve katkısız Brioche ekmeğiyle hazırlanır. Özel soslar ve taze malzemelerle lezzeti doruklarda yaşayın!",
+          "canonical": "https://doyuyo.com/menuler/burger",
+          "ogTitle": "Burger - Burger Menüleri | Doyuyo! Menü",
+          "ogDescription": "Doyuyo burger menüleri, %100 dana eti ve katkısız Brioche ekmeğiyle hazırlanır. Özel soslar ve taze malzemelerle lezzeti doruklarda yaşayın!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/burger",
+            "tr": "https://doyuyo.com/menuler/burger",
+            "en": "https://doyuyo.com/en/our-menus/burger"
+          }
+        }
+      },
+      "en": {
+        "name": "BURGER",
+        "slug": "burger",
+        "url": "https://doyuyo.com/en/our-menus/burger",
+        "description": "Burger from Doyuyo for meat lovers with its delicious meatballs prepared in the Doyuyo kitchen, its soft bread and legendary sauces that diversify its flavor!",
+        "meta": {
+          "title": "Burgers - Burgers Menus | Doyuyo! Menu",
+          "description": "Doyuyo burger menus are made with 100% beef patties and preservative-free brioche buns. Enjoy fresh ingredients and signature sauces!",
+          "canonical": "https://doyuyo.com/en/our-menus/burger",
+          "ogTitle": "Burgers - Burgers Menus | Doyuyo! Menu",
+          "ogDescription": "Doyuyo burger menus are made with 100% beef patties and preservative-free brioche buns. Enjoy fresh ingredients and signature sauces!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/burger",
+            "tr": "https://doyuyo.com/menuler/burger",
+            "en": "https://doyuyo.com/en/our-menus/burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "limonatalar",
+    "order": 8,
+    "image": "https://doyuyo.com/storage/430/conversions/ic%CC%A7ecekler-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "cilekli-limonata",
+      "limonata",
+      "berry-hibiscus-limonata"
+    ],
+    "translations": {
+      "tr": {
+        "name": "LİMONATALAR",
+        "slug": "limonatalar",
+        "url": "https://doyuyo.com/menuler/limonatalar",
+        "description": "Ferahlığı tam yerinde, tadı aklında kalacak serinlik! Özenle hazırlanan, ev yapımı Doyuyo limonataları, yemeğine taze bir dokunuş katarak her yudumda ferahlatıyor.",
+        "meta": {
+          "title": "İçecekler - İçecekler | Doyuyo! Menü",
+          "description": "Çıtır tavuk keyfinize eşlik edecek serinletici içecekler. Pepsi, ayran ve daha fazlası Doyuyo restoranlarında sizi bekliyor!",
+          "canonical": "https://doyuyo.com/menuler/limonatalar",
+          "ogTitle": "İçecekler - İçecekler | Doyuyo! Menü",
+          "ogDescription": "Çıtır tavuk keyfinize eşlik edecek serinletici içecekler. Pepsi, ayran ve daha fazlası Doyuyo restoranlarında sizi bekliyor!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/limonatalar",
+            "tr": "https://doyuyo.com/menuler/limonatalar",
+            "en": "https://doyuyo.com/en/our-menus/lemonades"
+          }
+        }
+      },
+      "en": {
+        "name": "LEMONADES",
+        "slug": "lemonades",
+        "url": "https://doyuyo.com/en/our-menus/lemonades",
+        "description": "The freshness is just right, the taste you'll never forget! Doyuyo's carefully prepared, homemade lemonades add a fresh touch to your meal, refreshing you with every sip.",
+        "meta": {
+          "title": "Drinks - Drinks | Doyuyo! Menu",
+          "description": "Complement your crispy chicken with refreshing drinks like Pepsi, ayran, and more, available at Doyuyo restaurants!",
+          "canonical": "https://doyuyo.com/en/our-menus/lemonades",
+          "ogTitle": "Drinks - Drinks | Doyuyo! Menu",
+          "ogDescription": "Complement your crispy chicken with refreshing drinks like Pepsi, ayran, and more, available at Doyuyo restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/limonatalar",
+            "tr": "https://doyuyo.com/menuler/limonatalar",
+            "en": "https://doyuyo.com/en/our-menus/lemonades"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "gurme-soslar",
+    "order": 9,
+    "image": "https://doyuyo.com/storage/749/conversions/sos-slogan-1080x1080-middle.webp",
+    "banner": "https://doyuyo.com/storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "productIds": [
+      "sriracha-mayo",
+      "smoked-sweet-chili",
+      "sarimsakli-mayonez",
+      "chefs-sambal",
+      "red-dragon",
+      "ranch",
+      "original-cheddar",
+      "balli-hardal",
+      "bbq"
+    ],
+    "translations": {
+      "tr": {
+        "name": "GURME SOSLAR",
+        "slug": "gurme-soslar",
+        "url": "https://doyuyo.com/menuler/gurme-soslar",
+        "description": "Lezzeti bir üst seviyeye taşıyan özel gurme soslar burada! Her lokmayı zenginleştiren, Doyuyo mutfağının benzersiz tariflerinden oluşan gurme soslarla tadına doyulmaz bir deneyim seni bekliyor!",
+        "meta": {
+          "title": "Soslar • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menuler/gurme-soslar",
+          "ogTitle": "Soslar • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/gurme-soslar",
+            "tr": "https://doyuyo.com/menuler/gurme-soslar",
+            "en": "https://doyuyo.com/en/our-menus/gourmet-sauces"
+          }
+        }
+      },
+      "en": {
+        "name": "GOURMET SAUCES",
+        "slug": "gourmet-sauces",
+        "url": "https://doyuyo.com/en/our-menus/gourmet-sauces",
+        "description": "Special gourmet sauces that take flavor to the next level are here! An unforgettable experience awaits you with gourmet sauces created from unique recipes from the Doyuyo cuisine, enriching every bite!",
+        "meta": {
+          "title": "Soslar • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/our-menus/gourmet-sauces",
+          "ogTitle": "Soslar • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menuler/gurme-soslar",
+            "tr": "https://doyuyo.com/menuler/gurme-soslar",
+            "en": "https://doyuyo.com/en/our-menus/gourmet-sauces"
+          }
+        }
+      }
+    }
+  }
+]

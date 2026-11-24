@@ -1,0 +1,9 @@
+**/node_modules
+**/.next
+.git
+.env
+.env.*
+!.env.example
+tools/legacy-import/output/raw
+tools/legacy-import/output/media
+*.log

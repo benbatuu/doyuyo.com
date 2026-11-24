@@ -1,0 +1,253 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "branches": "Branches",
+    "order": "Order Now",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "home": "Home",
+    "skip": "Skip to content",
+    "main": "Main menu"
+  },
+  "common": {
+    "seeAll": "See all",
+    "seeMenu": "Explore the menu",
+    "findBranch": "Find a branch",
+    "readMore": "Read more",
+    "previous": "Previous",
+    "next": "Next",
+    "download": "Download",
+    "close": "Close"
+  },
+  "home": {
+    "categories": "What's on the menu?",
+    "featured": "Picks from the menu",
+    "statBranches": "branches",
+    "statCities": "cities",
+    "statCountries": "countries",
+    "orderTitle": "Order online"
+  },
+  "menu": {
+    "items": "{count, plural, one {# item} other {# items}}",
+    "allergens": "Allergens and nutrition",
+    "alsoIn": "Also listed in:",
+    "related": "From the same category",
+    "orderOn": "Order through"
+  },
+  "branches": {
+    "search": "Search branch, mall or district",
+    "allCities": "All cities",
+    "nearMe": "Nearest to me",
+    "locating": "Getting your location…",
+    "locationDenied": "Location permission was not given.",
+    "openNow": "Open now",
+    "closedNow": "Closed now",
+    "today": "Today",
+    "directions": "Directions",
+    "details": "Branch details",
+    "hours": "Opening hours",
+    "address": "Address",
+    "nearby": "Nearby branches",
+    "count": "{count, plural, one {# branch} other {# branches}}",
+    "noResults": "No branch matches your search.",
+    "kmAway": "{km} km",
+    "mapUnavailable": "No map location for this branch yet.",
+    "list": "List",
+    "map": "Map",
+    "more": "Show more"
+  },
+  "allergens": {
+    "allergenTable": "Allergen table",
+    "nutritionTable": "Calories and nutrition",
+    "product": "Product",
+    "energy": "Energy (kJ / kcal)",
+    "fat": "Fat (g)",
+    "protein": "Protein (g)",
+    "carbs": "Carbohydrate (g)",
+    "contains": "contains",
+    "pdf": "Table as PDF",
+    "onProduct": "Allergens and nutrition",
+    "fullTable": "Full table",
+    "singleIntro": "Allergens marked for this product in the brand's table:",
+    "comboIntro": "Allergens of the items in this menu, combined from the table. Your choice of sauce and drink may add more.",
+    "noRow": "The allergen table has no separate row for this product. Please check the full table or PDF, or ask our staff.",
+    "notContains": "does not contain",
+    "per100": "Nutrition (per 100 g / 100 ml)",
+    "kcal": "Energy (kcal)",
+    "inThisMenu": "Items in this menu",
+    "none": "No allergen marked",
+    "notInTable": "Not in the table",
+    "pdfView": "PDF view",
+    "search": "Search product"
+  },
+  "footer": {
+    "explore": "Explore",
+    "legal": "Legal",
+    "contact": "Contact",
+    "follow": "Follow us",
+    "cookieSettings": "Cookie settings"
+  },
+  "notFound": {
+    "title": "This page is not on the menu.",
+    "text": "The page you are looking for may have moved or been removed.",
+    "toMenu": "Go to the menu",
+    "toBranches": "See branches"
+  },
+  "cookie": {
+    "decline": "Decline"
+  },
+  "forms": {
+    "ui": {
+      "submit": "Send",
+      "sending": "Sending…",
+      "next": "Continue",
+      "back": "Back",
+      "stepOf": "Step {current} / {total}",
+      "required": "This field is required.",
+      "invalid": "Please enter a valid value.",
+      "consent": "I have read and accept the",
+      "consentLink": "privacy notice on processing my personal data.",
+      "consentRequired": "Please confirm to continue.",
+      "successTitle": "Thank you!",
+      "successText": "Your message has reached us. Our team will contact you shortly.",
+      "error": "Something went wrong. Please try again or call 444 39 55.",
+      "rateLimited": "Too many attempts. Please try again a bit later.",
+      "again": "New form",
+      "consentAgree": "I have read it, I agree",
+      "close": "Close"
+    },
+    "f": {
+      "name": "Name",
+      "surname": "Surname",
+      "phone": "Phone",
+      "email": "Your e-mail address",
+      "subject": "Subject",
+      "message": "Your message",
+      "department": "Department",
+      "city": "City you live in",
+      "model": "Which model interests you?",
+      "country": "Country you want to invest in",
+      "province": "Province",
+      "district": "District",
+      "hasLocation": "Do you have a location?",
+      "storeSize": "Store square meters",
+      "budget": "Budget allocated for investment (TL)",
+      "timeline": "When would you like to start?",
+      "job": "Your profession / current job"
+    },
+    "o": {
+      "subject": {
+        "franchise": "I want to open a branch",
+        "job": "I want to apply for a job",
+        "complaint": "I have a complaint",
+        "other": "Other"
+      },
+      "department": {
+        "general": "General application"
+      },
+      "model": {
+        "franchise": "Franchise (I run the restaurant)",
+        "investor_only": "Investor only (PardoFood runs it)",
+        "master_franchise": "Master franchise abroad"
+      },
+      "hasLocation": {
+        "yes": "Yes",
+        "no": "Not yet"
+      },
+      "budget": {
+        "lt5": "Under 5 million TL",
+        "5to10": "5 – 10 million TL",
+        "10to20": "10 – 20 million TL",
+        "gt20": "Over 20 million TL"
+      },
+      "timeline": {
+        "0-3": "0–3 months",
+        "3-6": "3–6 months",
+        "6+": "6+ months"
+      },
+      "country": {
+        "turkiye": "Turkey"
+      }
+    },
+    "steps": {
+      "investor": {
+        "0": "About you",
+        "1": "Your investment plan",
+        "2": "Last step"
+      }
+    },
+    "investorSubmit": "Franchising"
+  },
+  "investor": {
+    "apply": "Apply now",
+    "watch": "Watch the film",
+    "catalog": "PardoFood catalogue",
+    "statBranches": "active branches",
+    "statCities": "cities",
+    "statCountries": "countries",
+    "statTarget": "restaurant target",
+    "statPartners": "investor partners",
+    "statAds": "months of national advertising",
+    "growthTitle": "Number of branches",
+    "today": "Today",
+    "whyTitle": "Why Doyuyo!?",
+    "modelsTitle": "Pick your investment model",
+    "modelCta": "Apply with this model",
+    "processTitle": "From application to opening",
+    "processNote": "Steps are for guidance; the timeline depends on the location.",
+    "steps": [
+      "Application form",
+      "First meeting",
+      "Location review",
+      "Agreement",
+      "Set-up and training",
+      "Opening"
+    ],
+    "networkTitle": "Our network, from Türkiye to Dubai",
+    "networkCta": "See all branches",
+    "groupTitle": "The PardoFood family",
+    "formTitle": "Investor application",
+    "formText": "Fill in the form and our investment team will get in touch. Your details are used only for this review.",
+    "callUs": "Call us",
+    "sticky": "Become an investor",
+    "gallery": "From our restaurants"
+  },
+  "contact": {
+    "formTitle": "Write to us",
+    "formText": "Fill in the form for questions, suggestions or complaints. Our team will get back to you.",
+    "hq": "Head office",
+    "call": "Call us",
+    "hours": "Opening hours",
+    "directions": "Get directions",
+    "quick": "Looking for one of these?",
+    "order": "Order online",
+    "follow": "Doyuyo! on social media"
+  },
+  "careers": {
+    "formTitle": "Application form",
+    "formText": "Leave your details to join the Doyuyo! family. We will contact you when a matching position opens."
+  },
+  "legal": {
+    "contents": "Contents",
+    "print": "Print",
+    "other": "Other legal texts",
+    "top": "Back to top"
+  },
+  "story": {
+    "discover": "See on the menu"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "growthTitle": "Our branches by year",
+    "storyTitle": "Our story",
+    "groupEyebrow": "Producer and group"
+  },
+  "seo": {
+    "branchOf": "Doyuyo! {name} branch",
+    "hours": "Opening hours",
+    "cityBranches": "Address and opening hours of the {count} Doyuyo! branches in {city}:",
+    "allergens": "Allergen and nutrition table (calories, fat, protein, carbohydrate) for the Doyuyo! menu.",
+    "productFallback": "{name} from the Doyuyo! {category} menu: ingredients, allergens and nutrition values."
+  }
+}

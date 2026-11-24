@@ -1,0 +1,2994 @@
+[
+  {
+    "id": "soslu-patates-cheddar-ilaveli",
+    "image": "https://doyuyo.com/storage/751/Web_2508x2508px-filigranSOSLU-CH.webp",
+    "cardImage": "https://doyuyo.com/storage/751/conversions/Web_2508x2508px-filigranSOSLU-CH-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SOSLU PATATES CHEDDAR İLAVELİ",
+        "slug": "soslu-patates-cheddar-ilaveli",
+        "url": "https://doyuyo.com/menu/baslangiclar/soslu-patates-cheddar-ilaveli",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/soslu-patates-cheddar-ilaveli"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SOSLU PATATES CHEDDAR İLAVELİ",
+        "meta": {
+          "title": "Başlangıçlar - Soslu Patates Cheddar İlaveli | Doyuyo! Menü",
+          "description": "Soslu patates cheddar ilaveli başlangıcımızla çıtır tavuk lezzetlerinize eşlik edin. Restoranlarımızda bu tadı deneyin.",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/soslu-patates-cheddar-ilaveli",
+          "ogTitle": "Başlangıçlar - Soslu Patates Cheddar İlaveli | Doyuyo! Menü",
+          "ogDescription": "Soslu patates cheddar ilaveli başlangıcımızla çıtır tavuk lezzetlerinize eşlik edin. Restoranlarımızda bu tadı deneyin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/soslu-patates-cheddar-ilaveli",
+            "tr": "https://doyuyo.com/menu/soslu-patates-cheddar-ilaveli",
+            "en": "https://doyuyo.com/en/menu/souced-potatoes-with-cheddar"
+          }
+        }
+      },
+      "en": {
+        "name": "SAUCED POTATOES WITH CHEDDAR",
+        "slug": "souced-potatoes-with-cheddar",
+        "url": "https://doyuyo.com/en/menu/starters/souced-potatoes-with-cheddar",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/souced-potatoes-with-cheddar"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SAUCED POTATOES WITH CHEDDAR",
+        "meta": {
+          "title": "Starters - Souced Potatoes With Cheddar (Large) | Doyuyo! Menu",
+          "description": "Pair your crispy chicken meal with our cheesy fries, a perfect complement to your dining experience. Try it today!",
+          "canonical": "https://doyuyo.com/en/menu/starters/souced-potatoes-with-cheddar",
+          "ogTitle": "Starters - Souced Potatoes With Cheddar (Large) | Doyuyo! Menu",
+          "ogDescription": "Pair your crispy chicken meal with our cheesy fries, a perfect complement to your dining experience. Try it today!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/soslu-patates-cheddar-ilaveli",
+            "tr": "https://doyuyo.com/menu/soslu-patates-cheddar-ilaveli",
+            "en": "https://doyuyo.com/en/menu/souced-potatoes-with-cheddar"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "chickers-sepeti",
+    "image": "https://doyuyo.com/storage/753/Web_2508x2508px-filigranCHCIKERS.webp",
+    "cardImage": "https://doyuyo.com/storage/753/conversions/Web_2508x2508px-filigranCHCIKERS-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHICKERS SEPETİ",
+        "slug": "chickers-sepeti",
+        "url": "https://doyuyo.com/menu/baslangiclar/chickers-sepeti",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/chickers-sepeti"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "CHICKERS SEPETİ",
+        "meta": {
+          "title": "Başlangıçlar - Chickers Sepeti | Doyuyo! Menü",
+          "description": "Chickers Sepeti, çıtır tavuk sevenler için hazırlanmış harika bir başlangıç. Restoranlarımızda tadına bakın!",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/chickers-sepeti",
+          "ogTitle": "Başlangıçlar - Chickers Sepeti | Doyuyo! Menü",
+          "ogDescription": "Chickers Sepeti, çıtır tavuk sevenler için hazırlanmış harika bir başlangıç. Restoranlarımızda tadına bakın!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/chickers-sepeti",
+            "tr": "https://doyuyo.com/menu/chickers-sepeti",
+            "en": "https://doyuyo.com/en/menu/chickers-basket"
+          }
+        }
+      },
+      "en": {
+        "name": "CHICKERS BASKET",
+        "slug": "chickers-basket",
+        "url": "https://doyuyo.com/en/menu/starters/chickers-basket",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/chickers-basket"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "CHICKERS BASKET",
+        "meta": {
+          "title": "Starters - Chickers Basket | Doyuyo! Menu",
+          "description": "Chickers Basket, a perfect starter for crispy chicken lovers, is waiting for you at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/starters/chickers-basket",
+          "ogTitle": "Starters - Chickers Basket | Doyuyo! Menu",
+          "ogDescription": "Chickers Basket, a perfect starter for crispy chicken lovers, is waiting for you at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/chickers-sepeti",
+            "tr": "https://doyuyo.com/menu/chickers-sepeti",
+            "en": "https://doyuyo.com/en/menu/chickers-basket"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "soslu-patates",
+    "image": "https://doyuyo.com/storage/755/Web_2508x2508px-filigranSOSLU-mi.webp",
+    "cardImage": "https://doyuyo.com/storage/755/conversions/Web_2508x2508px-filigranSOSLU-mi-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SOSLU PATATES",
+        "slug": "soslu-patates",
+        "url": "https://doyuyo.com/menu/baslangiclar/soslu-patates",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/soslu-patates"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SOSLU PATATES",
+        "meta": {
+          "title": "Başlangıçlar - Soslu Patates | Doyuyo! Menü",
+          "description": "Çıtır soslu patateslerimizle başlangıç keyfinizi artırın. Doyuyo’da bu enfes lezzeti keşfedin.",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/soslu-patates",
+          "ogTitle": "Başlangıçlar - Soslu Patates | Doyuyo! Menü",
+          "ogDescription": "Çıtır soslu patateslerimizle başlangıç keyfinizi artırın. Doyuyo’da bu enfes lezzeti keşfedin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/soslu-patates",
+            "tr": "https://doyuyo.com/menu/soslu-patates",
+            "en": "https://doyuyo.com/en/menu/souced-potatoes"
+          }
+        }
+      },
+      "en": {
+        "name": "SAUCED POTATOES",
+        "slug": "souced-potatoes",
+        "url": "https://doyuyo.com/en/menu/starters/souced-potatoes",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/souced-potatoes"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SAUCED POTATOES",
+        "meta": {
+          "title": "Starters - Souced Potatoes (Large)| Doyuyo! Menu",
+          "description": "Enhance your crispy chicken experience with saucy and flavorful fries at Doyuyo restaurants!",
+          "canonical": "https://doyuyo.com/en/menu/starters/souced-potatoes",
+          "ogTitle": "Starters - Souced Potatoes (Large)| Doyuyo! Menu",
+          "ogDescription": "Enhance your crispy chicken experience with saucy and flavorful fries at Doyuyo restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/soslu-patates",
+            "tr": "https://doyuyo.com/menu/soslu-patates",
+            "en": "https://doyuyo.com/en/menu/souced-potatoes"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "patates",
+    "image": "https://doyuyo.com/storage/757/Web_2508x2508px-filigranPATETES-.webp",
+    "cardImage": "https://doyuyo.com/storage/757/conversions/Web_2508x2508px-filigranPATETES--middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "PATATES",
+        "slug": "patates",
+        "url": "https://doyuyo.com/menu/baslangiclar/patates",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/patates"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "PATATES",
+        "meta": {
+          "title": "Başlangıçlar - Patates | Doyuyo! Menü",
+          "description": "Taze ve çıtır kızartılmış patateslerimizle başlangıç keyfini Doyuyo restoranlarında yaşayın.",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/patates",
+          "ogTitle": "Başlangıçlar - Patates | Doyuyo! Menü",
+          "ogDescription": "Taze ve çıtır kızartılmış patateslerimizle başlangıç keyfini Doyuyo restoranlarında yaşayın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/patates",
+            "tr": "https://doyuyo.com/menu/patates",
+            "en": "https://doyuyo.com/en/menu/fries"
+          }
+        }
+      },
+      "en": {
+        "name": "FRIES",
+        "slug": "fries",
+        "url": "https://doyuyo.com/en/menu/starters/fries",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/fries"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "FRIES",
+        "meta": {
+          "title": "Starters - Fries | Doyuyo! Menu",
+          "description": "Enjoy freshly fried crispy potatoes, a delightful start to your meal, available at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/starters/fries",
+          "ogTitle": "Starters - Fries | Doyuyo! Menu",
+          "ogDescription": "Enjoy freshly fried crispy potatoes, a delightful start to your meal, available at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/patates",
+            "tr": "https://doyuyo.com/menu/patates",
+            "en": "https://doyuyo.com/en/menu/fries"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "pesto-cheddar-fusilli",
+    "image": "https://doyuyo.com/storage/759/Web_2508x2508px-filigranPESTO.webp",
+    "cardImage": "https://doyuyo.com/storage/759/conversions/Web_2508x2508px-filigranPESTO-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "PESTO & CHEDDAR FUSILLI",
+        "slug": "pesto-cheddar-fusilli",
+        "url": "https://doyuyo.com/menu/baslangiclar/pesto-cheddar-fusilli",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/pesto-cheddar-fusilli"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "PESTO & CHEDDAR FUSILLI",
+        "meta": {
+          "title": "Başlangıçlar - Pesto Cheddar Fusilli | Doyuyo! Menü",
+          "description": "Pesto Cheddar Fusilli, çıtır tavuk menülerinize eşlik edecek harika bir başlangıç. Doyuyo’da bu tadı deneyin.",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/pesto-cheddar-fusilli",
+          "ogTitle": "Başlangıçlar - Pesto Cheddar Fusilli | Doyuyo! Menü",
+          "ogDescription": "Pesto Cheddar Fusilli, çıtır tavuk menülerinize eşlik edecek harika bir başlangıç. Doyuyo’da bu tadı deneyin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/pesto-cheddar-fusilli",
+            "tr": "https://doyuyo.com/menu/pesto-cheddar-fusilli",
+            "en": "https://doyuyo.com/en/menu/pesto-cheddar-fusilli"
+          }
+        }
+      },
+      "en": {
+        "name": "PESTO & CHEDDAR FUSILLI",
+        "slug": "pesto-cheddar-fusilli",
+        "url": "https://doyuyo.com/en/menu/starters/pesto-cheddar-fusilli",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/pesto-cheddar-fusilli"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "PESTO & CHEDDAR FUSILLI",
+        "meta": {
+          "title": "Starters - Pesto Cheddar Fusilli | Doyuyo! Menu",
+          "description": "Pesto Cheddar Fusilli is a flavorful addition to your crispy chicken meal. Try this unique taste at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/starters/pesto-cheddar-fusilli",
+          "ogTitle": "Starters - Pesto Cheddar Fusilli | Doyuyo! Menu",
+          "ogDescription": "Pesto Cheddar Fusilli is a flavorful addition to your crispy chicken meal. Try this unique taste at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/pesto-cheddar-fusilli",
+            "tr": "https://doyuyo.com/menu/pesto-cheddar-fusilli",
+            "en": "https://doyuyo.com/en/menu/pesto-cheddar-fusilli"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "baslangic-sepeti",
+    "image": "https://doyuyo.com/storage/761/Web_2508x2508px-filigranBAS%CC%A7LANG.webp",
+    "cardImage": "https://doyuyo.com/storage/761/conversions/Web_2508x2508px-filigranBAS%CC%A7LANG-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "BAŞLANGIÇ SEPETİ",
+        "slug": "baslangic-sepeti",
+        "url": "https://doyuyo.com/menu/baslangiclar/baslangic-sepeti",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/baslangic-sepeti"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "BAŞLANGIÇ SEPETİ",
+        "meta": {
+          "title": "Başlangıçlar - Başlangıç Sepeti | Doyuyo! Menü",
+          "description": "Mozzarella sticks, soslu patates ve çıtır tavuk dolu başlangıç sepetimizle lezzeti paylaşın. Restoranlarımızda sizi bekliyor!",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/baslangic-sepeti",
+          "ogTitle": "Başlangıçlar - Başlangıç Sepeti | Doyuyo! Menü",
+          "ogDescription": "Mozzarella sticks, soslu patates ve çıtır tavuk dolu başlangıç sepetimizle lezzeti paylaşın. Restoranlarımızda sizi bekliyor!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/baslangic-sepeti",
+            "tr": "https://doyuyo.com/menu/baslangic-sepeti",
+            "en": "https://doyuyo.com/en/menu/starter-basket"
+          }
+        }
+      },
+      "en": {
+        "name": "STARTER BASKET",
+        "slug": "starter-basket",
+        "url": "https://doyuyo.com/en/menu/starters/starter-basket",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/starter-basket"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "STARTER BASKET",
+        "meta": {
+          "title": "Starters - Starter Basket | Doyuyo! Menu",
+          "description": "Share the joy with our Starters Basket, packed with mozzarella sticks, cheesy fries, and crispy chicken at Doyuyo restaurants!",
+          "canonical": "https://doyuyo.com/en/menu/starters/starter-basket",
+          "ogTitle": "Starters - Starter Basket | Doyuyo! Menu",
+          "ogDescription": "Share the joy with our Starters Basket, packed with mozzarella sticks, cheesy fries, and crispy chicken at Doyuyo restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/baslangic-sepeti",
+            "tr": "https://doyuyo.com/menu/baslangic-sepeti",
+            "en": "https://doyuyo.com/en/menu/starter-basket"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "aci-tatli-chickers-patates",
+    "image": "https://doyuyo.com/storage/763/Web_2508x2508px-filigranACI-TATL.webp",
+    "cardImage": "https://doyuyo.com/storage/763/conversions/Web_2508x2508px-filigranACI-TATL-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ACI TATLI CHICKERS & PATATES",
+        "slug": "aci-tatli-chickers-patates",
+        "url": "https://doyuyo.com/menu/baslangiclar/aci-tatli-chickers-patates",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/aci-tatli-chickers-patates"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "ACI TATLI CHICKERS & PATATES",
+        "meta": {
+          "title": "Başlangıçlar - Acı Tatlı Chickers Patates | Doyuyo! Menü",
+          "description": "Tatlı ve acının dengesiyle hazırlanan Acı Tatlı Chickers Patates, çıtır tavuk keyfinize eşlik edecek.",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/aci-tatli-chickers-patates",
+          "ogTitle": "Başlangıçlar - Acı Tatlı Chickers Patates | Doyuyo! Menü",
+          "ogDescription": "Tatlı ve acının dengesiyle hazırlanan Acı Tatlı Chickers Patates, çıtır tavuk keyfinize eşlik edecek.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/aci-tatli-chickers-patates",
+            "tr": "https://doyuyo.com/menu/aci-tatli-chickers-patates",
+            "en": "https://doyuyo.com/en/menu/spicy-and-sweet-chickers-fries"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY AND SWEET CHICKERS & FRIES",
+        "slug": "spicy-and-sweet-chickers-fries",
+        "url": "https://doyuyo.com/en/menu/starters/spicy-and-sweet-chickers-fries",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicy-and-sweet-chickers-fries"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SPICY AND SWEET CHICKERS & FRIES",
+        "meta": {
+          "title": "Starters - Spicy and Sweet Chickers & Fries | Doyuyo! Menu",
+          "description": "Sweet and spicy Chickers Potatoes add a balanced burst of flavor to your crispy chicken experience.",
+          "canonical": "https://doyuyo.com/en/menu/starters/spicy-and-sweet-chickers-fries",
+          "ogTitle": "Starters - Spicy and Sweet Chickers & Fries | Doyuyo! Menu",
+          "ogDescription": "Sweet and spicy Chickers Potatoes add a balanced burst of flavor to your crispy chicken experience.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/aci-tatli-chickers-patates",
+            "tr": "https://doyuyo.com/menu/aci-tatli-chickers-patates",
+            "en": "https://doyuyo.com/en/menu/spicy-and-sweet-chickers-fries"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "mozzarella-sticks",
+    "image": "https://doyuyo.com/storage/745/Web_2508x2508px-filigranMOZZAREL.webp",
+    "cardImage": "https://doyuyo.com/storage/745/conversions/Web_2508x2508px-filigranMOZZAREL-middle.webp",
+    "categoryIds": [
+      "baslangiclar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "MOZZARELLA STICKS",
+        "slug": "mozzarella-sticks",
+        "url": "https://doyuyo.com/menu/baslangiclar/mozzarella-sticks",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/mozzarella-sticks"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "MOZZARELLA STICKS",
+        "meta": {
+          "title": "Başlangıçlar - Mozzarella Sticks | Doyuyo! Menü",
+          "description": "Mozzarella Sticks, çıtır dışı ve uzayan peyniriyle eşsiz bir başlangıç. Doyuyo’da bu lezzeti deneyimleyin!",
+          "canonical": "https://doyuyo.com/menu/baslangiclar/mozzarella-sticks",
+          "ogTitle": "Başlangıçlar - Mozzarella Sticks | Doyuyo! Menü",
+          "ogDescription": "Mozzarella Sticks, çıtır dışı ve uzayan peyniriyle eşsiz bir başlangıç. Doyuyo’da bu lezzeti deneyimleyin!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/mozzarella-sticks",
+            "tr": "https://doyuyo.com/menu/mozzarella-sticks",
+            "en": "https://doyuyo.com/en/menu/mozzarella-sticks"
+          }
+        }
+      },
+      "en": {
+        "name": "MOZZARELLA STICKS",
+        "slug": "mozzarella-sticks",
+        "url": "https://doyuyo.com/en/menu/starters/mozzarella-sticks",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/mozzarella-sticks"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "MOZZARELLA STICKS",
+        "meta": {
+          "title": "Starters - Mozzarella Sticks | Doyuyo! Menu",
+          "description": "Mozzarella Sticks, with a crispy coating and stretchy cheese, make the perfect starter. Experience them at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/starters/mozzarella-sticks",
+          "ogTitle": "Starters - Mozzarella Sticks | Doyuyo! Menu",
+          "ogDescription": "Mozzarella Sticks, with a crispy coating and stretchy cheese, make the perfect starter. Experience them at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/mozzarella-sticks",
+            "tr": "https://doyuyo.com/menu/mozzarella-sticks",
+            "en": "https://doyuyo.com/en/menu/mozzarella-sticks"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "friends-combo",
+    "image": "https://doyuyo.com/storage/767/Web_2508x2508px-filigranFRIENDS-.webp",
+    "cardImage": "https://doyuyo.com/storage/767/conversions/Web_2508x2508px-filigranFRIENDS--middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo"
+    ],
+    "translations": {
+      "tr": {
+        "name": "FRIENDS COMBO",
+        "slug": "friends-combo",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/friends-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/friends-combo"
+        ],
+        "shortDescription": "2 acılı tenders, 2 cajun tenders, 2 original tenders, 2 chicken sandviç, 1 coleslaw, 1 turşu, 2 ketçap, 2 mayonez, patates, 2 gurme sos + 2 içecek",
+        "description": "2 acılı tenders, 2 cajun tenders, 2 original tenders, 2 chicken sandviç, 1 coleslaw, 1 turşu, 2 ketçap, 2 mayonez, patates, 2 gurme sos + 2 içecek",
+        "content": [],
+        "imageAlt": "FRIENDS COMBO",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo - Friends Combo | Doyuyo! Menü",
+          "description": "Friends Combo, çıtır tavuk sevenler için paylaşması keyifli bir menü. Restoranlarımızda tadını çıkarın.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/friends-combo",
+          "ogTitle": "Doyuyo Çıtır Combo - Friends Combo | Doyuyo! Menü",
+          "ogDescription": "Friends Combo, çıtır tavuk sevenler için paylaşması keyifli bir menü. Restoranlarımızda tadını çıkarın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/friends-combo",
+            "tr": "https://doyuyo.com/menu/friends-combo",
+            "en": "https://doyuyo.com/en/menu/friends-combo"
+          }
+        }
+      },
+      "en": {
+        "name": "FRIENDS COMBO",
+        "slug": "friends-combo",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/friends-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/friends-combo"
+        ],
+        "shortDescription": "2 spicy tenders, 2 cajun tenders, 2 original tenders, 2 chicken sandwiches, 1 coleslaw, fries, 1 pickle, 2 ketchups, 2 mayo, 2 gourmet sauces + 2 drinks",
+        "description": "2 spicy tenders, 2 cajun tenders, 2 original tenders, 2 chicken sandwiches, 1 coleslaw, fries, 1 pickle, 2 ketchups, 2 mayo, 2 gourmet sauces + 2 drinks",
+        "content": [],
+        "imageAlt": "FRIENDS COMBO",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Friends Combo | Doyuyo! Menu",
+          "description": "Friends Combo offers sharable portions of crispy chicken for everyone to enjoy. Visit Doyuyo for this satisfying menu!",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/friends-combo",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Friends Combo | Doyuyo! Menu",
+          "ogDescription": "Friends Combo offers sharable portions of crispy chicken for everyone to enjoy. Visit Doyuyo for this satisfying menu!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/friends-combo",
+            "tr": "https://doyuyo.com/menu/friends-combo",
+            "en": "https://doyuyo.com/en/menu/friends-combo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "doyuyo-galactic",
+    "image": "https://doyuyo.com/storage/646/Web_2508x2508px-filigrangalactic-kopya.webp",
+    "cardImage": "https://doyuyo.com/storage/646/conversions/Web_2508x2508px-filigrangalactic-kopya-middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo"
+    ],
+    "translations": {
+      "tr": {
+        "name": "GALACTIC",
+        "slug": "doyuyo-galactic",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/doyuyo-galactic",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/doyuyo-galactic"
+        ],
+        "shortDescription": "1 cheese chicken burger, 2 chickers, 1 cajun tenders, 1 original tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "1 cheese chicken burger, 2 chickers, 1 cajun tenders, 1 original tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "GALACTIC",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo - Galactic | Doyuyo! Menü",
+          "description": "Galactic menüsü, çıtır tavuk sevenler için özel olarak hazırlandı. Restoranlarımızda bu lezzeti tadabilirsiniz.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/doyuyo-galactic",
+          "ogTitle": "Doyuyo Çıtır Combo - Galactic | Doyuyo! Menü",
+          "ogDescription": "Galactic menüsü, çıtır tavuk sevenler için özel olarak hazırlandı. Restoranlarımızda bu lezzeti tadabilirsiniz.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/doyuyo-galactic",
+            "tr": "https://doyuyo.com/menu/doyuyo-galactic",
+            "en": "https://doyuyo.com/en/menu/doyuyo-galactic"
+          }
+        }
+      },
+      "en": {
+        "name": "DOYUYO GALACTIC",
+        "slug": "doyuyo-galactic",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/doyuyo-galactic",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/doyuyo-galactic"
+        ],
+        "shortDescription": "1 cheese chicken burger, 2 chickers, 1 cajun tenders, 1 original tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cheese chicken burger, 2 chickers, 1 cajun tenders, 1 original tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "DOYUYO GALACTIC",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Doyuyo Galactic | Doyuyo! Menu",
+          "description": "The Galactic menu is crafted for crispy chicken enthusiasts. Discover this flavor at Doyuyo restaurants!",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/doyuyo-galactic",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Doyuyo Galactic | Doyuyo! Menu",
+          "ogDescription": "The Galactic menu is crafted for crispy chicken enthusiasts. Discover this flavor at Doyuyo restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/doyuyo-galactic",
+            "tr": "https://doyuyo.com/menu/doyuyo-galactic",
+            "en": "https://doyuyo.com/en/menu/doyuyo-galactic"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "tenders-festival",
+    "image": "https://doyuyo.com/storage/718/Web_2508x2508px-filigranTENDERS-.webp",
+    "cardImage": "https://doyuyo.com/storage/718/conversions/Web_2508x2508px-filigranTENDERS--middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo"
+    ],
+    "translations": {
+      "tr": {
+        "name": "TENDERS FESTİVAL",
+        "slug": "tenders-festival",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/tenders-festival",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/tenders-festival"
+        ],
+        "shortDescription": "1 cheese chicken sandviç, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "1 cheese chicken sandviç, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "TENDERS FESTİVAL",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo - Tenders Festival | Doyuyo! Menü",
+          "description": "Tenders Festival, baharatlı ve çıtır tavuk sevenler için mükemmel bir seçim. Doyuyo restoranlarında tadın.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/tenders-festival",
+          "ogTitle": "Doyuyo Çıtır Combo - Tenders Festival | Doyuyo! Menü",
+          "ogDescription": "Tenders Festival, baharatlı ve çıtır tavuk sevenler için mükemmel bir seçim. Doyuyo restoranlarında tadın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/tenders-festival",
+            "tr": "https://doyuyo.com/menu/tenders-festival",
+            "en": "https://doyuyo.com/en/menu/tenders-festival"
+          }
+        }
+      },
+      "en": {
+        "name": "TENDERS FESTIVAL",
+        "slug": "tenders-festival",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/tenders-festival",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/tenders-festival"
+        ],
+        "shortDescription": "1 cheese chicken sandwich, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cheese chicken sandwich, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "TENDERS FESTIVAL",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Tenders Festival | Doyuyo! Menu",
+          "description": "Tenders Festival is a perfect choice for crispy and spicy chicken lovers. Taste this specialty at Doyuyo restaurants!",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/tenders-festival",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Tenders Festival | Doyuyo! Menu",
+          "ogDescription": "Tenders Festival is a perfect choice for crispy and spicy chicken lovers. Taste this specialty at Doyuyo restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/tenders-festival",
+            "tr": "https://doyuyo.com/menu/tenders-festival",
+            "en": "https://doyuyo.com/en/menu/tenders-festival"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "deluxe-burger-combo",
+    "image": "https://doyuyo.com/storage/647/Web_2508x2508px-filigrandeluxe-poster-2-copy.webp",
+    "cardImage": "https://doyuyo.com/storage/647/conversions/Web_2508x2508px-filigrandeluxe-poster-2-copy-middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo",
+      "burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "DELUXE BURGER COMBO",
+        "slug": "deluxe-burger-combo",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/deluxe-burger-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/burger/deluxe-burger-combo-1",
+          "https://doyuyo.com/menu/deluxe-burger-combo",
+          "https://doyuyo.com/menu/deluxe-burger-combo-1"
+        ],
+        "shortDescription": "1 etli tavuklu cheese chicken burger, 2 chickers, 1 cajun tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "1 etli tavuklu cheese chicken burger, 2 chickers, 1 cajun tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "DELUXE BURGER COMBO",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo -Deluxe Burger Combo | Doyuyo! Menü",
+          "description": "Deluxe Burger Combo, %100 dana eti köftesi ve katkısız Brioche ekmeğiyle Doyuyo’nun özel tariflerinden biri.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/deluxe-burger-combo",
+          "ogTitle": "Doyuyo Çıtır Combo -Deluxe Burger Combo | Doyuyo! Menü",
+          "ogDescription": "Deluxe Burger Combo, %100 dana eti köftesi ve katkısız Brioche ekmeğiyle Doyuyo’nun özel tariflerinden biri.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/deluxe-burger-combo",
+            "tr": "https://doyuyo.com/menu/deluxe-burger-combo",
+            "en": "https://doyuyo.com/en/menu/deluxe-burger-combo"
+          }
+        }
+      },
+      "en": {
+        "name": "DELUXE BURGER COMBO",
+        "slug": "deluxe-burger-combo",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/deluxe-burger-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/burger/deluxe-burger-combo-1",
+          "https://doyuyo.com/en/menu/deluxe-burger-combo"
+        ],
+        "shortDescription": "1 cheese chicken and cheeseburger, 2 chickers, 1 cajun tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cheese chicken and cheeseburger, 2 chickers, 1 cajun tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "DELUXE BURGER COMBO",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Deluxe Burger Combo | Doyuyo! Menu",
+          "description": "Deluxe Burger Combo, prepared with 100% beef patties and preservative-free brioche buns, is a Doyuyo classic.",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/deluxe-burger-combo",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Deluxe Burger Combo | Doyuyo! Menu",
+          "ogDescription": "Deluxe Burger Combo, prepared with 100% beef patties and preservative-free brioche buns, is a Doyuyo classic.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/deluxe-burger-combo",
+            "tr": "https://doyuyo.com/menu/deluxe-burger-combo",
+            "en": "https://doyuyo.com/en/menu/deluxe-burger-combo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cheeseburger-festival",
+    "image": "https://doyuyo.com/storage/651/Web_2508x2508px-filigranCHEESEBURGER-FESTI%CC%87VAL-2.webp",
+    "cardImage": "https://doyuyo.com/storage/651/conversions/Web_2508x2508px-filigranCHEESEBURGER-FESTI%CC%87VAL-2-middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo",
+      "burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHEESEBURGER FESTİVAL",
+        "slug": "cheeseburger-festival",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/cheeseburger-festival",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/burger/cheeseburger-festival-1",
+          "https://doyuyo.com/menu/cheeseburger-festival",
+          "https://doyuyo.com/menu/cheeseburger-festival-1"
+        ],
+        "shortDescription": "1 cheese burger, coleslaw, 1 original tenders, ketçap, mayonez, patates, 1 gurme sos + büyük içecek",
+        "description": "1 cheese burger, coleslaw, 1 original tenders, ketçap, mayonez, patates, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "CHEESEBURGER FESTİVAL",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo - Cheese Burger Festival | Doyuyo! Menü",
+          "description": "Cheeseburger Festival, Doyuyo’nun %100 dana eti köftesi ve dilim cheddar peyniriyle zenginleştirilmiştir.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/cheeseburger-festival",
+          "ogTitle": "Doyuyo Çıtır Combo - Cheese Burger Festival | Doyuyo! Menü",
+          "ogDescription": "Cheeseburger Festival, Doyuyo’nun %100 dana eti köftesi ve dilim cheddar peyniriyle zenginleştirilmiştir.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheeseburger-festival",
+            "tr": "https://doyuyo.com/menu/cheeseburger-festival",
+            "en": "https://doyuyo.com/en/menu/cheeseburger-festival"
+          }
+        }
+      },
+      "en": {
+        "name": "CHEESEBURGER FESTIVAL",
+        "slug": "cheeseburger-festival",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/cheeseburger-festival",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/burger/cheeseburger-festival-1",
+          "https://doyuyo.com/en/menu/cheeseburger-festival"
+        ],
+        "shortDescription": "1 cheeseburger, coleslaw, 1 original tenders, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cheeseburger, coleslaw, 1 original tenders, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "CHEESEBURGER FESTIVAL",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Cheeseburger Festival | Doyuyo! Menu",
+          "description": "Cheeseburger Festival combines 100% beef patties and cheddar slices for a deliciously rich experience. Try it now at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/cheeseburger-festival",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Cheeseburger Festival | Doyuyo! Menu",
+          "ogDescription": "Cheeseburger Festival combines 100% beef patties and cheddar slices for a deliciously rich experience. Try it now at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheeseburger-festival",
+            "tr": "https://doyuyo.com/menu/cheeseburger-festival",
+            "en": "https://doyuyo.com/en/menu/cheeseburger-festival"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cajun-combo",
+    "image": "https://doyuyo.com/storage/649/Web_2508x2508px-filigrancajun-combo.webp",
+    "cardImage": "https://doyuyo.com/storage/649/conversions/Web_2508x2508px-filigrancajun-combo-middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CAJUN COMBO",
+        "slug": "cajun-combo",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/cajun-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cajun-combo"
+        ],
+        "shortDescription": "cajun cheese chicken sandviç, 2 cajun tenders, coleslaw, ketçap, mayonez, patates, 1 gurme sos + büyük içecek",
+        "description": "cajun cheese chicken sandviç, 2 cajun tenders, coleslaw, ketçap, mayonez, patates, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "CAJUN COMBO",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo - Cajun Combo| Doyuyo! Menü",
+          "description": "Cajun Combo, baharatlı çıtır tavuk lezzetini sevenler için ideal bir seçim. Restoranlarımızda tadabilirsiniz.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/cajun-combo",
+          "ogTitle": "Doyuyo Çıtır Combo - Cajun Combo| Doyuyo! Menü",
+          "ogDescription": "Cajun Combo, baharatlı çıtır tavuk lezzetini sevenler için ideal bir seçim. Restoranlarımızda tadabilirsiniz.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cajun-combo",
+            "tr": "https://doyuyo.com/menu/cajun-combo",
+            "en": "https://doyuyo.com/en/menu/cajun-combo"
+          }
+        }
+      },
+      "en": {
+        "name": "CAJUN COMBO",
+        "slug": "cajun-combo",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/cajun-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/cajun-combo"
+        ],
+        "shortDescription": "1 cajun cheese chicken sandwich, 2 cajun tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cajun cheese chicken sandwich, 2 cajun tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "CAJUN COMBO",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Cajun Combo | Doyuyo! Menu",
+          "description": "Cajun Combo, with spicy crispy chicken, is perfect for those who love bold flavors. Discover it at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/cajun-combo",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Cajun Combo | Doyuyo! Menu",
+          "ogDescription": "Cajun Combo, with spicy crispy chicken, is perfect for those who love bold flavors. Discover it at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cajun-combo",
+            "tr": "https://doyuyo.com/menu/cajun-combo",
+            "en": "https://doyuyo.com/en/menu/cajun-combo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "acisever-combo",
+    "image": "https://doyuyo.com/storage/765/Web_2508x2508px-filigranac%C4%B1-seve.webp",
+    "cardImage": "https://doyuyo.com/storage/765/conversions/Web_2508x2508px-filigranac%C4%B1-seve-middle.webp",
+    "categoryIds": [
+      "doyasiya-citir-combo",
+      "acisever"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ACISEVER COMBO",
+        "slug": "acisever-combo",
+        "url": "https://doyuyo.com/menu/doyasiya-citir-combo/acisever-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/acisever/acisever-combo-1",
+          "https://doyuyo.com/menu/acisever-combo",
+          "https://doyuyo.com/menu/acisever-combo-1"
+        ],
+        "shortDescription": "1 acılı cheese chicken burger, 1 acılı tenders, 2 hot chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "1 acılı cheese chicken burger, 1 acılı tenders, 2 hot chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "ACISEVER COMBO",
+        "meta": {
+          "title": "Doyuyo Çıtır Combo -Acısever Combo| Doyuyo! Menü",
+          "description": "Doyuyo Çıtır Combo, çıtır tavuk lezzetleri arasında Acısever Combo, baharatlı tavuk lezzetleriyle eşsiz bir lezzet deneyimi sunuyor.Denemek için Doyuyo Restoranlarımıza bekliyoruz.",
+          "canonical": "https://doyuyo.com/menu/doyasiya-citir-combo/acisever-combo",
+          "ogTitle": "Doyuyo Çıtır Combo -Acısever Combo| Doyuyo! Menü",
+          "ogDescription": "Doyuyo Çıtır Combo, çıtır tavuk lezzetleri arasında Acısever Combo, baharatlı tavuk lezzetleriyle eşsiz bir lezzet deneyimi sunuyor.Denemek için Doyuyo Restoranlarımıza bekliyoruz.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acisever-combo",
+            "tr": "https://doyuyo.com/menu/acisever-combo",
+            "en": "https://doyuyo.com/en/menu/spice-lovers-combo"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICE LOVERS COMBO",
+        "slug": "spice-lovers-combo",
+        "url": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/spice-lovers-combo",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spice-lovers/spice-lovers-combo-1",
+          "https://doyuyo.com/en/menu/spice-lovers-combo"
+        ],
+        "shortDescription": "1 spicy cheese chicken burger, 1 spicy tenders, 2 hot chickers, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 spicy cheese chicken burger, 1 spicy tenders, 2 hot chickers, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "SPICE LOVERS COMBO",
+        "meta": {
+          "title": "Doyuyo Fulfilling Crispy Combo - Spicy Lovers Combo | Doyuyo! Menu",
+          "description": "Doyuyo Crispy Combo offers a unique spicy chicken experience, including options like the Spicy Lovers Combo. Visit us today!",
+          "canonical": "https://doyuyo.com/en/menu/doyuyo-fulfilling-crispy-combo/spice-lovers-combo",
+          "ogTitle": "Doyuyo Fulfilling Crispy Combo - Spicy Lovers Combo | Doyuyo! Menu",
+          "ogDescription": "Doyuyo Crispy Combo offers a unique spicy chicken experience, including options like the Spicy Lovers Combo. Visit us today!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acisever-combo",
+            "tr": "https://doyuyo.com/menu/acisever-combo",
+            "en": "https://doyuyo.com/en/menu/spice-lovers-combo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "acili-tenders",
+    "image": "https://doyuyo.com/storage/655/Web_2508x2508px-filigranac%C4%B1l%C4%B1-tenders-pepsi-dekupe.webp",
+    "cardImage": "https://doyuyo.com/storage/655/conversions/Web_2508x2508px-filigranac%C4%B1l%C4%B1-tenders-pepsi-dekupe-middle.webp",
+    "categoryIds": [
+      "acisever"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ACILI TENDERS",
+        "slug": "acili-tenders",
+        "url": "https://doyuyo.com/menu/acisever/acili-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/acili-tenders"
+        ],
+        "shortDescription": "acılı tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "acılı tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "ACILI TENDERS",
+        "meta": {
+          "title": "Acısever - Acılı Tenders | Doyuyo! Menü",
+          "description": "Acısever Combo, baharatlı tavuk lezzetleriyle özel bir menü sunuyor. Restoranlarımızda deneyebilirsiniz.",
+          "canonical": "https://doyuyo.com/menu/acisever/acili-tenders",
+          "ogTitle": "Acısever - Acılı Tenders | Doyuyo! Menü",
+          "ogDescription": "Acısever Combo, baharatlı tavuk lezzetleriyle özel bir menü sunuyor. Restoranlarımızda deneyebilirsiniz.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acili-tenders",
+            "tr": "https://doyuyo.com/menu/acili-tenders",
+            "en": "https://doyuyo.com/en/menu/spicy-tenders"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY TENDERS",
+        "slug": "spicy-tenders",
+        "url": "https://doyuyo.com/en/menu/spice-lovers/spicy-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicy-tenders"
+        ],
+        "shortDescription": "spicy tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "spicy tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "SPICY TENDERS",
+        "meta": {
+          "title": "Spice Lovers - Spicy Tenders | Doyuyo! Menu",
+          "description": "Spicy Cheese Sandwich X2 combines spicy chicken with cheese for a satisfying treat. Discover this exclusive menu at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/spice-lovers/spicy-tenders",
+          "ogTitle": "Spice Lovers - Spicy Tenders | Doyuyo! Menu",
+          "ogDescription": "Spicy Cheese Sandwich X2 combines spicy chicken with cheese for a satisfying treat. Discover this exclusive menu at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acili-tenders",
+            "tr": "https://doyuyo.com/menu/acili-tenders",
+            "en": "https://doyuyo.com/en/menu/spicy-tenders"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "acili-cheese-sandwich-x2",
+    "image": "https://doyuyo.com/storage/657/Web_2508x2508px-filigranac%C4%B1l%C4%B1-cheese-sandvic%CC%A7.webp",
+    "cardImage": "https://doyuyo.com/storage/657/conversions/Web_2508x2508px-filigranac%C4%B1l%C4%B1-cheese-sandvic%CC%A7-middle.webp",
+    "categoryIds": [
+      "acisever"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ACILI CHEESE SANDVİÇ x2",
+        "slug": "acili-cheese-sandwich-x2",
+        "url": "https://doyuyo.com/menu/acisever/acili-cheese-sandwich-x2",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/acili-cheese-sandwich-x2"
+        ],
+        "shortDescription": "2 acılı cheese sandviç, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "2 acılı cheese sandviç, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "ACILI CHEESE SANDVİÇ x2",
+        "meta": {
+          "title": "Acısever - Acılı Cheese Sandviç X2 | Doyuyo! Menü",
+          "description": "Acılı Cheese Sandviç X2, baharatlı ve peynirli lezzetiyle sizi bekliyor. Restoranlarımızda bu tadı deneyin.",
+          "canonical": "https://doyuyo.com/menu/acisever/acili-cheese-sandwich-x2",
+          "ogTitle": "Acısever - Acılı Cheese Sandviç X2 | Doyuyo! Menü",
+          "ogDescription": "Acılı Cheese Sandviç X2, baharatlı ve peynirli lezzetiyle sizi bekliyor. Restoranlarımızda bu tadı deneyin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acili-cheese-sandwich-x2",
+            "tr": "https://doyuyo.com/menu/acili-cheese-sandwich-x2",
+            "en": "https://doyuyo.com/en/menu/spicy-cheese-sandwich-x2"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY CHEESE SANDWICH x2",
+        "slug": "spicy-cheese-sandwich-x2",
+        "url": "https://doyuyo.com/en/menu/spice-lovers/spicy-cheese-sandwich-x2",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicy-cheese-sandwich-x2"
+        ],
+        "shortDescription": "2 spicy cheese sandwich, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "2 spicy cheese sandwich, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "SPICY CHEESE SANDWICH x2",
+        "meta": {
+          "title": "Spice Lovers - Spicy Cheese Sandwich (X2) | Doyuyo! Menu",
+          "description": "Tenders Festival lets you explore crispy chicken flavors in spiced, crispy bites. Enjoy them at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/spice-lovers/spicy-cheese-sandwich-x2",
+          "ogTitle": "Spice Lovers - Spicy Cheese Sandwich (X2) | Doyuyo! Menu",
+          "ogDescription": "Tenders Festival lets you explore crispy chicken flavors in spiced, crispy bites. Enjoy them at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acili-cheese-sandwich-x2",
+            "tr": "https://doyuyo.com/menu/acili-cheese-sandwich-x2",
+            "en": "https://doyuyo.com/en/menu/spicy-cheese-sandwich-x2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "spicy-wings-6-li",
+    "image": "https://doyuyo.com/storage/724/Web_2508x2508px-filigran6-l%C4%B1-Spicy-Wings_DEKUPE.webp",
+    "cardImage": "https://doyuyo.com/storage/724/conversions/Web_2508x2508px-filigran6-l%C4%B1-Spicy-Wings_DEKUPE-middle.webp",
+    "categoryIds": [
+      "acisever"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SPICY WINGS 6’LI",
+        "slug": "spicy-wings-6-li",
+        "url": "https://doyuyo.com/menu/acisever/spicy-wings-6-li",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/spicy-wings-6-li"
+        ],
+        "shortDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "content": [],
+        "imageAlt": "SPICY WINGS 6’LI",
+        "meta": {
+          "title": "SPICY WINGS 6’LI • Doyuyo",
+          "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/menu/acisever/spicy-wings-6-li",
+          "ogTitle": "SPICY WINGS 6’LI • Doyuyo",
+          "ogDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/spicy-wings-6-li",
+            "tr": "https://doyuyo.com/menu/spicy-wings-6-li",
+            "en": "https://doyuyo.com/en/menu/spicy-wings-6-pieces"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY WINGS 6-PIECE",
+        "slug": "spicy-wings-6-pieces",
+        "url": "https://doyuyo.com/en/menu/spice-lovers/spicy-wings-6-pieces",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicy-wings-6-pieces"
+        ],
+        "shortDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "content": [],
+        "imageAlt": "SPICY WINGS 6-PIECE",
+        "meta": {
+          "title": "SPICY WINGS 6’LI • Doyuyo",
+          "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/en/menu/spice-lovers/spicy-wings-6-pieces",
+          "ogTitle": "SPICY WINGS 6’LI • Doyuyo",
+          "ogDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/spicy-wings-6-li",
+            "tr": "https://doyuyo.com/menu/spicy-wings-6-li",
+            "en": "https://doyuyo.com/en/menu/spicy-wings-6-pieces"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "spicy-wings-9-lu",
+    "image": "https://doyuyo.com/storage/684/Web_2508x2508px-filigran9-lu-Spicy-Wings_DEKUPE.webp",
+    "cardImage": "https://doyuyo.com/storage/726/conversions/Web_2508x2508px-filigran9-lu-Spicy-Wings_DEKUPE-middle.webp",
+    "categoryIds": [
+      "acisever",
+      "spicywings"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SPICY WINGS 9’LU",
+        "slug": "spicy-wings-9-lu",
+        "url": "https://doyuyo.com/menu/acisever/spicy-wings-9-lu",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/acisever/spicy-wings-9-lu-1",
+          "https://doyuyo.com/menu/spicywings/spicy-wings-9-lu",
+          "https://doyuyo.com/menu/spicy-wings-9-lu",
+          "https://doyuyo.com/menu/spicy-wings-9-lu-1"
+        ],
+        "shortDescription": "9 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "description": "9 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "content": [],
+        "imageAlt": "SPICY WINGS 9’LU",
+        "meta": {
+          "title": "SPICY WINGS 9’LU • Doyuyo",
+          "description": "9 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/menu/acisever/spicy-wings-9-lu",
+          "ogTitle": "SPICY WINGS 9’LU • Doyuyo",
+          "ogDescription": "9 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/spicy-wings-9-lu",
+            "tr": "https://doyuyo.com/menu/spicy-wings-9-lu",
+            "en": "https://doyuyo.com/en/menu/spicy-wings-9"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY WINGS 9",
+        "slug": "spicy-wings-9-lu-1",
+        "url": "https://doyuyo.com/en/menu/spice-lovers/spicy-wings-9-lu-1",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicywings/spicy-wings-9"
+        ],
+        "shortDescription": "9 spicy wings, coleslaw, potatoes, ketchup, mayonnaise, 1 gourmet sauce, drink",
+        "description": "9 spicy wings, coleslaw, potatoes, ketchup, mayonnaise, 1 gourmet sauce, drink",
+        "content": [],
+        "imageAlt": "SPICY WINGS 9",
+        "meta": {
+          "title": "SPICY WINGS 9’LU • Doyuyo",
+          "description": "9 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/en/menu/spice-lovers/spicy-wings-9-lu-1",
+          "ogTitle": "SPICY WINGS 9’LU • Doyuyo",
+          "ogDescription": "9 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/spicy-wings-9-lu-1",
+            "tr": "https://doyuyo.com/menu/spicy-wings-9-lu-1",
+            "en": "https://doyuyo.com/en/menu/spicy-wings-9-lu-1"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "tenders-festival-2",
+    "image": "https://doyuyo.com/storage/716/Web_2508x2508px-filigranTENDERS-.webp",
+    "cardImage": "https://doyuyo.com/storage/716/conversions/Web_2508x2508px-filigranTENDERS--middle.webp",
+    "categoryIds": [
+      "tenders"
+    ],
+    "translations": {
+      "tr": {
+        "name": "TENDERS FESTİVAL",
+        "slug": "tenders-festival-2",
+        "url": "https://doyuyo.com/menu/tenders/tenders-festival-2",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/tenders-festival-2"
+        ],
+        "shortDescription": "1 cheese chicken sandviç, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "1 cheese chicken sandviç, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "TENDERS FESTİVAL",
+        "meta": {
+          "title": "Tenders - Tenders Festival | Doyuyo! Menü",
+          "description": "Tenders Festival ile çıtır tavuk lezzetlerini keşfedin. Baharatlı ve çıtır parçalar, Doyuyo’da sizi bekliyor.",
+          "canonical": "https://doyuyo.com/menu/tenders/tenders-festival-2",
+          "ogTitle": "Tenders - Tenders Festival | Doyuyo! Menü",
+          "ogDescription": "Tenders Festival ile çıtır tavuk lezzetlerini keşfedin. Baharatlı ve çıtır parçalar, Doyuyo’da sizi bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/tenders-festival-2",
+            "tr": "https://doyuyo.com/menu/tenders-festival-2",
+            "en": "https://doyuyo.com/en/menu/tenders-festival-2"
+          }
+        }
+      },
+      "en": {
+        "name": "TENDERS FESTIVAL",
+        "slug": "tenders-festival-2",
+        "url": "https://doyuyo.com/en/menu/tenders/tenders-festival-2",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/tenders-festival-2"
+        ],
+        "shortDescription": "1 cheese chicken sandwich, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cheese chicken sandwich, 1 cajun tenders, 1 original tenders, 1 paprika parmesan tenders, coleslaw, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "TENDERS FESTIVAL",
+        "meta": {
+          "title": "Tenders - Tenders Festival | Doyuyo! Menu",
+          "description": "Cajun-spiced crispy chicken tenders bring bold flavors to your meal. Discover this exclusive offering at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/tenders/tenders-festival-2",
+          "ogTitle": "Tenders - Tenders Festival | Doyuyo! Menu",
+          "ogDescription": "Cajun-spiced crispy chicken tenders bring bold flavors to your meal. Discover this exclusive offering at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/tenders-festival-2",
+            "tr": "https://doyuyo.com/menu/tenders-festival-2",
+            "en": "https://doyuyo.com/en/menu/tenders-festival-2"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cajun-tenders",
+    "image": "https://doyuyo.com/storage/686/Web_2508x2508px-filigrancajun-tenders-2.webp",
+    "cardImage": "https://doyuyo.com/storage/686/conversions/Web_2508x2508px-filigrancajun-tenders-2-middle.webp",
+    "categoryIds": [
+      "tenders"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CAJUN TENDERS",
+        "slug": "cajun-tenders",
+        "url": "https://doyuyo.com/menu/tenders/cajun-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cajun-tenders"
+        ],
+        "shortDescription": "cajun tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "cajun tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "CAJUN TENDERS",
+        "meta": {
+          "title": "Tenders - Cajun Tenders | Doyuyo! Menü",
+          "description": "Cajun baharatlı çıtır tavuklarla hazırlanmış eşsiz tenders lezzetimiz, Doyuyo restoranlarında sizi bekliyor.",
+          "canonical": "https://doyuyo.com/menu/tenders/cajun-tenders",
+          "ogTitle": "Tenders - Cajun Tenders | Doyuyo! Menü",
+          "ogDescription": "Cajun baharatlı çıtır tavuklarla hazırlanmış eşsiz tenders lezzetimiz, Doyuyo restoranlarında sizi bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cajun-tenders",
+            "tr": "https://doyuyo.com/menu/cajun-tenders",
+            "en": "https://doyuyo.com/en/menu/cajun-tenders"
+          }
+        }
+      },
+      "en": {
+        "name": "CAJUN TENDERS",
+        "slug": "cajun-tenders",
+        "url": "https://doyuyo.com/en/menu/tenders/cajun-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/cajun-tenders"
+        ],
+        "shortDescription": "1 cajun tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 cajun tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "CAJUN TENDERS",
+        "meta": {
+          "title": "Tenders - Cajun Tenders | Doyuyo! Menu",
+          "description": "Paprika Parmesan Tenders take crispy chicken to the next level with their rich flavors. Taste them at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/tenders/cajun-tenders",
+          "ogTitle": "Tenders - Cajun Tenders | Doyuyo! Menu",
+          "ogDescription": "Paprika Parmesan Tenders take crispy chicken to the next level with their rich flavors. Taste them at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cajun-tenders",
+            "tr": "https://doyuyo.com/menu/cajun-tenders",
+            "en": "https://doyuyo.com/en/menu/cajun-tenders"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "paprika-parmesan-tenders",
+    "image": "https://doyuyo.com/storage/688/Web_2508x2508px-filigranpaprika-parmesan-tenders-.webp",
+    "cardImage": "https://doyuyo.com/storage/688/conversions/Web_2508x2508px-filigranpaprika-parmesan-tenders--middle.webp",
+    "categoryIds": [
+      "tenders"
+    ],
+    "translations": {
+      "tr": {
+        "name": "PAPRIKA PARMESAN TENDERS",
+        "slug": "paprika-parmesan-tenders",
+        "url": "https://doyuyo.com/menu/tenders/paprika-parmesan-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/paprika-parmesan-tenders"
+        ],
+        "shortDescription": "paprika parmesan tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "paprika parmesan tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "PAPRIKA PARMESAN TENDERS",
+        "meta": {
+          "title": "Tenders - Paprika Parmesan Tenders | Doyuyo! Menü",
+          "description": "Paprika ve parmesan lezzetiyle zenginleştirilmiş çıtır tavuk parçaları Doyuyo restoranlarında tadılmayı bekliyor.",
+          "canonical": "https://doyuyo.com/menu/tenders/paprika-parmesan-tenders",
+          "ogTitle": "Tenders - Paprika Parmesan Tenders | Doyuyo! Menü",
+          "ogDescription": "Paprika ve parmesan lezzetiyle zenginleştirilmiş çıtır tavuk parçaları Doyuyo restoranlarında tadılmayı bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/paprika-parmesan-tenders",
+            "tr": "https://doyuyo.com/menu/paprika-parmesan-tenders",
+            "en": "https://doyuyo.com/en/menu/paprika-parmesan-tenders"
+          }
+        }
+      },
+      "en": {
+        "name": "PAPRIKA PARMESAN TENDERS",
+        "slug": "paprika-parmesan-tenders",
+        "url": "https://doyuyo.com/en/menu/tenders/paprika-parmesan-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/paprika-parmesan-tenders"
+        ],
+        "shortDescription": "1 paprika parmesan tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "1 paprika parmesan tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "PAPRIKA PARMESAN TENDERS",
+        "meta": {
+          "title": "Tenders - Paprika Parmesan Tenders | Doyuyo! Menu",
+          "description": "Original Tenders provide a classic crispy chicken experience, freshly prepared for you at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/tenders/paprika-parmesan-tenders",
+          "ogTitle": "Tenders - Paprika Parmesan Tenders | Doyuyo! Menu",
+          "ogDescription": "Original Tenders provide a classic crispy chicken experience, freshly prepared for you at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/paprika-parmesan-tenders",
+            "tr": "https://doyuyo.com/menu/paprika-parmesan-tenders",
+            "en": "https://doyuyo.com/en/menu/paprika-parmesan-tenders"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "original-tenders",
+    "image": "https://doyuyo.com/storage/690/Web_2508x2508px-filigranorj-tenders-pepsi.webp",
+    "cardImage": "https://doyuyo.com/storage/690/conversions/Web_2508x2508px-filigranorj-tenders-pepsi-middle.webp",
+    "categoryIds": [
+      "tenders"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ORIGINAL TENDERS",
+        "slug": "original-tenders",
+        "url": "https://doyuyo.com/menu/tenders/original-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/original-tenders"
+        ],
+        "shortDescription": "original tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "description": "original tenders, coleslaw, pesto & cheddar fusilli, patates, ketçap, mayonez, 1 gurme sos + büyük içecek",
+        "content": [],
+        "imageAlt": "ORIGINAL TENDERS",
+        "meta": {
+          "title": "Tenders - Original Tenders | Doyuyo! Menü",
+          "description": "Original Tenders, çıtır tavuk lezzetini klasik bir şekilde sunar. Doyuyo’da sıcacık tadına varın.",
+          "canonical": "https://doyuyo.com/menu/tenders/original-tenders",
+          "ogTitle": "Tenders - Original Tenders | Doyuyo! Menü",
+          "ogDescription": "Original Tenders, çıtır tavuk lezzetini klasik bir şekilde sunar. Doyuyo’da sıcacık tadına varın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/original-tenders",
+            "tr": "https://doyuyo.com/menu/original-tenders",
+            "en": "https://doyuyo.com/en/menu/original-tenders"
+          }
+        }
+      },
+      "en": {
+        "name": "ORIGINAL TENDERS",
+        "slug": "original-tenders",
+        "url": "https://doyuyo.com/en/menu/tenders/original-tenders",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/original-tenders"
+        ],
+        "shortDescription": "original tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "description": "original tenders, coleslaw, pesto & cheddar fusilli, fries, ketchup, mayo, 1 gourmet sauce + drink",
+        "content": [],
+        "imageAlt": "ORIGINAL TENDERS",
+        "meta": {
+          "title": "Tenders - Original Tenders | Doyuyo! Menu",
+          "description": "Cheese Tenders Royale pairs crispy chicken with cheese for a royal flavor experience. Try it now at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/tenders/original-tenders",
+          "ogTitle": "Tenders - Original Tenders | Doyuyo! Menu",
+          "ogDescription": "Cheese Tenders Royale pairs crispy chicken with cheese for a royal flavor experience. Try it now at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/original-tenders",
+            "tr": "https://doyuyo.com/menu/original-tenders",
+            "en": "https://doyuyo.com/en/menu/original-tenders"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "wings-of-friend",
+    "image": "https://doyuyo.com/storage/678/Web_2508x2508px-filigranwing-of-fried-4-kanat-2-orj-tenders-dekupe-copy.webp",
+    "cardImage": "https://doyuyo.com/storage/678/conversions/Web_2508x2508px-filigranwing-of-fried-4-kanat-2-orj-tenders-dekupe-copy-middle.webp",
+    "categoryIds": [
+      "spicywings"
+    ],
+    "translations": {
+      "tr": {
+        "name": "WINGS OF FRIEND",
+        "slug": "wings-of-friend",
+        "url": "https://doyuyo.com/menu/spicywings/wings-of-friend",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/wings-of-friend"
+        ],
+        "shortDescription": "4 spicy wings, 2 original tenders, 2 chicken sandviç, 2 chickers, coleslaw, turşu, 2 ketçap, 2 mayonez, patates, 2 gurme sos, 2 içecek",
+        "description": "4 spicy wings, 2 original tenders, 2 chicken sandviç, 2 chickers, coleslaw, turşu, 2 ketçap, 2 mayonez, patates, 2 gurme sos, 2 içecek",
+        "content": [],
+        "imageAlt": "WINGS OF FRIEND",
+        "meta": {
+          "title": "WINGS OF FRIENDS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/spicywings/wings-of-friend",
+          "ogTitle": "WINGS OF FRIENDS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/wings-of-friend",
+            "tr": "https://doyuyo.com/menu/wings-of-friend",
+            "en": "https://doyuyo.com/en/menu/wings-of-friend"
+          }
+        }
+      },
+      "en": {
+        "name": "WINGS OF FRIEND",
+        "slug": "wings-of-friend",
+        "url": "https://doyuyo.com/en/menu/spicywings/wings-of-friend",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/wings-of-friend"
+        ],
+        "shortDescription": "4 spicy wings, 2 original tenders, 2 chicken sandwiches, 2 chicks, coleslaw, pickles, 2 ketchup, 2 mayonnaise, potatoes, 2 gourmet sauce, 2 drinks",
+        "description": "4 spicy wings, 2 original tenders, 2 chicken sandwiches, 2 chicks, coleslaw, pickles, 2 ketchup, 2 mayonnaise, potatoes, 2 gourmet sauce, 2 drinks",
+        "content": [],
+        "imageAlt": "WINGS OF FRIEND",
+        "meta": {
+          "title": "WINGS OF FRIENDS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/spicywings/wings-of-friend",
+          "ogTitle": "WINGS OF FRIENDS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/wings-of-friend",
+            "tr": "https://doyuyo.com/menu/wings-of-friend",
+            "en": "https://doyuyo.com/en/menu/wings-of-friend"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cosmo-wings",
+    "image": "https://doyuyo.com/storage/680/Web_2508x2508px-filigranCosmo-Wings_DEKUPE_PERI%CC%87.webp",
+    "cardImage": "https://doyuyo.com/storage/680/conversions/Web_2508x2508px-filigranCosmo-Wings_DEKUPE_PERI%CC%87-middle.webp",
+    "categoryIds": [
+      "spicywings"
+    ],
+    "translations": {
+      "tr": {
+        "name": "COSMO WINGS",
+        "slug": "cosmo-wings",
+        "url": "https://doyuyo.com/menu/spicywings/cosmo-wings",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cosmo-wings"
+        ],
+        "shortDescription": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "description": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "content": [],
+        "imageAlt": "COSMO WINGS",
+        "meta": {
+          "title": "COSMO WINGS • Doyuyo",
+          "description": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/menu/spicywings/cosmo-wings",
+          "ogTitle": "COSMO WINGS • Doyuyo",
+          "ogDescription": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cosmo-wings",
+            "tr": "https://doyuyo.com/menu/cosmo-wings",
+            "en": "https://doyuyo.com/en/menu/cosmo-wings"
+          }
+        }
+      },
+      "en": {
+        "name": "COSMO WINGS",
+        "slug": "cosmo-wings",
+        "url": "https://doyuyo.com/en/menu/spicywings/cosmo-wings",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/cosmo-wings"
+        ],
+        "shortDescription": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, potatoes, ketchup, mayonnaise, 1 gourmet sauce, drink",
+        "description": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, potatoes, ketchup, mayonnaise, 1 gourmet sauce, drink",
+        "content": [],
+        "imageAlt": "COSMO WINGS",
+        "meta": {
+          "title": "COSMO WINGS • Doyuyo",
+          "description": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/en/menu/spicywings/cosmo-wings",
+          "ogTitle": "COSMO WINGS • Doyuyo",
+          "ogDescription": "1 cheese chicken burger, 2 spicy wings, 1 original tenders, 1 chickers, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cosmo-wings",
+            "tr": "https://doyuyo.com/menu/cosmo-wings",
+            "en": "https://doyuyo.com/en/menu/cosmo-wings"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "spicy-wings-6-pieces",
+    "image": "https://doyuyo.com/storage/682/Web_2508x2508px-filigran6-l%C4%B1-Spicy-Wings_DEKUPE.webp",
+    "cardImage": "https://doyuyo.com/storage/682/conversions/Web_2508x2508px-filigran6-l%C4%B1-Spicy-Wings_DEKUPE-middle.webp",
+    "categoryIds": [
+      "spicywings"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SPICY WINGS 6’LI",
+        "slug": "spicy-wings-6-pieces",
+        "url": "https://doyuyo.com/menu/spicywings/spicy-wings-6-pieces",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/spicy-wings-6-pieces"
+        ],
+        "shortDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+        "content": [],
+        "imageAlt": "SPICY WINGS 6’LI",
+        "meta": {
+          "title": "SPICY WINGS 6’LI • Doyuyo",
+          "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/menu/spicywings/spicy-wings-6-pieces",
+          "ogTitle": "SPICY WINGS 6’LI • Doyuyo",
+          "ogDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/spicy-wings-6-pieces",
+            "tr": "https://doyuyo.com/menu/spicy-wings-6-pieces",
+            "en": "https://doyuyo.com/en/menu/spicy-wings-6"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY WINGS 6",
+        "slug": "spicy-wings-6",
+        "url": "https://doyuyo.com/en/menu/spicywings/spicy-wings-6",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicy-wings-6"
+        ],
+        "shortDescription": "6 spicy wings, coleslaw, potatoes, ketchup, mayonnaise, 1 gourmet sauce, drink",
+        "description": "6 spicy wings, coleslaw, potatoes, ketchup, mayonnaise, 1 gourmet sauce, drink",
+        "content": [],
+        "imageAlt": "SPICY WINGS 6",
+        "meta": {
+          "title": "SPICY WINGS 6’LI • Doyuyo",
+          "description": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "canonical": "https://doyuyo.com/en/menu/spicywings/spicy-wings-6",
+          "ogTitle": "SPICY WINGS 6’LI • Doyuyo",
+          "ogDescription": "6 spicy wings, coleslaw, patates, ketçap, mayonez, 1 gurme sos, içecek",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/spicy-wings-6-pieces",
+            "tr": "https://doyuyo.com/menu/spicy-wings-6-pieces",
+            "en": "https://doyuyo.com/en/menu/spicy-wings-6"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cheese-tenders-royale",
+    "image": "https://doyuyo.com/storage/692/Web_2508x2508px-filigrancajun-cheese-chicken-tenders-royale-sandvic%CC%A7_limonata.webp",
+    "cardImage": "https://doyuyo.com/storage/692/conversions/Web_2508x2508px-filigrancajun-cheese-chicken-tenders-royale-sandvic%CC%A7_limonata-middle.webp",
+    "categoryIds": [
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHEESE TENDERS ROYALE",
+        "slug": "cheese-tenders-royale",
+        "url": "https://doyuyo.com/menu/chicken-burger/cheese-tenders-royale",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cheese-tenders-royale"
+        ],
+        "shortDescription": "2 cheese chicken sandviç, patates, ketçap, mayonez + büyük içecek",
+        "description": "2 cheese chicken sandviç, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "CHEESE TENDERS ROYALE",
+        "meta": {
+          "title": "Chicken Burger - Cheese Tenders Royale | Doyuyo! Menü",
+          "description": "Cheese Tenders Royale, çıtır tavuk ve peynirin eşsiz uyumuyla hazırlanır. Doyuyo’da sizi bekliyor!",
+          "canonical": "https://doyuyo.com/menu/chicken-burger/cheese-tenders-royale",
+          "ogTitle": "Chicken Burger - Cheese Tenders Royale | Doyuyo! Menü",
+          "ogDescription": "Cheese Tenders Royale, çıtır tavuk ve peynirin eşsiz uyumuyla hazırlanır. Doyuyo’da sizi bekliyor!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheese-tenders-royale",
+            "tr": "https://doyuyo.com/menu/cheese-tenders-royale",
+            "en": "https://doyuyo.com/en/menu/cheese-tenders-royale"
+          }
+        }
+      },
+      "en": {
+        "name": "CHEESE TENDERS ROYALE",
+        "slug": "cheese-tenders-royale",
+        "url": "https://doyuyo.com/en/menu/chicken-burger/cheese-tenders-royale",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/cheese-tenders-royale"
+        ],
+        "shortDescription": "2 cheese chicken sandwiches, fries, ketchup, mayo + drink",
+        "description": "2 cheese chicken sandwiches, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "CHEESE TENDERS ROYALE",
+        "meta": {
+          "title": "Chicken Burgers - Cheese Tenders Royale | Doyuyo! Menu",
+          "description": "Tenders Royale, a fan favorite among crispy chicken lovers, awaits you at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/chicken-burger/cheese-tenders-royale",
+          "ogTitle": "Chicken Burgers - Cheese Tenders Royale | Doyuyo! Menu",
+          "ogDescription": "Tenders Royale, a fan favorite among crispy chicken lovers, awaits you at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheese-tenders-royale",
+            "tr": "https://doyuyo.com/menu/cheese-tenders-royale",
+            "en": "https://doyuyo.com/en/menu/cheese-tenders-royale"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "tenders-royale",
+    "image": "https://doyuyo.com/storage/694/Web_2508x2508px-filigrantenders-royale-chicken-sandvic%CC%A7.webp",
+    "cardImage": "https://doyuyo.com/storage/694/conversions/Web_2508x2508px-filigrantenders-royale-chicken-sandvic%CC%A7-middle.webp",
+    "categoryIds": [
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "TENDERS ROYALE",
+        "slug": "tenders-royale",
+        "url": "https://doyuyo.com/menu/chicken-burger/tenders-royale",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/tenders-royale"
+        ],
+        "shortDescription": "2 chicken sandviç, patates, ketçap, mayonez + büyük içecek",
+        "description": "2 chicken sandviç, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "TENDERS ROYALE",
+        "meta": {
+          "title": "Chicken Burger - Tenders Royale | Doyuyo! Menü",
+          "description": "Tenders Royale, çıtır tavuk severlerin favorisi olacak özel bir lezzet. Restoranlarımızda tadına bakın.",
+          "canonical": "https://doyuyo.com/menu/chicken-burger/tenders-royale",
+          "ogTitle": "Chicken Burger - Tenders Royale | Doyuyo! Menü",
+          "ogDescription": "Tenders Royale, çıtır tavuk severlerin favorisi olacak özel bir lezzet. Restoranlarımızda tadına bakın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/tenders-royale",
+            "tr": "https://doyuyo.com/menu/tenders-royale",
+            "en": "https://doyuyo.com/en/menu/tenders-royale"
+          }
+        }
+      },
+      "en": {
+        "name": "TENDERS ROYALE",
+        "slug": "tenders-royale",
+        "url": "https://doyuyo.com/en/menu/chicken-burger/tenders-royale",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/tenders-royale"
+        ],
+        "shortDescription": "2 chicken sandwiches, fries, ketchup, mayo + drink",
+        "description": "2 chicken sandwiches, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "TENDERS ROYALE",
+        "meta": {
+          "title": "Chicken Burgers - Tenders Royale | Doyuyo! Menu",
+          "description": "Double Cheese Chicken Burger combines crispy chicken and double cheese for a deliciously rich experience at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/chicken-burger/tenders-royale",
+          "ogTitle": "Chicken Burgers - Tenders Royale | Doyuyo! Menu",
+          "ogDescription": "Double Cheese Chicken Burger combines crispy chicken and double cheese for a deliciously rich experience at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/tenders-royale",
+            "tr": "https://doyuyo.com/menu/tenders-royale",
+            "en": "https://doyuyo.com/en/menu/tenders-royale"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "double-cheese-chicken-burger",
+    "image": "https://doyuyo.com/storage/747/Web_2508x2508px-filigrandouble-c.webp",
+    "cardImage": "https://doyuyo.com/storage/747/conversions/Web_2508x2508px-filigrandouble-c-middle.webp",
+    "categoryIds": [
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "DOUBLE CHEESE CHICKEN BURGER",
+        "slug": "double-cheese-chicken-burger",
+        "url": "https://doyuyo.com/menu/chicken-burger/double-cheese-chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/double-cheese-chicken-burger"
+        ],
+        "shortDescription": "1 double cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "description": "1 double cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "DOUBLE CHEESE CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burger - Double Cheese Chicken Burger | Doyuyo! Menü",
+          "description": "Cheese Burger sevenlerin Double Cheese Burger menüsü patates büyük boy patates kızartması el yapımı limonata yanında servis ediliyor.",
+          "canonical": "https://doyuyo.com/menu/chicken-burger/double-cheese-chicken-burger",
+          "ogTitle": "Chicken Burger - Double Cheese Chicken Burger | Doyuyo! Menü",
+          "ogDescription": "Cheese Burger sevenlerin Double Cheese Burger menüsü patates büyük boy patates kızartması el yapımı limonata yanında servis ediliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/double-cheese-chicken-burger",
+            "tr": "https://doyuyo.com/menu/double-cheese-chicken-burger",
+            "en": "https://doyuyo.com/en/menu/double-cheese-chicken-burger"
+          }
+        }
+      },
+      "en": {
+        "name": "DOUBLE CHEESE CHICKEN BURGER",
+        "slug": "double-cheese-chicken-burger",
+        "url": "https://doyuyo.com/en/menu/chicken-burger/double-cheese-chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/double-cheese-chicken-burger"
+        ],
+        "shortDescription": "1 double cheese chicken burger, fries, ketchup, mayo + drink",
+        "description": "1 double cheese chicken burger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "DOUBLE CHEESE CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burgers - Double Cheese Burger | Doyuyo Menu",
+          "description": "Cheese Chicken Burger pairs crispy chicken with cheese for a flavorful meal. Taste it at Doyuyo restaurants!",
+          "canonical": "https://doyuyo.com/en/menu/chicken-burger/double-cheese-chicken-burger",
+          "ogTitle": "Chicken Burgers - Double Cheese Burger | Doyuyo Menu",
+          "ogDescription": "Cheese Chicken Burger pairs crispy chicken with cheese for a flavorful meal. Taste it at Doyuyo restaurants!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/double-cheese-chicken-burger",
+            "tr": "https://doyuyo.com/menu/double-cheese-chicken-burger",
+            "en": "https://doyuyo.com/en/menu/double-cheese-chicken-burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cheese-chicken-burger",
+    "image": "https://doyuyo.com/storage/698/Web_2508x2508px-filigrancheese-chicken-burger_2.webp",
+    "cardImage": "https://doyuyo.com/storage/698/conversions/Web_2508x2508px-filigrancheese-chicken-burger_2-middle.webp",
+    "categoryIds": [
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHEESE CHICKEN BURGER",
+        "slug": "cheese-chicken-burger",
+        "url": "https://doyuyo.com/menu/chicken-burger/cheese-chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cheese-chicken-burger"
+        ],
+        "shortDescription": "1 cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "description": "1 cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "CHEESE CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burger - Cheese Chicken Burger | Doyuyo! Menü",
+          "description": "Cheese Chicken Burger, çıtır tavuk ve peynirle hazırlanan enfes bir lezzet. Doyuyo restoranlarında deneyin.",
+          "canonical": "https://doyuyo.com/menu/chicken-burger/cheese-chicken-burger",
+          "ogTitle": "Chicken Burger - Cheese Chicken Burger | Doyuyo! Menü",
+          "ogDescription": "Cheese Chicken Burger, çıtır tavuk ve peynirle hazırlanan enfes bir lezzet. Doyuyo restoranlarında deneyin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheese-chicken-burger",
+            "tr": "https://doyuyo.com/menu/cheese-chicken-burger",
+            "en": "https://doyuyo.com/en/menu/cheese-chicken-burger-1"
+          }
+        }
+      },
+      "en": {
+        "name": "CHEESE CHICKEN BURGER",
+        "slug": "cheese-chicken-burger-1",
+        "url": "https://doyuyo.com/en/menu/chicken-burger/cheese-chicken-burger-1",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/cheese-chicken-burger-1"
+        ],
+        "shortDescription": "1 cheese chicken burger, fries, ketchup, mayo + drink",
+        "description": "1 cheese chicken burger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "CHEESE CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burgers - Cheese Chicken Burger | Doyuyo!",
+          "description": "Spicy Cheese Chicken Burger, made for spice lovers, blends crispy chicken and cheese in every bite.",
+          "canonical": "https://doyuyo.com/en/menu/chicken-burger/cheese-chicken-burger-1",
+          "ogTitle": "Chicken Burgers - Cheese Chicken Burger | Doyuyo!",
+          "ogDescription": "Spicy Cheese Chicken Burger, made for spice lovers, blends crispy chicken and cheese in every bite.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheese-chicken-burger",
+            "tr": "https://doyuyo.com/menu/cheese-chicken-burger",
+            "en": "https://doyuyo.com/en/menu/cheese-chicken-burger-1"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "acili-cheese-chicken-burger",
+    "image": "https://doyuyo.com/storage/700/Web_2508x2508px-filigranac%C4%B1-crispy-burger_limonata.webp",
+    "cardImage": "https://doyuyo.com/storage/700/conversions/Web_2508x2508px-filigranac%C4%B1-crispy-burger_limonata-middle.webp",
+    "categoryIds": [
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ACILI CHEESE CHICKEN BURGER",
+        "slug": "acili-cheese-chicken-burger",
+        "url": "https://doyuyo.com/menu/chicken-burger/acili-cheese-chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/acili-cheese-chicken-burger"
+        ],
+        "shortDescription": "1 acılı cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "description": "1 acılı cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "ACILI CHEESE CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burger - Acılı Cheese Chicken Burger | Doyuyo! Menü",
+          "description": "Acılı Cheese Chicken Burger, baharatlı ve peynirli çıtır tavuk sevenler için hazırlanmıştır.",
+          "canonical": "https://doyuyo.com/menu/chicken-burger/acili-cheese-chicken-burger",
+          "ogTitle": "Chicken Burger - Acılı Cheese Chicken Burger | Doyuyo! Menü",
+          "ogDescription": "Acılı Cheese Chicken Burger, baharatlı ve peynirli çıtır tavuk sevenler için hazırlanmıştır.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acili-cheese-chicken-burger",
+            "tr": "https://doyuyo.com/menu/acili-cheese-chicken-burger",
+            "en": "https://doyuyo.com/en/menu/spicy-cheese-chicken-burger"
+          }
+        }
+      },
+      "en": {
+        "name": "SPICY CHEESE CHICKEN BURGER",
+        "slug": "spicy-cheese-chicken-burger",
+        "url": "https://doyuyo.com/en/menu/chicken-burger/spicy-cheese-chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/spicy-cheese-chicken-burger"
+        ],
+        "shortDescription": "1 spicy cheese chicken burger, fries, ketchup, mayo + drink",
+        "description": "1 spicy cheese chicken burger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "SPICY CHEESE CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burgers - Spicy Cheese Chicken Burger | Doyuyo! Menu",
+          "description": "Doyuyo Chicken Burger is a classic for crispy chicken lovers. Visit Doyuyo to savor this timeless menu!",
+          "canonical": "https://doyuyo.com/en/menu/chicken-burger/spicy-cheese-chicken-burger",
+          "ogTitle": "Chicken Burgers - Spicy Cheese Chicken Burger | Doyuyo! Menu",
+          "ogDescription": "Doyuyo Chicken Burger is a classic for crispy chicken lovers. Visit Doyuyo to savor this timeless menu!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/acili-cheese-chicken-burger",
+            "tr": "https://doyuyo.com/menu/acili-cheese-chicken-burger",
+            "en": "https://doyuyo.com/en/menu/spicy-cheese-chicken-burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "chicken-burger",
+    "image": "https://doyuyo.com/storage/702/Web_2508x2508px-filigranchicken-burger_limonata.webp",
+    "cardImage": "https://doyuyo.com/storage/702/conversions/Web_2508x2508px-filigranchicken-burger_limonata-middle.webp",
+    "categoryIds": [
+      "chicken-burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHICKEN BURGER",
+        "slug": "chicken-burger",
+        "url": "https://doyuyo.com/menu/chicken-burger/chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/chicken-burger"
+        ],
+        "shortDescription": "1 chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "description": "1 chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burger - Chicken Burger | Doyuyo! Menü",
+          "description": "Doyuyo Chicken Burger, çıtır tavuk severler için klasik bir lezzet sunuyor. Restoranlarımızda tadını çıkarın.",
+          "canonical": "https://doyuyo.com/menu/chicken-burger/chicken-burger",
+          "ogTitle": "Chicken Burger - Chicken Burger | Doyuyo! Menü",
+          "ogDescription": "Doyuyo Chicken Burger, çıtır tavuk severler için klasik bir lezzet sunuyor. Restoranlarımızda tadını çıkarın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/chicken-burger",
+            "tr": "https://doyuyo.com/menu/chicken-burger",
+            "en": "https://doyuyo.com/en/menu/chicken-burger"
+          }
+        }
+      },
+      "en": {
+        "name": "CHICKEN BURGER",
+        "slug": "chicken-burger",
+        "url": "https://doyuyo.com/en/menu/chicken-burger/chicken-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/chicken-burger"
+        ],
+        "shortDescription": "1 chicken burger, fries, ketchup, mayo + drink",
+        "description": "1 chicken burger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "CHICKEN BURGER",
+        "meta": {
+          "title": "Chicken Burgers - Chicken Burger | Doyuyo! Menu",
+          "description": "Deluxe Burger Combo, with 100% beef patties and fresh ingredients, is one of Doyuyo's signature creations.",
+          "canonical": "https://doyuyo.com/en/menu/chicken-burger/chicken-burger",
+          "ogTitle": "Chicken Burgers - Chicken Burger | Doyuyo! Menu",
+          "ogDescription": "Deluxe Burger Combo, with 100% beef patties and fresh ingredients, is one of Doyuyo's signature creations.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/chicken-burger",
+            "tr": "https://doyuyo.com/menu/chicken-burger",
+            "en": "https://doyuyo.com/en/menu/chicken-burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "deluxe-burger",
+    "image": "https://doyuyo.com/storage/706/Web_2508x2508px-filigrandeluxe-burger.webp",
+    "cardImage": "https://doyuyo.com/storage/706/conversions/Web_2508x2508px-filigrandeluxe-burger-middle.webp",
+    "categoryIds": [
+      "burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "DELUXE BURGER",
+        "slug": "deluxe-burger",
+        "url": "https://doyuyo.com/menu/burger/deluxe-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/deluxe-burger"
+        ],
+        "shortDescription": "1 etli tavuklu cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "description": "1 etli tavuklu cheese chicken burger, patates, ketçap, mayonez + büyük içecek",
+        "content": [],
+        "imageAlt": "DELUXE BURGER",
+        "meta": {
+          "title": "Burger - Deluxe Burger | Doyuyo! Menü",
+          "description": "Deluxe Burger, %100 dana eti ve özel baharatlarla hazırlanır. Doyuyo’nun mükemmel lezzetiyle tanışın.",
+          "canonical": "https://doyuyo.com/menu/burger/deluxe-burger",
+          "ogTitle": "Burger - Deluxe Burger | Doyuyo! Menü",
+          "ogDescription": "Deluxe Burger, %100 dana eti ve özel baharatlarla hazırlanır. Doyuyo’nun mükemmel lezzetiyle tanışın.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/deluxe-burger",
+            "tr": "https://doyuyo.com/menu/deluxe-burger",
+            "en": "https://doyuyo.com/en/menu/deluxe-burger"
+          }
+        }
+      },
+      "en": {
+        "name": "DELUXE BURGER",
+        "slug": "deluxe-burger",
+        "url": "https://doyuyo.com/en/menu/burger/deluxe-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/deluxe-burger"
+        ],
+        "shortDescription": "1 cheese chicken and cheeseburger, fries, ketchup, mayo + drink",
+        "description": "1 cheese chicken and cheeseburger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "DELUXE BURGER",
+        "meta": {
+          "title": "Burgers - Deluxe Burger | Doyuyo! Menu",
+          "description": "Cheeseburger Festival combines rich beef patties with melted cheddar for an indulgent burger experience at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/burger/deluxe-burger",
+          "ogTitle": "Burgers - Deluxe Burger | Doyuyo! Menu",
+          "ogDescription": "Cheeseburger Festival combines rich beef patties with melted cheddar for an indulgent burger experience at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/deluxe-burger",
+            "tr": "https://doyuyo.com/menu/deluxe-burger",
+            "en": "https://doyuyo.com/en/menu/deluxe-burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "double-cheese-burger",
+    "image": "https://doyuyo.com/storage/710/Web_2508x2508px-filigrandouble-cheese-burger_limonata.webp",
+    "cardImage": "https://doyuyo.com/storage/710/conversions/Web_2508x2508px-filigrandouble-cheese-burger_limonata-middle.webp",
+    "categoryIds": [
+      "burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "DOUBLE CHEESE BURGER",
+        "slug": "double-cheese-burger",
+        "url": "https://doyuyo.com/menu/burger/double-cheese-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/double-cheese-burger"
+        ],
+        "shortDescription": "1 double cheese burger, ketçap, mayonez, patates + büyük içecek",
+        "description": "1 double cheese burger, ketçap, mayonez, patates + büyük içecek",
+        "content": [],
+        "imageAlt": "DOUBLE CHEESE BURGER",
+        "meta": {
+          "title": "Burger - Double Cheese Burger | Doyuyo! Menü",
+          "description": "Double Cheese Burger, iki kat peynir ve %100 dana köftesiyle lezzet severlerin favorisi.",
+          "canonical": "https://doyuyo.com/menu/burger/double-cheese-burger",
+          "ogTitle": "Burger - Double Cheese Burger | Doyuyo! Menü",
+          "ogDescription": "Double Cheese Burger, iki kat peynir ve %100 dana köftesiyle lezzet severlerin favorisi.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/double-cheese-burger",
+            "tr": "https://doyuyo.com/menu/double-cheese-burger",
+            "en": "https://doyuyo.com/en/menu/double-cheeseburger"
+          }
+        }
+      },
+      "en": {
+        "name": "DOUBLE CHEESEBURGER",
+        "slug": "double-cheeseburger",
+        "url": "https://doyuyo.com/en/menu/burger/double-cheeseburger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/double-cheeseburger"
+        ],
+        "shortDescription": "1 double cheeseburger, fries, ketchup, mayo + drink",
+        "description": "1 double cheeseburger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "DOUBLE CHEESEBURGER",
+        "meta": {
+          "title": "Burgers - Double Cheese Burger | Doyuyo! Menu",
+          "description": "Cheese Burger, crafted with 100% beef and cheddar, delivers a perfectly balanced flavor. Taste it at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/burger/double-cheeseburger",
+          "ogTitle": "Burgers - Double Cheese Burger | Doyuyo! Menu",
+          "ogDescription": "Cheese Burger, crafted with 100% beef and cheddar, delivers a perfectly balanced flavor. Taste it at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/double-cheese-burger",
+            "tr": "https://doyuyo.com/menu/double-cheese-burger",
+            "en": "https://doyuyo.com/en/menu/double-cheeseburger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cheese-burger",
+    "image": "https://doyuyo.com/storage/712/Web_2508x2508px-filigrancheese-burger.webp",
+    "cardImage": "https://doyuyo.com/storage/712/conversions/Web_2508x2508px-filigrancheese-burger-middle.webp",
+    "categoryIds": [
+      "burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHEESE BURGER",
+        "slug": "cheese-burger",
+        "url": "https://doyuyo.com/menu/burger/cheese-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cheese-burger"
+        ],
+        "shortDescription": "1 cheese burger, ketçap, mayonez, patates + büyük içecek",
+        "description": "1 cheese burger, ketçap, mayonez, patates + büyük içecek",
+        "content": [],
+        "imageAlt": "CHEESE BURGER",
+        "meta": {
+          "title": "Burger - Cheese Burger | Doyuyo! Menü",
+          "description": "Cheese Burger, Doyuyo’nun %100 dana eti köftesi ve dilim cheddar peyniriyle eşsiz bir tat sunar.",
+          "canonical": "https://doyuyo.com/menu/burger/cheese-burger",
+          "ogTitle": "Burger - Cheese Burger | Doyuyo! Menü",
+          "ogDescription": "Cheese Burger, Doyuyo’nun %100 dana eti köftesi ve dilim cheddar peyniriyle eşsiz bir tat sunar.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheese-burger",
+            "tr": "https://doyuyo.com/menu/cheese-burger",
+            "en": "https://doyuyo.com/en/menu/cheese-burger"
+          }
+        }
+      },
+      "en": {
+        "name": "CHEESEBURGER",
+        "slug": "cheese-burger",
+        "url": "https://doyuyo.com/en/menu/burger/cheese-burger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/cheese-burger"
+        ],
+        "shortDescription": "1 cheeseburger, fries, ketchup, mayo + drink",
+        "description": "1 cheeseburger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "CHEESEBURGER",
+        "meta": {
+          "title": "Burgers - Cheese Burger | Doyuyo! Menu",
+          "description": "Doyuyo’s classic Hamburger features fresh brioche buns and 100% beef patties for a timeless burger experience.",
+          "canonical": "https://doyuyo.com/en/menu/burger/cheese-burger",
+          "ogTitle": "Burgers - Cheese Burger | Doyuyo! Menu",
+          "ogDescription": "Doyuyo’s classic Hamburger features fresh brioche buns and 100% beef patties for a timeless burger experience.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cheese-burger",
+            "tr": "https://doyuyo.com/menu/cheese-burger",
+            "en": "https://doyuyo.com/en/menu/cheese-burger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "hamburger",
+    "image": "https://doyuyo.com/storage/714/Web_2508x2508px-filigranmangal-burger_limonata.webp",
+    "cardImage": "https://doyuyo.com/storage/714/conversions/Web_2508x2508px-filigranmangal-burger_limonata-middle.webp",
+    "categoryIds": [
+      "burger"
+    ],
+    "translations": {
+      "tr": {
+        "name": "HAMBURGER",
+        "slug": "hamburger",
+        "url": "https://doyuyo.com/menu/burger/hamburger",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/hamburger"
+        ],
+        "shortDescription": "1 hamburger, ketçap, mayonez, patates + büyük içecek",
+        "description": "1 hamburger, ketçap, mayonez, patates + büyük içecek",
+        "content": [],
+        "imageAlt": "HAMBURGER",
+        "meta": {
+          "title": "Burger - Hambuarger | Doyuyo! Menü",
+          "description": "Doyuyo’nun klasik Hamburger’i, katkısız Brioche ekmeği ve %100 dana etiyle hazırlanır. Tadı unutulmaz!",
+          "canonical": "https://doyuyo.com/menu/burger/hamburger",
+          "ogTitle": "Burger - Hambuarger | Doyuyo! Menü",
+          "ogDescription": "Doyuyo’nun klasik Hamburger’i, katkısız Brioche ekmeği ve %100 dana etiyle hazırlanır. Tadı unutulmaz!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/hamburger",
+            "tr": "https://doyuyo.com/menu/hamburger",
+            "en": "https://doyuyo.com/en/menu/hamburger"
+          }
+        }
+      },
+      "en": {
+        "name": "HAMBURGER",
+        "slug": "hamburger",
+        "url": "https://doyuyo.com/en/menu/burger/hamburger",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/hamburger"
+        ],
+        "shortDescription": "1 hamburger, fries, ketchup, mayo + drink",
+        "description": "1 hamburger, fries, ketchup, mayo + drink",
+        "content": [],
+        "imageAlt": "HAMBURGER",
+        "meta": {
+          "title": "Burgers - Hamburger | Doyuyo! Menu",
+          "description": "Pepsi Zero Sugar is the perfect refreshing drink to complement your meal. Try it today at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/burger/hamburger",
+          "ogTitle": "Burgers - Hamburger | Doyuyo! Menu",
+          "ogDescription": "Pepsi Zero Sugar is the perfect refreshing drink to complement your meal. Try it today at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/hamburger",
+            "tr": "https://doyuyo.com/menu/hamburger",
+            "en": "https://doyuyo.com/en/menu/hamburger"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "cilekli-limonata",
+    "image": "https://doyuyo.com/storage/385/DELUXE_BURGER_COMBO-(5).webp",
+    "cardImage": "https://doyuyo.com/storage/385/conversions/DELUXE_BURGER_COMBO-(5)-middle.webp",
+    "categoryIds": [
+      "limonatalar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ÇİLEKLİ LİMONATA",
+        "slug": "cilekli-limonata",
+        "url": "https://doyuyo.com/menu/limonatalar/cilekli-limonata",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/cilekli-limonata"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "ÇİLEKLİ LİMONATA",
+        "meta": {
+          "title": "Ev Yapımı Limonata - Çilekli Limonata | Doyuyo! Menü",
+          "description": "Ev yapımı limonatalarımız arasından Çilekli limonata, tatlı ve ferahlatıcı aromasıyla Doyuyo restoranlarında sizi bekliyor.",
+          "canonical": "https://doyuyo.com/menu/limonatalar/cilekli-limonata",
+          "ogTitle": "Ev Yapımı Limonata - Çilekli Limonata | Doyuyo! Menü",
+          "ogDescription": "Ev yapımı limonatalarımız arasından Çilekli limonata, tatlı ve ferahlatıcı aromasıyla Doyuyo restoranlarında sizi bekliyor.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cilekli-limonata",
+            "tr": "https://doyuyo.com/menu/cilekli-limonata",
+            "en": "https://doyuyo.com/en/menu/strawberry-lemonade"
+          }
+        }
+      },
+      "en": {
+        "name": "STRAWBERRY LEMONADE",
+        "slug": "strawberry-lemonade",
+        "url": "https://doyuyo.com/en/menu/lemonades/strawberry-lemonade",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/strawberry-lemonade"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "STRAWBERRY LEMONADE",
+        "meta": {
+          "title": "Homemade Lemonade - Strawberry Lemonade | Doyuyo! Menu",
+          "description": "Among our homemade lemonades, Strawberry Lemonade stands out with its sweet and refreshing aroma. Discover it at Doyuyo!",
+          "canonical": "https://doyuyo.com/en/menu/lemonades/strawberry-lemonade",
+          "ogTitle": "Homemade Lemonade - Strawberry Lemonade | Doyuyo! Menu",
+          "ogDescription": "Among our homemade lemonades, Strawberry Lemonade stands out with its sweet and refreshing aroma. Discover it at Doyuyo!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/cilekli-limonata",
+            "tr": "https://doyuyo.com/menu/cilekli-limonata",
+            "en": "https://doyuyo.com/en/menu/strawberry-lemonade"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "limonata",
+    "image": "https://doyuyo.com/storage/387/DELUXE_BURGER_COMBO-(4).webp",
+    "cardImage": "https://doyuyo.com/storage/387/conversions/DELUXE_BURGER_COMBO-(4)-middle.webp",
+    "categoryIds": [
+      "limonatalar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "LİMONATA",
+        "slug": "limonata",
+        "url": "https://doyuyo.com/menu/limonatalar/limonata",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/limonata"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "LİMONATA",
+        "meta": {
+          "title": "Ev Yapımı Limonata - Limonata | Doyuyo! Menü",
+          "description": "Taptaze limonlarla hazırlanan klasik ev yapımı orijinal limonatamız, DAoyuyo’nun serinleten favorilerindendir.",
+          "canonical": "https://doyuyo.com/menu/limonatalar/limonata",
+          "ogTitle": "Ev Yapımı Limonata - Limonata | Doyuyo! Menü",
+          "ogDescription": "Taptaze limonlarla hazırlanan klasik ev yapımı orijinal limonatamız, DAoyuyo’nun serinleten favorilerindendir.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/limonata",
+            "tr": "https://doyuyo.com/menu/limonata",
+            "en": "https://doyuyo.com/en/menu/lemonade"
+          }
+        }
+      },
+      "en": {
+        "name": "LEMONADE",
+        "slug": "lemonade",
+        "url": "https://doyuyo.com/en/menu/lemonades/lemonade",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/lemonade"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "LEMONADE",
+        "meta": {
+          "title": "Homemade Lemonade - Classic Lemonade | Doyuyo! Menu",
+          "description": "Our classic homemade lemonade, crafted with freshly squeezed lemons, is one of Doyuyo’s all-time refreshing favorites.",
+          "canonical": "https://doyuyo.com/en/menu/lemonades/lemonade",
+          "ogTitle": "Homemade Lemonade - Classic Lemonade | Doyuyo! Menu",
+          "ogDescription": "Our classic homemade lemonade, crafted with freshly squeezed lemons, is one of Doyuyo’s all-time refreshing favorites.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/limonata",
+            "tr": "https://doyuyo.com/menu/limonata",
+            "en": "https://doyuyo.com/en/menu/lemonade"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "berry-hibiscus-limonata",
+    "image": "https://doyuyo.com/storage/389/DELUXE_BURGER_COMBO-(6).webp",
+    "cardImage": "https://doyuyo.com/storage/389/conversions/DELUXE_BURGER_COMBO-(6)-middle.webp",
+    "categoryIds": [
+      "limonatalar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "BERRY HIBISCUS LİMONATA",
+        "slug": "berry-hibiscus-limonata",
+        "url": "https://doyuyo.com/menu/limonatalar/berry-hibiscus-limonata",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/berry-hibiscus-limonata"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "BERRY HIBISCUS LİMONATA",
+        "meta": {
+          "title": "Ev Yapımı Limonata - Berry Hibiscus | Doyuyo! Menü",
+          "description": "Meyve ve çiçek aromalarının birleşimiyle eşsiz bir tat sunduğumuz Berry Hibiscus ev yapımı limonatamızı denemek için Doyuyo. Restoranlarımızı ziyaret edin.",
+          "canonical": "https://doyuyo.com/menu/limonatalar/berry-hibiscus-limonata",
+          "ogTitle": "Ev Yapımı Limonata - Berry Hibiscus | Doyuyo! Menü",
+          "ogDescription": "Meyve ve çiçek aromalarının birleşimiyle eşsiz bir tat sunduğumuz Berry Hibiscus ev yapımı limonatamızı denemek için Doyuyo. Restoranlarımızı ziyaret edin.",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/berry-hibiscus-limonata",
+            "tr": "https://doyuyo.com/menu/berry-hibiscus-limonata",
+            "en": "https://doyuyo.com/en/menu/berry-hibiscus-lemonade"
+          }
+        }
+      },
+      "en": {
+        "name": "BERRY HIBISCUS LEMONADE",
+        "slug": "berry-hibiscus-lemonade",
+        "url": "https://doyuyo.com/en/menu/lemonades/berry-hibiscus-lemonade",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/berry-hibiscus-lemonade"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "BERRY HIBISCUS LEMONADE",
+        "meta": {
+          "title": "Homemade Lemonade - Berry Hibiscus Lemonade | Doyuyo Menu",
+          "description": "Blending the vibrant aromas of fruits and flowers, our Berry Hibiscus homemade lemonade offers a unique flavor. Visit Doyuyo to try it today!",
+          "canonical": "https://doyuyo.com/en/menu/lemonades/berry-hibiscus-lemonade",
+          "ogTitle": "Homemade Lemonade - Berry Hibiscus Lemonade | Doyuyo Menu",
+          "ogDescription": "Blending the vibrant aromas of fruits and flowers, our Berry Hibiscus homemade lemonade offers a unique flavor. Visit Doyuyo to try it today!",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/berry-hibiscus-limonata",
+            "tr": "https://doyuyo.com/menu/berry-hibiscus-limonata",
+            "en": "https://doyuyo.com/en/menu/berry-hibiscus-lemonade"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "sriracha-mayo",
+    "image": "https://doyuyo.com/storage/676/Web_2508x2508px-filigransriracha-mayo.webp",
+    "cardImage": "https://doyuyo.com/storage/676/conversions/Web_2508x2508px-filigransriracha-mayo-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SRIRACHA MAYO",
+        "slug": "sriracha-mayo",
+        "url": "https://doyuyo.com/menu/gurme-soslar/sriracha-mayo",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/sriracha-mayo"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SRIRACHA MAYO",
+        "meta": {
+          "title": "SRIRACHA MAYONEZ • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/sriracha-mayo",
+          "ogTitle": "SRIRACHA MAYONEZ • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/sriracha-mayo",
+            "tr": "https://doyuyo.com/menu/sriracha-mayo",
+            "en": "https://doyuyo.com/en/menu/sriracha-mayo"
+          }
+        }
+      },
+      "en": {
+        "name": "SRIRACHA MAYO",
+        "slug": "sriracha-mayo",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/sriracha-mayo",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/sriracha-mayo"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SRIRACHA MAYO",
+        "meta": {
+          "title": "SRIRACHA MAYONEZ • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/sriracha-mayo",
+          "ogTitle": "SRIRACHA MAYONEZ • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/sriracha-mayo",
+            "tr": "https://doyuyo.com/menu/sriracha-mayo",
+            "en": "https://doyuyo.com/en/menu/sriracha-mayo"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "smoked-sweet-chili",
+    "image": "https://doyuyo.com/storage/674/Web_2508x2508px-filigransmoked-chili.webp",
+    "cardImage": "https://doyuyo.com/storage/674/conversions/Web_2508x2508px-filigransmoked-chili-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SMOKED SWEET CHILI",
+        "slug": "smoked-sweet-chili",
+        "url": "https://doyuyo.com/menu/gurme-soslar/smoked-sweet-chili",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/smoked-sweet-chili"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SMOKED SWEET CHILI",
+        "meta": {
+          "title": "SMOKED CHILI • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/smoked-sweet-chili",
+          "ogTitle": "SMOKED CHILI • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/smoked-sweet-chili",
+            "tr": "https://doyuyo.com/menu/smoked-sweet-chili",
+            "en": "https://doyuyo.com/en/menu/smoked-sweet-chili"
+          }
+        }
+      },
+      "en": {
+        "name": "SMOKED SWEET CHILI",
+        "slug": "smoked-sweet-chili",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/smoked-sweet-chili",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/smoked-sweet-chili"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SMOKED SWEET CHILI",
+        "meta": {
+          "title": "SMOKED CHILI • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/smoked-sweet-chili",
+          "ogTitle": "SMOKED CHILI • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/smoked-sweet-chili",
+            "tr": "https://doyuyo.com/menu/smoked-sweet-chili",
+            "en": "https://doyuyo.com/en/menu/smoked-sweet-chili"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "sarimsakli-mayonez",
+    "image": "https://doyuyo.com/storage/672/Web_2508x2508px-filigransar%C4%B1msakl%C4%B1-mayo.webp",
+    "cardImage": "https://doyuyo.com/storage/672/conversions/Web_2508x2508px-filigransar%C4%B1msakl%C4%B1-mayo-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "SARIMSAKLI MAYONEZ",
+        "slug": "sarimsakli-mayonez",
+        "url": "https://doyuyo.com/menu/gurme-soslar/sarimsakli-mayonez",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/sarimsakli-mayonez"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "SARIMSAKLI MAYONEZ",
+        "meta": {
+          "title": "• Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/sarimsakli-mayonez",
+          "ogTitle": "• Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/sarimsakli-mayonez",
+            "tr": "https://doyuyo.com/menu/sarimsakli-mayonez",
+            "en": "https://doyuyo.com/en/menu/garlic-mayonnaise"
+          }
+        }
+      },
+      "en": {
+        "name": "GARLIC MAYONNAISE",
+        "slug": "garlic-mayonnaise",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/garlic-mayonnaise",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/garlic-mayonnaise"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "GARLIC MAYONNAISE",
+        "meta": {
+          "title": "• Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/garlic-mayonnaise",
+          "ogTitle": "• Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/sarimsakli-mayonez",
+            "tr": "https://doyuyo.com/menu/sarimsakli-mayonez",
+            "en": "https://doyuyo.com/en/menu/garlic-mayonnaise"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "chefs-sambal",
+    "image": "https://doyuyo.com/storage/671/Web_2508x2508px-filigransambal.webp",
+    "cardImage": "https://doyuyo.com/storage/671/conversions/Web_2508x2508px-filigransambal-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "CHEF’S SAMBAL",
+        "slug": "chefs-sambal",
+        "url": "https://doyuyo.com/menu/gurme-soslar/chefs-sambal",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/chefs-sambal"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "CHEF’S SAMBAL",
+        "meta": {
+          "title": "SAMBAL SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/chefs-sambal",
+          "ogTitle": "SAMBAL SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/chefs-sambal",
+            "tr": "https://doyuyo.com/menu/chefs-sambal",
+            "en": "https://doyuyo.com/en/menu/chefs-sambal"
+          }
+        }
+      },
+      "en": {
+        "name": "CHEF’S SAMBAL",
+        "slug": "chefs-sambal",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/chefs-sambal",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/chefs-sambal"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "CHEF’S SAMBAL",
+        "meta": {
+          "title": "SAMBAL SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/chefs-sambal",
+          "ogTitle": "SAMBAL SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/chefs-sambal",
+            "tr": "https://doyuyo.com/menu/chefs-sambal",
+            "en": "https://doyuyo.com/en/menu/chefs-sambal"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "red-dragon",
+    "image": "https://doyuyo.com/storage/669/Web_2508x2508px-filigranred-dragon_s.webp",
+    "cardImage": "https://doyuyo.com/storage/669/conversions/Web_2508x2508px-filigranred-dragon_s-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "RED DRAGON",
+        "slug": "red-dragon",
+        "url": "https://doyuyo.com/menu/gurme-soslar/red-dragon",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/red-dragon"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "RED DRAGON",
+        "meta": {
+          "title": "RED DRAGON • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/red-dragon",
+          "ogTitle": "RED DRAGON • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/red-dragon",
+            "tr": "https://doyuyo.com/menu/red-dragon",
+            "en": "https://doyuyo.com/en/menu/red-dragon"
+          }
+        }
+      },
+      "en": {
+        "name": "RED DRAGON",
+        "slug": "red-dragon",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/red-dragon",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/red-dragon"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "RED DRAGON",
+        "meta": {
+          "title": "RED DRAGON • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/red-dragon",
+          "ogTitle": "RED DRAGON • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/red-dragon",
+            "tr": "https://doyuyo.com/menu/red-dragon",
+            "en": "https://doyuyo.com/en/menu/red-dragon"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ranch",
+    "image": "https://doyuyo.com/storage/667/Web_2508x2508px-filigranranch_s.webp",
+    "cardImage": "https://doyuyo.com/storage/667/conversions/Web_2508x2508px-filigranranch_s-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "RANCH",
+        "slug": "ranch",
+        "url": "https://doyuyo.com/menu/gurme-soslar/ranch",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/ranch"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "RANCH",
+        "meta": {
+          "title": "RANCH SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/ranch",
+          "ogTitle": "RANCH SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/ranch",
+            "tr": "https://doyuyo.com/menu/ranch",
+            "en": "https://doyuyo.com/en/menu/ranch"
+          }
+        }
+      },
+      "en": {
+        "name": "RANCH",
+        "slug": "ranch",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/ranch",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/ranch"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "RANCH",
+        "meta": {
+          "title": "RANCH SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/ranch",
+          "ogTitle": "RANCH SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/ranch",
+            "tr": "https://doyuyo.com/menu/ranch",
+            "en": "https://doyuyo.com/en/menu/ranch"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "original-cheddar",
+    "image": "https://doyuyo.com/storage/665/Web_2508x2508px-filigranoriginal-cheddar_s.webp",
+    "cardImage": "https://doyuyo.com/storage/665/conversions/Web_2508x2508px-filigranoriginal-cheddar_s-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "ORIGINAL CHEDDAR",
+        "slug": "original-cheddar",
+        "url": "https://doyuyo.com/menu/gurme-soslar/original-cheddar",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/original-cheddar"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "ORIGINAL CHEDDAR",
+        "meta": {
+          "title": "CHEDDAR SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/original-cheddar",
+          "ogTitle": "CHEDDAR SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/original-cheddar",
+            "tr": "https://doyuyo.com/menu/original-cheddar",
+            "en": "https://doyuyo.com/en/menu/original-cheddar"
+          }
+        }
+      },
+      "en": {
+        "name": "ORIGINAL CHEDDAR",
+        "slug": "original-cheddar",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/original-cheddar",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/original-cheddar"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "ORIGINAL CHEDDAR",
+        "meta": {
+          "title": "CHEDDAR SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/original-cheddar",
+          "ogTitle": "CHEDDAR SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/original-cheddar",
+            "tr": "https://doyuyo.com/menu/original-cheddar",
+            "en": "https://doyuyo.com/en/menu/original-cheddar"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "balli-hardal",
+    "image": "https://doyuyo.com/storage/661/Web_2508x2508px-filigranball%C4%B1-hardal.webp",
+    "cardImage": "https://doyuyo.com/storage/661/conversions/Web_2508x2508px-filigranball%C4%B1-hardal-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "BALLI HARDAL",
+        "slug": "balli-hardal",
+        "url": "https://doyuyo.com/menu/gurme-soslar/balli-hardal",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/balli-hardal"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "BALLI HARDAL",
+        "meta": {
+          "title": "BALLI HARDAL • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/balli-hardal",
+          "ogTitle": "BALLI HARDAL • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/balli-hardal",
+            "tr": "https://doyuyo.com/menu/balli-hardal",
+            "en": "https://doyuyo.com/en/menu/honey-mustard"
+          }
+        }
+      },
+      "en": {
+        "name": "HONEY MUSTARD",
+        "slug": "honey-mustard",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/honey-mustard",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/honey-mustard"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "HONEY MUSTARD",
+        "meta": {
+          "title": "BALLI HARDAL • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/honey-mustard",
+          "ogTitle": "BALLI HARDAL • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/balli-hardal",
+            "tr": "https://doyuyo.com/menu/balli-hardal",
+            "en": "https://doyuyo.com/en/menu/honey-mustard"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "bbq",
+    "image": "https://doyuyo.com/storage/663/Web_2508x2508px-filigranbarbeku_s.webp",
+    "cardImage": "https://doyuyo.com/storage/663/conversions/Web_2508x2508px-filigranbarbeku_s-middle.webp",
+    "categoryIds": [
+      "gurme-soslar"
+    ],
+    "translations": {
+      "tr": {
+        "name": "BBQ",
+        "slug": "bbq",
+        "url": "https://doyuyo.com/menu/gurme-soslar/bbq",
+        "aliasUrls": [
+          "https://doyuyo.com/menu/bbq"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "BBQ",
+        "meta": {
+          "title": "BARBEKÜ SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/menu/gurme-soslar/bbq",
+          "ogTitle": "BARBEKÜ SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/bbq",
+            "tr": "https://doyuyo.com/menu/bbq",
+            "en": "https://doyuyo.com/en/menu/bbq"
+          }
+        }
+      },
+      "en": {
+        "name": "BBQ",
+        "slug": "bbq",
+        "url": "https://doyuyo.com/en/menu/gourmet-sauces/bbq",
+        "aliasUrls": [
+          "https://doyuyo.com/en/menu/bbq"
+        ],
+        "shortDescription": "",
+        "description": "",
+        "content": [],
+        "imageAlt": "BBQ",
+        "meta": {
+          "title": "BARBEKÜ SOS • Doyuyo",
+          "description": "",
+          "canonical": "https://doyuyo.com/en/menu/gourmet-sauces/bbq",
+          "ogTitle": "BARBEKÜ SOS • Doyuyo",
+          "ogDescription": "",
+          "ogImage": null,
+          "ogType": "article",
+          "alternates": {
+            "x-default": "https://doyuyo.com/menu/bbq",
+            "tr": "https://doyuyo.com/menu/bbq",
+            "en": "https://doyuyo.com/en/menu/bbq"
+          }
+        }
+      }
+    }
+  }
+]

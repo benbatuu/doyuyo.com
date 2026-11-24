@@ -1,0 +1,14 @@
+node_modules
+.env*
+!.env.example
+.next
+dist
+.turbo
+tools/legacy-import/output/raw
+tools/legacy-import/output/media
+.env
+apps/web/public/media
+apps/web/public/vendor
+apps/web/public/uploads
+
+.DS_Store

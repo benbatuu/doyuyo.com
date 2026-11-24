@@ -1,0 +1,797 @@
+{
+  "source": "https://doyuyo.com/files/Alerjenler-ve-Besin-Icerikleri-Tablosu.pdf",
+  "pages": 3,
+  "allergenColumns": [
+    "Gluten",
+    "Yumurta",
+    "Balık",
+    "Yer Fıstığı",
+    "Kabuklular",
+    "Sert Kabuklu Meyveler",
+    "Soya",
+    "Süt",
+    "Kereviz",
+    "Hardal",
+    "Susam",
+    "Sülfitler",
+    "Acı Bakla",
+    "Yumuşakçalar"
+  ],
+  "allergens": [
+    {
+      "name": "TENDERS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten"
+      ]
+    },
+    {
+      "name": "ACILI TENDERS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten"
+      ]
+    },
+    {
+      "name": "CAJUN TENDERS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten"
+      ]
+    },
+    {
+      "name": "PAPRİKA PARMESAN TENDERS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Süt"
+      ]
+    },
+    {
+      "name": "CHICKERS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten"
+      ]
+    },
+    {
+      "name": "ACILI CHICKERS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten"
+      ]
+    },
+    {
+      "name": "SPICY WINGS",
+      "section": "ÇITIR TAVUK ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten"
+      ]
+    },
+    {
+      "name": "KETÇAP",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": []
+    },
+    {
+      "name": "MAYONEZ",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Yumurta",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "CHEF'S SAMBAL",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Soya",
+        "Kereviz",
+        "Hardal",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "SMOKED SWEET CHILI",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Soya",
+        "Kereviz",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "RED DRAGON",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": []
+    },
+    {
+      "name": "RANCH",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Yumurta",
+        "Süt"
+      ]
+    },
+    {
+      "name": "SRIRACHA MAYO",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Yumurta",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "BBQ",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Hardal",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "BALLI HARDAL",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Yumurta",
+        "Hardal",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "SARIMSAKLI MAYONEZ",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Yumurta",
+        "Hardal",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "CHEDDAR SOS",
+      "section": "SOS ÇEŞİTLERİ",
+      "allergens": [
+        "Süt"
+      ]
+    },
+    {
+      "name": "CHICKEN BURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "CHEESE CHICKEN BURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "DOUBLE CHICKEN BURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "DOUBLE CHEESE CHICKEN BURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "TENDERS ROYAL",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "CAJUN CHEESE CHICKEN SANDVIÇ",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "ACILI CHEESE CHICKEN BURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Soya",
+        "Süt",
+        "Kereviz",
+        "Hardal",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "ACILI CHEESE TENDERS ROYALE",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "HAMBURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "CHEESEBURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "DOUBLE CHEESEBURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "CHEESE TENDERS ROYALE",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "DELUXE BURGER",
+      "section": "BURGER ÇEŞİTLERİ",
+      "allergens": [
+        "Gluten",
+        "Yumurta",
+        "Süt",
+        "Hardal"
+      ]
+    },
+    {
+      "name": "SOSLU PATATES",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Süt",
+        "Kereviz",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "MOZZARELLA STICKS",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Gluten",
+        "Süt"
+      ]
+    },
+    {
+      "name": "SOSLU PATATES - CHEDDAR İLAVELİ",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Süt",
+        "Kereviz",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "SUSAMLI SOĞAN HALKASI",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Gluten",
+        "Susam"
+      ]
+    },
+    {
+      "name": "COLESLAW",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Yumurta",
+        "Hardal",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "PESTO & CHEDDAR SOSLU FUSİLLİ",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Gluten",
+        "Sert Kabuklu Meyveler",
+        "Süt",
+        "Kereviz"
+      ]
+    },
+    {
+      "name": "TURŞU",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": []
+    },
+    {
+      "name": "4'LÜ ACI TATLI CHICKERS",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Gluten",
+        "Soya",
+        "Kereviz",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "ACI TATLI CHICKERS PATATES",
+      "section": "BAŞLANGIÇLAR & YANINDA İYİ GİDERLER",
+      "allergens": [
+        "Gluten",
+        "Soya",
+        "Kereviz",
+        "Sülfitler"
+      ]
+    },
+    {
+      "name": "LİMONATA",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "ÇİLEKLİ LİMONATA",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "BERRY HIBISCUS",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "AYRAN (TAM YAĞLI)",
+      "section": "İÇECEKLER",
+      "allergens": [
+        "Soya"
+      ]
+    },
+    {
+      "name": "ŞEFTALİ AROMALI İÇECEK (ICE TEA) LIPTON (KUTU&BARDAK)",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "LİMON AROMALI İÇECEK (ICE TEA) LIPTON (Kutu & Bardak)",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "GAZOZ ( TURUNÇGİL AROMALI) - 7UP (KUTU&BARDAK)",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "GAZOZ (TATLI PORTAKAL AROMALI) - YEDİGÜN (KUTU&BARDAK)",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "LİMON AROMALI ZENGİN MİNERALLİ GAZLI İÇECEK ULUDAĞ",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "ŞEKERSİZ/ŞEKERLİ KOLA PEPSI",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "KOLA PEPSI (KUTU&BARDAK)",
+      "section": "İÇECEKLER",
+      "allergens": []
+    },
+    {
+      "name": "SODA ULUDAĞ",
+      "section": "İÇECEKLER",
+      "allergens": []
+    }
+  ],
+  "nutrition": [
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "CHICKEN BURGER",
+      "kj": 1096.2,
+      "kcal": 262,
+      "fat": 11.42,
+      "protein": 14.05,
+      "carbs": 25.69
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "CHEESE CHICKEN BURGER",
+      "kj": 1041.8,
+      "kcal": 249,
+      "fat": 10.81,
+      "protein": 13.94,
+      "carbs": 23.89
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "DOUBLE CHEESE CHICKEN BURGER",
+      "kj": 1083.7,
+      "kcal": 259,
+      "fat": 12.66,
+      "protein": 16.38,
+      "carbs": 19.87
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "TENDERS ROYAL SANDVİÇ",
+      "kj": 1150.6,
+      "kcal": 275,
+      "fat": 13.75,
+      "protein": 11.73,
+      "carbs": 26.17
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "CAJUN CHEESE CHICKEN SANDVİÇ",
+      "kj": 1209.2,
+      "kcal": 289,
+      "fat": 14.62,
+      "protein": 12.71,
+      "carbs": 26.57
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "ACILI CHEESE CHICKEN BURGER",
+      "kj": 1142.2,
+      "kcal": 273,
+      "fat": 11.98,
+      "protein": 13.95,
+      "carbs": 27.36
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "ACILI CHEESE SANDVİÇ",
+      "kj": 1226,
+      "kcal": 293,
+      "fat": 13.73,
+      "protein": 12.18,
+      "carbs": 30.3
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "HAMBURGER",
+      "kj": 1087.8,
+      "kcal": 260,
+      "fat": 9.8,
+      "protein": 13.81,
+      "carbs": 29.12
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "CHEESEBURGER",
+      "kj": 1112.9,
+      "kcal": 266,
+      "fat": 11.5,
+      "protein": 13.4,
+      "carbs": 27.23
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "DOUBLE CHEESE BURGER",
+      "kj": 1096.2,
+      "kcal": 262,
+      "fat": 12.3,
+      "protein": 15.67,
+      "carbs": 22.16
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "CHEESE TENDERS ROYALE",
+      "kj": 1209.2,
+      "kcal": 289,
+      "fat": 14.42,
+      "protein": 12.61,
+      "carbs": 27.12
+    },
+    {
+      "section": "BURGERS & SANDWICHES",
+      "name": "DELUXE BURGER",
+      "kj": 1159,
+      "kcal": 277,
+      "fat": 14.54,
+      "protein": 15.63,
+      "carbs": 20.81
+    },
+    {
+      "section": "IÇECEKLER",
+      "name": "LİMONATA",
+      "kj": 159,
+      "kcal": 38,
+      "fat": 0,
+      "protein": 0.24,
+      "carbs": 9.18
+    },
+    {
+      "section": "IÇECEKLER",
+      "name": "ÇİLEKLİ LİMONATA",
+      "kj": 184.1,
+      "kcal": 44,
+      "fat": 0,
+      "protein": 0.29,
+      "carbs": 10.71
+    },
+    {
+      "section": "IÇECEKLER",
+      "name": "BERRY HIBISCUS",
+      "kj": 117.2,
+      "kcal": 28,
+      "fat": 0,
+      "protein": 0.27,
+      "carbs": 6.72
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "ORIJINAL TENDERS",
+      "kj": 1125.5,
+      "kcal": 269,
+      "fat": 14.23,
+      "protein": 23.15,
+      "carbs": 12.2
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "ACILI TENDERS",
+      "kj": 1125.5,
+      "kcal": 269,
+      "fat": 13.03,
+      "protein": 23.34,
+      "carbs": 14.52
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "ACILI CHICKERS",
+      "kj": 1246.8,
+      "kcal": 298,
+      "fat": 16.3,
+      "protein": 22.47,
+      "carbs": 15.27
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "ACI TATLI CHICKERS",
+      "kj": 1221.7,
+      "kcal": 292,
+      "fat": 11.86,
+      "protein": 17.02,
+      "carbs": 29.29
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "CAJUN TENDERS",
+      "kj": 1179.9,
+      "kcal": 282,
+      "fat": 15.64,
+      "protein": 23.68,
+      "carbs": 11.61
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "PAPRIKA PARMESAN TENDERS",
+      "kj": 1179.9,
+      "kcal": 282,
+      "fat": 14.77,
+      "protein": 22.57,
+      "carbs": 14.72
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "SPICY WINGS",
+      "kj": 1230.1,
+      "kcal": 294,
+      "fat": 17.64,
+      "protein": 20.23,
+      "carbs": 13.49
+    },
+    {
+      "section": "ÇITIR PARÇA TAVUKLAR",
+      "name": "CHICKERS",
+      "kj": 1020.9,
+      "kcal": 244,
+      "fat": 11.88,
+      "protein": 22.84,
+      "carbs": 11.47
+    },
+    {
+      "section": "YAN ÜRÜNLER & ATISTIRMALIKLAR",
+      "name": "PATATES",
+      "kj": 1318,
+      "kcal": 315,
+      "fat": 12.25,
+      "protein": 4.57,
+      "carbs": 46.65
+    },
+    {
+      "section": "YAN ÜRÜNLER & ATISTIRMALIKLAR",
+      "name": "MOZZARELLA STICKS",
+      "kj": 1631.8,
+      "kcal": 390,
+      "fat": 24.18,
+      "protein": 16.78,
+      "carbs": 26.28
+    },
+    {
+      "section": "YAN ÜRÜNLER & ATISTIRMALIKLAR",
+      "name": "SOSLU PATATES",
+      "kj": 1067,
+      "kcal": 255,
+      "fat": 14.53,
+      "protein": 3.42,
+      "carbs": 27.59
+    },
+    {
+      "section": "YAN ÜRÜNLER & ATISTIRMALIKLAR",
+      "name": "COLESLAW",
+      "kj": 510.5,
+      "kcal": 122,
+      "fat": 9.07,
+      "protein": 1.62,
+      "carbs": 8.45
+    },
+    {
+      "section": "YAN ÜRÜNLER & ATISTIRMALIKLAR",
+      "name": "SUSAMLI SOĞAN HALKASI",
+      "kj": 1489.5,
+      "kcal": 356,
+      "fat": 20.88,
+      "protein": 5.49,
+      "carbs": 36.44
+    },
+    {
+      "section": "YAN ÜRÜNLER & ATISTIRMALIKLAR",
+      "name": "PESTO & CHEDDAR SOSLU FUSİLLİ",
+      "kj": 1029.3,
+      "kcal": 246,
+      "fat": 8.7,
+      "protein": 6.57,
+      "carbs": 35.23
+    },
+    {
+      "section": "SOSLAR",
+      "name": "KETÇAP",
+      "kj": 404,
+      "kcal": 97,
+      "fat": 0.3,
+      "protein": 1.1,
+      "carbs": 22.4,
+      "note": "PDF'te satır adı ayrı metin olarak duruyor; bloktaki tek isimsiz satır KETÇAP ile eşlendi. Elle doğrulanmalı."
+    },
+    {
+      "section": "SOSLAR",
+      "name": "MAYONEZ",
+      "kj": 1572,
+      "kcal": 376,
+      "fat": 35,
+      "protein": 0.5,
+      "carbs": 15.9
+    },
+    {
+      "section": "SOSLAR",
+      "name": "CHEF'S SAMBAL",
+      "kj": 2066.2,
+      "kcal": 494.3,
+      "fat": 45.1,
+      "protein": 0.7,
+      "carbs": 21.4
+    },
+    {
+      "section": "SOSLAR",
+      "name": "SMOKED SWEET CHILI",
+      "kj": 885,
+      "kcal": 211,
+      "fat": 0.1,
+      "protein": 0.3,
+      "carbs": 52.3
+    },
+    {
+      "section": "SOSLAR",
+      "name": "RED DRAGON",
+      "kj": 449,
+      "kcal": 107,
+      "fat": 1.8,
+      "protein": 0.8,
+      "carbs": 22
+    },
+    {
+      "section": "SOSLAR",
+      "name": "RANCH",
+      "kj": 1587,
+      "kcal": 380,
+      "fat": 36.1,
+      "protein": 1.3,
+      "carbs": 12.4
+    },
+    {
+      "section": "SOSLAR",
+      "name": "SRIRACHA MAYO",
+      "kj": 2564,
+      "kcal": 613,
+      "fat": 65,
+      "protein": 0.6,
+      "carbs": 6
+    },
+    {
+      "section": "SOSLAR",
+      "name": "BBQ",
+      "kj": 702,
+      "kcal": 168,
+      "fat": 0.3,
+      "protein": 1.2,
+      "carbs": 40.1
+    },
+    {
+      "section": "SOSLAR",
+      "name": "BALLI HARDAL",
+      "kj": 1458,
+      "kcal": 349,
+      "fat": 27.6,
+      "protein": 1,
+      "carbs": 24.1
+    },
+    {
+      "section": "SOSLAR",
+      "name": "SARIMSAKLI MAYONEZ",
+      "kj": 1641,
+      "kcal": 392,
+      "fat": 39.8,
+      "protein": 0.9,
+      "carbs": 6.9
+    }
+  ],
+  "notes": [
+    "Alerji ve Alerjen Hakkında Bilgilendirme: Vücudun normalde zararlı olmayan bazı maddelere karşı aşırı reaksiyon göstermesine alerji, vücudun reaksiyon gösterdiği bu maddelere ise alerjen denir. Türk Gıda Kodeksi Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliği’nde yer alan gıda alerjen maddeleri, tablonun üst bölümünde özel ikonları ile belirtilmiştir.",
+    "*Çapraz Bulaşma Riski: Ürünlerimiz aynı mutfak ortamında ve ortak ekipmanlar kullanılarak hazırlandığından, çapraz bulaşma nedeniyle eser miktarda diğer alerjenleri içerebilir. Alerjisi veya hassasiyeti olan misafirlerimizin sipariş öncesinde personelimize bilgi vermesini rica ederiz.",
+    "** Patates ürününe patates baharatı ilave edildiğinde 'Gluten' içermektedir.",
+    "Not: Tablodaki değerler aksi belirtilmedikçe 100 g / 100 ml ürün için geçerlidir.",
+    "* Kalori değerleri standart reçetelerimize göre hesaplanmış olup, porsiyonlama ve pişirme sürecine bağlı olarak küçük değişiklikler gösterebilir."
+  ],
+  "rawText": [
+    "Ürünlerimize ait kalori, içerik ve alerjen listelerimize buradan ulaşabilir; öğününüzü güvenle ve afiyetle yiyebilirsiniz.\nALERJENLER VE\nBESIN DeGerleri\nTABLOSU",
+    "Alerji ve Alerjen Hakkında Bilgilendirme: Vücudun normalde zararlı olmayan bazı maddelere karşı aşırı reaksiyon göstermesine alerji, vücudun reaksiyon gösterdiği bu maddelere\nise alerjen denir. Türk Gıda Kodeksi Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliği’nde yer alan gıda alerjen maddeleri, tablonun üst bölümünde özel ikonları ile belirtilmiştir.\nBuna göre menümüzde yer alan ürünlerin içerdiği alerjenler, ilgili ürünün satırında onay işareti ile sembolize edilmiş; üründe bulunmayan alerjenler ise boş bırakılmıştır.\n*Çapraz Bulaşma Riski: Ürünlerimiz aynı mutfak ortamında ve ortak ekipmanlar kullanılarak hazırlandığından, çapraz bulaşma nedeniyle\neser miktarda diğer alerjenleri içerebilir. Alerjisi veya hassasiyeti olan misafirlerimizin sipariş öncesinde personelimize bilgi vermesini rica ederiz.\n** Patates ürününe patates baharatı ilave edildiğinde 'Gluten' içermektedir.\nAlerjen Tablosu\nYumurta\nYumurta ve\nÜrünleri\nBalık\nBalık Ürünleri\nYer Fıstığı\nYer Fıstığı\nÜrünleri\nKabuklular\nKabuklular\nve Ürünleri\nSert Kabuklu\nMeyveler\nSert Kabuklu\nMeyveler\nve Ürünleri\nSoya\nSoya Fasulyesi\nÜrünleri\nSüt\nSüt ve\nSüt Ürünleri\nKereviz\nKereviz\nÜrünleri\nHardal\nHardal\nÜrünleri\nSusam\nSusam Tohumu\nÜrünleri\nSülfitler\nKükürtdioksit\nve Sülfitler\nAcı Bakla\nAcı Bakla ve\nBakla Ürünleri\nYumuşakçalar\nYumuşakçalar\nve Ürünleri\nGluten\nGluten İçeren\nTahıllar\nTENDERS\nACILI TENDERS\nCAJUN TENDERS\nPAPRİKA PARMESAN TENDERS\nCHICKERS\nACILI CHICKERS\nSPICY WINGS\nÇITIR TAVUK ÇEŞİTLERİ\nKETÇAP\nMAYONEZ\nCHEF'S SAMBAL\nSMOKED SWEET CHILI\nRED DRAGON\nRANCH\nSRIRACHA MAYO\nBBQ\nBALLI HARDAL\nSARIMSAKLI MAYONEZ\nCHEDDAR SOS\nSOS ÇEŞİTLERİ\nCHICKEN BURGER\nCHEESE CHICKEN BURGER\nDOUBLE CHICKEN BURGER\nDOUBLE CHEESE CHICKEN BURGER\nTENDERS ROYAL\nCAJUN CHEESE CHICKEN SANDVIÇ\nACILI CHEESE CHICKEN BURGER\nACILI CHEESE TENDERS ROYALE\nHAMBURGER\nCHEESEBURGER\nDOUBLE CHEESEBURGER\nCHEESE TENDERS ROYALE\nDELUXE BURGER\nBURGER ÇEŞİTLERİ\nSOSLU PATATES\nMOZZARELLA STICKS\nSOSLU PATATES - CHEDDAR İLAVELİ\nSUSAMLI SOĞAN HALKASI\nCOLESLAW\nPESTO & CHEDDAR SOSLU FUSİLLİ\nTURŞU\n4'LÜ ACI TATLI CHICKERS\nACI TATLI CHICKERS PATATES\nBAŞLANGIÇLAR & YANINDA İYİ GİDERLER\nLİMONATA\nÇİLEKLİ LİMONATA\nBERRY HIBISCUS\nAYRAN (TAM YAĞLI)\nŞEFTALİ AROMALI İÇECEK (ICE TEA) LIPTON (KUTU&BARDAK)\nLİMON AROMALI İÇECEK (ICE TEA) LIPTON (Kutu & Bardak)\nGAZOZ ( TURUNÇGİL AROMALI) - 7UP (KUTU&BARDAK)\nGAZOZ (TATLI PORTAKAL AROMALI) - YEDİGÜN (KUTU&BARDAK)\nLİMON AROMALI ZENGİN MİNERALLİ GAZLI İÇECEK ULUDAĞ\nŞEKERSİZ/ŞEKERLİ KOLA PEPSI\nKOLA PEPSI (KUTU&BARDAK)\nSODA ULUDAĞ\nİÇECEKLER",
+    "Not: Tablodaki değerler aksi belirtilmedikçe 100 g / 100 ml ürün için geçerlidir.\n* Kalori değerleri standart reçetelerimize göre hesaplanmış olup, porsiyonlama ve pişirme sürecine bağlı olarak küçük değişiklikler gösterebilir.\nBURGERS & SANDWICHES\nCHICKEN BURGER 1096,2 / 262 11.42 14.05 25.69\nCHEESE CHICKEN BURGER 1041,8 / 249 10.81 13.94 23.89\nDOUBLE CHEESE CHICKEN BURGER 1083,7 / 259 12.66 16.38 19.87\nTENDERS ROYAL SANDVİÇ 1150,6 / 275 13.75 11.73 26.17\nCAJUN CHEESE CHICKEN SANDVİÇ 1209,2 / 289 14.62 12.71 26.57\nACILI CHEESE CHICKEN BURGER 1142,2 / 273 11.98 13.95 27.36\nACILI CHEESE SANDVİÇ 1226,0 / 293 13.73 12.18 30.30\nHAMBURGER 1087,8 / 260 9.80 13.81 29.12\nCHEESEBURGER 1112,9 / 266 11.50 13.40 27.23\nDOUBLE CHEESE BURGER 1096,2 / 262 12.30 15.67 22.16\nCHEESE TENDERS ROYALE 1209,2 / 289 14.42 12.61 27.12\nDELUXE BURGER 1159,0 / 277 14.54 15.63 20.81\nEnerji (kJ/kcal) Yağ (g) Protein (g) Karbonhidrat (g)Ürün Adı\nIÇECEKLER\nLİMONATA 159,0 / 38 0 0.24 9.18\nÇİLEKLİ LİMONATA 184,1 / 44 0 0.29 10.71\nBERRY HIBISCUS 117,2 / 28 0 0.27 6.72\nEnerji (kJ/kcal) Yağ (g) Protein (g) Karbonhidrat (g)Ürün Adı\nÇITIR PARÇA TAVUKLAR\nORIJINAL TENDERS 1125,5 / 269 14.23 23.15 12.20\nACILI TENDERS 1125,5 / 269 13.03 23.34 14.52\nACILI CHICKERS 1246,8 / 298 16.30 22.47 15.27\nACI TATLI CHICKERS 1221,7 / 292 11.86 17.02 29.29\nCAJUN TENDERS 1179,9 / 282 15.64 23.68 11.61\nPAPRIKA PARMESAN TENDERS 1179,9 / 282 14.77 22.57 14.72\nSPICY WINGS 1230,1 / 294 17.64 20.23 13.49\nCHICKERS 1020,9 / 244 11.88 22.84 11.47\nEnerji (kJ/kcal) Yağ (g) Protein (g) Karbonhidrat (g)Ürün Adı\nYAN ÜRÜNLER & ATISTIRMALIKLAR\nPATATES 1318,0 / 315 12.25 4.57 46.65\nMOZZARELLA STICKS 1631,8 / 390 24.18 16.78 26.28\nSOSLU PATATES 1067,0 / 255 14.53 3.42 27.59\nCOLESLAW 510,5 / 122 9.07 1.62 8.45\nSUSAMLI SOĞAN HALKASI 1489,5 / 356 20.88 5.49 36.44\nPESTO & CHEDDAR SOSLU FUSİLLİ 1029,3 / 246 8.70 6.57 35.23\nEnerji (kJ/kcal) Yağ (g) Protein (g) Karbonhidrat (g)Ürün Adı\nSOSLAR\n404,0 / 97 0.30 1.10 22.40\nMAYONEZ 1572,0 / 376 35.00 0.50 15.90\nCHEF'S SAMBAL 2066,2 / 494,3 45.10 0.70 21.40\nSMOKED SWEET CHILI 885,0 / 211 0.10 0.30 52.30\nRED DRAGON 449,0 / 107 1.80 0.80 22.00\nRANCH 1587,0 / 380 36.10 1.30 12.40\nSRIRACHA MAYO 2564,0 / 613 65.00 0.60 6.00\nBBQ 702,0 / 168 0.30 1.20 40.10\nBALLI HARDAL 1458,0 / 349 27.60 1.00 24.10\nSARIMSAKLI MAYONEZ 1641,0 / 392 39.80 0.90 6.90\nEnerji (kJ/kcal) Yağ (g) Protein (g) Karbonhidrat (g)\nKETÇAP\nÜrün Adı\nKALORI VE BESIN DEGERLERI\nTABLOSU"
+  ]
+}

@@ -1,0 +1,61 @@
+# Production: docker compose -f docker-compose.prod.yml --env-file .env.production up -d --build
+# First time only, after `up`: docker compose -f docker-compose.prod.yml run --rm -e SEED_CONFIRM=yes tools pnpm db:seed
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: doyuyo
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD}
+      POSTGRES_DB: doyuyo
+    volumes:
+      - db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U doyuyo"]
+      interval: 5s
+      retries: 10
+
+  tools:
+    build: { context: ., target: tools }
+    profiles: ["tools"]
+    environment:
+      DATABASE_URL: postgres://doyuyo:${POSTGRES_PASSWORD}@db:5432/doyuyo
+    depends_on: { db: { condition: service_healthy } }
+
+  migrate:
+    build: { context: ., target: tools }
+    command: ["pnpm", "db:migrate"]
+    environment:
+      DATABASE_URL: postgres://doyuyo:${POSTGRES_PASSWORD}@db:5432/doyuyo
+    depends_on: { db: { condition: service_healthy } }
+
+  web:
+    build: { context: ., args: { APP: web, NEXT_PUBLIC_SITE_URL: "https://doyuyo.com", NEXT_PUBLIC_GA_ID: "${NEXT_PUBLIC_GA_ID:-}", NEXT_PUBLIC_TURNSTILE_SITE_KEY: "${NEXT_PUBLIC_TURNSTILE_SITE_KEY:-}" } }
+    restart: unless-stopped
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgres://doyuyo:${POSTGRES_PASSWORD}@db:5432/doyuyo
+    depends_on: { migrate: { condition: service_completed_successfully } }
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/api/health"]
+      interval: 30s
+
+  admin:
+    build: { context: ., args: { APP: admin } }
+    restart: unless-stopped
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgres://doyuyo:${POSTGRES_PASSWORD}@db:5432/doyuyo
+    depends_on: { migrate: { condition: service_completed_successfully } }
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+    depends_on: [web, admin]
+volumes:
+  db:
+  caddy-data:

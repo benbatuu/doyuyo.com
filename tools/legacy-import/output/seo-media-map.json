@@ -1,0 +1,838 @@
+[
+  {
+    "from": "assets/images/logo/colored.svg",
+    "to": "img/doyuyo-logo.svg"
+  },
+  {
+    "from": "files/Alerjenler-ve-Besin-Icerikleri-Tablosu.pdf",
+    "to": "docs/doyuyo-alerjen-ve-besin-degerleri-tablosu.pdf"
+  },
+  {
+    "from": "storage/10/Tenders_Festival.jpg",
+    "to": "img/flavors-tenders-festival-doyuyo.jpg"
+  },
+  {
+    "from": "storage/101/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-sankopark-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/103/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-sur-yapi-marka-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/105/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-torium-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/107/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-vadi-istanbul-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/109/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-van-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/11/doyuyo-lezzetleri-burger-sandvic-090323.jpg",
+    "to": "img/flavors-chicken-burger-sandvicler-doyuyo-2.jpg"
+  },
+  {
+    "from": "storage/111/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-venezia-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/113/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-via-marin-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/115/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-viaport-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/12/doyuyo-lezzetleri-acisever-lezzetler-090323.jpg",
+    "to": "img/flavors-acisever-lezzetler-doyuyo-3.jpg"
+  },
+  {
+    "from": "storage/121/doyuyo-anasayfa-slider-desktop-020123-1.jpg",
+    "to": "img/doyuyo-citir-tavuk-anasayfa-kapak-2.jpg"
+  },
+  {
+    "from": "storage/146/PARDO_FOOD_KATALOG_2023_FIN_KUCUK.pdf",
+    "to": "docs/pardofood-kurumsal-katalog-2023.pdf"
+  },
+  {
+    "from": "storage/15/doyuyo-malzemelerimiz-130123-1a.jpg",
+    "to": "img/ingredients-et-ve-tavuk-urunleri-doyuyo-2.jpg"
+  },
+  {
+    "from": "storage/183/Carmelo-Logo.webp",
+    "to": "img/pardofood-grup-carmelo-logo.webp"
+  },
+  {
+    "from": "storage/185/PanArtisan-logo-renkli.webp",
+    "to": "img/pardofood-grup-panartisan-logo-renkli.webp"
+  },
+  {
+    "from": "storage/186/PardoFood-Logo.webp",
+    "to": "img/pardofood-logo.webp"
+  },
+  {
+    "from": "storage/192/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-kucukyali-hilltown-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/196/slider-3.jpg",
+    "to": "img/doyuyo-ozdilek-park-avm-doyuyo-sube.jpg"
+  },
+  {
+    "from": "storage/198/slider-3.jpg",
+    "to": "img/doyuyo-piazza-avm-doyuyo-sube.jpg"
+  },
+  {
+    "from": "storage/200/slider-3.jpg",
+    "to": "img/doyuyo-alanya-cadde-doyuyo-sube.jpg"
+  },
+  {
+    "from": "storage/204/slider-3.jpg",
+    "to": "img/doyuyo-alemdag-caddesi-doyuyo-sube.jpg"
+  },
+  {
+    "from": "storage/210/slider-3.jpg",
+    "to": "img/doyuyo-beachpark-doyuyo-sube.jpg"
+  },
+  {
+    "from": "storage/212/Yemeksepeti_logo.svg.png",
+    "to": "img/yemek-sepeti-online-siparis-logo.png"
+  },
+  {
+    "from": "storage/219/doyuyo-anasayfa-slider-desktop-020123-3-(1).jpg",
+    "to": "img/doyuyo-citir-tavuk-anasayfa-kapak.jpg"
+  },
+  {
+    "from": "storage/221/Orjinal-tenders.webp",
+    "to": "img/home-biz-kimiz-doyuyo-6.webp"
+  },
+  {
+    "from": "storage/237/Tenders-Festival-600x400.jpg",
+    "to": "img/home-lezzetlerimiz-doyuyo-3.jpg"
+  },
+  {
+    "from": "storage/238/Friends-Combo-768x536.jpg",
+    "to": "img/flavors-hamburgerler-doyuyo-4.jpg"
+  },
+  {
+    "from": "storage/239/Friends-Combo-768x536.jpg",
+    "to": "img/flavors-combo-menuler-doyuyo-5.jpg"
+  },
+  {
+    "from": "storage/240/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-dubai-mall-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/241/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-starcity-outlet-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/243/doyuyo-yatirimci-ol-160123-2-optimize-1024.webp",
+    "to": "img/investor-nasil-calisiyoruz-doyuyo.webp"
+  },
+  {
+    "from": "storage/245/doyuyo-yatirimci-ol-160123-1-optimize-1024.webp",
+    "to": "img/investor-nasil-calisiyoruz-doyuyo-2.webp"
+  },
+  {
+    "from": "storage/247/doyuyo-yatirimci-ol-160123-3-optimize-1024.webp",
+    "to": "img/investor-nasil-calisiyoruz-doyuyo-3.webp"
+  },
+  {
+    "from": "storage/249/doyuyo-yatirimci-ol-160123-4-optimize-1024.webp",
+    "to": "img/investor-nasil-calisiyoruz-doyuyo-4.webp"
+  },
+  {
+    "from": "storage/251/doyuyo-yatirimci-ol-160123-5-optimize-1024.webp",
+    "to": "img/investor-nasil-calisiyoruz-doyuyo-5.webp"
+  },
+  {
+    "from": "storage/253/7-1460X1037.jpg",
+    "to": "img/flavors-lemonade-refreshment-at-doyuyo-doyuyo-7-en.jpg"
+  },
+  {
+    "from": "storage/254/3-2400X1125.webp",
+    "to": "img/doyuyo-citir-tavuk-anasayfa-kapak-en.webp"
+  },
+  {
+    "from": "storage/256/1-2400X1125.webp",
+    "to": "img/doyuyo-citir-tavuk-anasayfa-kapak-2-en.webp"
+  },
+  {
+    "from": "storage/274/8-1460X876[3]-(1).jpg",
+    "to": "img/flavors-sauces-doyuyo-6-en.jpg"
+  },
+  {
+    "from": "storage/28/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-41-burda-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/292/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-uskudar-cadde-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/294/image-01-desktop-optimize-262-(1).webp",
+    "to": "img/doyuyo-balikesir-10-burda-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/3/doyuyo-lezzetleri-tenders-royal-galeri-09012023.png",
+    "to": "img/home-lezzetlerimiz-doyuyo-4.png"
+  },
+  {
+    "from": "storage/30/doyuyo-malzemelerimiz-130123-4.jpg",
+    "to": "img/ingredients-burger-ve-sandvic-ekmekleri-doyuyo-3.jpg"
+  },
+  {
+    "from": "storage/305/baslangic-menuleri.webp",
+    "to": "img/baslangiclar-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/307/doyasiya-citir-combo.webp",
+    "to": "img/doyasiya-citir-combo-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/309/1.webp",
+    "to": "img/acisever-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/31/doyuyo-malzemelerimiz-130123-2.jpg",
+    "to": "img/ingredients-ozel-soslar-ve-baharatlar-doyuyo-4.jpg"
+  },
+  {
+    "from": "storage/32/doyuyo-malzemelerimiz-130123-3.jpg",
+    "to": "img/ingredients-citirpan-doyuyo-5.jpg"
+  },
+  {
+    "from": "storage/33/doyuyo-lezzetleri-soslar-090323.jpg",
+    "to": "img/flavors-soslar-doyuyo-6.jpg"
+  },
+  {
+    "from": "storage/34/doyuyo-lezzetleri-icecekler-150323.jpg",
+    "to": "img/flavors-doyuyo-da-limonata-ferahligi-doyuyo-7.jpg"
+  },
+  {
+    "from": "storage/35/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-akasya-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/37/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-ankamall-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/385/DELUXE_BURGER_COMBO-(5).webp",
+    "to": "img/cilekli-limonata-doyuyo-limonatalar.webp"
+  },
+  {
+    "from": "storage/387/DELUXE_BURGER_COMBO-(4).webp",
+    "to": "img/limonata-doyuyo-limonatalar.webp"
+  },
+  {
+    "from": "storage/389/DELUXE_BURGER_COMBO-(6).webp",
+    "to": "img/berry-hibiscus-limonata-doyuyo-limonatalar.webp"
+  },
+  {
+    "from": "storage/393/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "to": "img/baslangiclar-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/395/doyuyo-ic-sayfa-banner-lacivert-.webp",
+    "to": "img/investor-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/397/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "to": "img/contact-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/4/doyuyo-lezzetleri-chicken-burger-galeri-09012023.png",
+    "to": "img/home-lezzetlerimiz-doyuyo-5.png"
+  },
+  {
+    "from": "storage/401/doyuyo-ic-sayfa-banner-lacivert-.webp",
+    "to": "img/careers-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/403/doyuyo-ic-sayfa-banner-lacivert-.webp",
+    "to": "img/about-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/405/doyuyo-ic-sayfa-banner-lacivert-.webp",
+    "to": "img/branches-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/407/doyuyo-ic-sayfa-banner-kirmizi-0.webp",
+    "to": "img/ingredients-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/409/doyuyo-ic-sayfa-banner-lacivert-.webp",
+    "to": "img/flavors-banner-doyuyo.webp"
+  },
+  {
+    "from": "storage/41/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-atlaspark-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/411/gy-logo-1024x238-2.webp",
+    "to": "img/getir-yemek-online-siparis-logo.webp"
+  },
+  {
+    "from": "storage/413/image-01-desktop-optimize-262-(1).webp",
+    "to": "img/doyuyo-bursa-anatolium-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/416/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-koc-universitesi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/420/1-2400X1125.webp",
+    "to": "img/doyuyo-capacity-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/43/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-besiktas-carsi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/430/içecekler.webp",
+    "to": "img/limonatalar-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/437/conversions/Tenders_Festival-optimize-730-optimize-768.webp",
+    "to": "img/crispy-chicken-doyuyo-citir-tavuk-doyuyo.webp"
+  },
+  {
+    "from": "storage/438/conversions/doyuyo-lezzetleri-burger-sandvic-090323-optimize-730-optimize-768.webp",
+    "to": "img/crispy-chicken-chicken-burger-sandvicler-doyuyo-2.webp"
+  },
+  {
+    "from": "storage/439/conversions/Friends-Combo-768x536-optimize-730-optimize-768.webp",
+    "to": "img/crispy-chicken-tum-aile-icin-uygun-menuler-doyuyo-3.webp"
+  },
+  {
+    "from": "storage/442/Tenders.webp",
+    "to": "img/tenders-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/444/Spicy_Wings.webp",
+    "to": "img/spicywings-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/446/Chicken_Burger.webp",
+    "to": "img/chicken-burger-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/448/Burger.webp",
+    "to": "img/burger-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/45/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-bursa-kent-meydani-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/450/conversions/Tenders_Festival-optimize-730-optimize-768-optimize-768.webp",
+    "to": "img/fried-chicken-doyuyo-kizarmis-tavuk-doyuyo.webp"
+  },
+  {
+    "from": "storage/451/conversions/Friends-Combo-768x536-optimize-730-optimize-768-optimize-768.webp",
+    "to": "img/fried-chicken-tum-aile-icin-uygun-menuler-doyuyo-3.webp"
+  },
+  {
+    "from": "storage/452/Cosmo_Wings-1.webp",
+    "to": "img/fried-chicken-chicken-burger-spicy-wings-doyuyo-2.webp"
+  },
+  {
+    "from": "storage/47/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-bursa-ozdilek-park-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/49/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-cevahir-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/503/image-01-desktop-optimize-262-(2).webp",
+    "to": "img/doyuyo-kadikoy-altiyol-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/507/image-01-desktop-optimize-262-(2)-(1).webp",
+    "to": "img/doyuyo-zorlu-center-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/51/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-edirne-erasta-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/513/doyuyo-yatirimci-ol-160123-2-optimize-1024.webp",
+    "to": "img/investor-how-we-work-doyuyo-en.webp"
+  },
+  {
+    "from": "storage/515/doyuyo-yatirimci-ol-160123-1-optimize-1024.webp",
+    "to": "img/investor-how-we-work-doyuyo-2-en.webp"
+  },
+  {
+    "from": "storage/517/doyuyo-yatirimci-ol-160123-3-optimize-1024.webp",
+    "to": "img/investor-how-we-work-doyuyo-3-en.webp"
+  },
+  {
+    "from": "storage/519/doyuyo-yatirimci-ol-160123-4-optimize-1024.webp",
+    "to": "img/investor-how-we-work-doyuyo-4-en.webp"
+  },
+  {
+    "from": "storage/521/doyuyo-yatirimci-ol-160123-5-optimize-1024.webp",
+    "to": "img/investor-how-we-work-doyuyo-5-en.webp"
+  },
+  {
+    "from": "storage/523/image-01-desktop-optimize-262-(2)-(1).webp",
+    "to": "img/doyuyo-sakarya-cadde-54-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/527/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-buyaka-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/53/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-forum-camlik-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/531/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-mecidiyekoy-cadde-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/535/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-gebze-center-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/539/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-iyaspark-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/543/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-mall-of-antalya-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/547/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-marmara-forum-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/55/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-forum-istanbul-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/553/doyuyo-yatay.webp",
+    "to": "img/pardofood-grup-doyuyo-yatay.webp"
+  },
+  {
+    "from": "storage/57/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-forum-kayseri-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/59/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-istanbul-emaar-square-mall-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/6/doyuyo-yatirimci-ol-11012023.jpg",
+    "to": "img/home-yatirimci-ol-doyuyo-7.jpg"
+  },
+  {
+    "from": "storage/606/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-trump-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/61/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-izmir-alsancak-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/610/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-erasta-fethiye-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/614/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-vialand-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/618/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-kulesite-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/622/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-zafer-plaza-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/63/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-izmir-istinyepark-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/646/Web_2508x2508px-filigrangalactic-kopya.webp",
+    "to": "img/doyuyo-galactic-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/647/Web_2508x2508px-filigrandeluxe-poster-2-copy.webp",
+    "to": "img/deluxe-burger-combo-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/649/Web_2508x2508px-filigrancajun-combo.webp",
+    "to": "img/cajun-combo-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/65/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-izmir-karsiyaka-carsi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/651/Web_2508x2508px-filigranCHEESEBURGER-FESTİVAL-2.webp",
+    "to": "img/cheeseburger-festival-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/655/Web_2508x2508px-filigranacılı-tenders-pepsi-dekupe.webp",
+    "to": "img/acili-tenders-doyuyo-acisever.webp"
+  },
+  {
+    "from": "storage/657/Web_2508x2508px-filigranacılı-cheese-sandviç.webp",
+    "to": "img/acili-cheese-sandwich-x2-doyuyo-acisever.webp"
+  },
+  {
+    "from": "storage/661/Web_2508x2508px-filigranballı-hardal.webp",
+    "to": "img/balli-hardal-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/663/Web_2508x2508px-filigranbarbeku_s.webp",
+    "to": "img/bbq-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/665/Web_2508x2508px-filigranoriginal-cheddar_s.webp",
+    "to": "img/original-cheddar-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/667/Web_2508x2508px-filigranranch_s.webp",
+    "to": "img/ranch-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/669/Web_2508x2508px-filigranred-dragon_s.webp",
+    "to": "img/red-dragon-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/67/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-izmir-optimum-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/671/Web_2508x2508px-filigransambal.webp",
+    "to": "img/chefs-sambal-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/672/Web_2508x2508px-filigransarımsaklı-mayo.webp",
+    "to": "img/sarimsakli-mayonez-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/674/Web_2508x2508px-filigransmoked-chili.webp",
+    "to": "img/smoked-sweet-chili-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/676/Web_2508x2508px-filigransriracha-mayo.webp",
+    "to": "img/sriracha-mayo-doyuyo-gurme-soslar.webp"
+  },
+  {
+    "from": "storage/678/Web_2508x2508px-filigranwing-of-fried-4-kanat-2-orj-tenders-dekupe-copy.webp",
+    "to": "img/wings-of-friend-doyuyo-spicywings.webp"
+  },
+  {
+    "from": "storage/680/Web_2508x2508px-filigranCosmo-Wings_DEKUPE_PERİ.webp",
+    "to": "img/cosmo-wings-doyuyo-spicywings.webp"
+  },
+  {
+    "from": "storage/684/Web_2508x2508px-filigran9-lu-Spicy-Wings_DEKUPE.webp",
+    "to": "img/spicy-wings-9-lu-doyuyo-acisever.webp"
+  },
+  {
+    "from": "storage/686/Web_2508x2508px-filigrancajun-tenders-2.webp",
+    "to": "img/cajun-tenders-doyuyo-tenders.webp"
+  },
+  {
+    "from": "storage/688/Web_2508x2508px-filigranpaprika-parmesan-tenders-.webp",
+    "to": "img/paprika-parmesan-tenders-doyuyo-tenders.webp"
+  },
+  {
+    "from": "storage/69/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-izmit-symbol-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/690/Web_2508x2508px-filigranorj-tenders-pepsi.webp",
+    "to": "img/original-tenders-doyuyo-tenders.webp"
+  },
+  {
+    "from": "storage/692/Web_2508x2508px-filigrancajun-cheese-chicken-tenders-royale-sandviç_limonata.webp",
+    "to": "img/cheese-tenders-royale-doyuyo-chicken-burger.webp"
+  },
+  {
+    "from": "storage/694/Web_2508x2508px-filigrantenders-royale-chicken-sandviç.webp",
+    "to": "img/tenders-royale-doyuyo-chicken-burger.webp"
+  },
+  {
+    "from": "storage/698/Web_2508x2508px-filigrancheese-chicken-burger_2.webp",
+    "to": "img/cheese-chicken-burger-doyuyo-chicken-burger.webp"
+  },
+  {
+    "from": "storage/700/Web_2508x2508px-filigranacı-crispy-burger_limonata.webp",
+    "to": "img/acili-cheese-chicken-burger-doyuyo-chicken-burger.webp"
+  },
+  {
+    "from": "storage/702/Web_2508x2508px-filigranchicken-burger_limonata.webp",
+    "to": "img/chicken-burger-doyuyo-chicken-burger.webp"
+  },
+  {
+    "from": "storage/706/Web_2508x2508px-filigrandeluxe-burger.webp",
+    "to": "img/deluxe-burger-doyuyo-burger.webp"
+  },
+  {
+    "from": "storage/71/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-karsiyaka-hilltown-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/710/Web_2508x2508px-filigrandouble-cheese-burger_limonata.webp",
+    "to": "img/double-cheese-burger-doyuyo-burger.webp"
+  },
+  {
+    "from": "storage/712/Web_2508x2508px-filigrancheese-burger.webp",
+    "to": "img/cheese-burger-doyuyo-burger.webp"
+  },
+  {
+    "from": "storage/714/Web_2508x2508px-filigranmangal-burger_limonata.webp",
+    "to": "img/hamburger-doyuyo-burger.webp"
+  },
+  {
+    "from": "storage/718/Web_2508x2508px-filigranTENDERS-.webp",
+    "to": "img/tenders-festival-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/720/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-silivri-vega-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/724/Web_2508x2508px-filigran6-lı-Spicy-Wings_DEKUPE.webp",
+    "to": "img/spicy-wings-6-li-doyuyo-acisever.webp"
+  },
+  {
+    "from": "storage/726/Web_2508x2508px-filigran9-lu-Spicy-Wings_DEKUPE.webp",
+    "to": "img/spicy-wings-9-lu-doyuyo-kart.webp"
+  },
+  {
+    "from": "storage/729/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-tepe-nautilus-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/73/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-kizilay-carsi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/733/image-01-desktop-optimize-262-(2)-(1)-(1).webp",
+    "to": "img/doyuyo-forum-mersin-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/737/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-avlu34-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/741/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-istanbul-finans-merkezi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/745/Web_2508x2508px-filigranMOZZAREL.webp",
+    "to": "img/mozzarella-sticks-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/747/Web_2508x2508px-filigrandouble-c.webp",
+    "to": "img/double-cheese-chicken-burger-doyuyo-chicken-burger.webp"
+  },
+  {
+    "from": "storage/749/sos-slogan-1080x1080.webp",
+    "to": "img/gurme-soslar-menu-doyuyo.webp"
+  },
+  {
+    "from": "storage/75/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-konya-kent-plaza-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/751/Web_2508x2508px-filigranSOSLU-CH.webp",
+    "to": "img/soslu-patates-cheddar-ilaveli-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/753/Web_2508x2508px-filigranCHCIKERS.webp",
+    "to": "img/chickers-sepeti-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/755/Web_2508x2508px-filigranSOSLU-mi.webp",
+    "to": "img/soslu-patates-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/757/Web_2508x2508px-filigranPATETES-.webp",
+    "to": "img/patates-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/759/Web_2508x2508px-filigranPESTO.webp",
+    "to": "img/pesto-cheddar-fusilli-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/761/Web_2508x2508px-filigranBAŞLANG.webp",
+    "to": "img/baslangic-sepeti-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/763/Web_2508x2508px-filigranACI-TATL.webp",
+    "to": "img/aci-tatli-chickers-patates-doyuyo-baslangiclar.webp"
+  },
+  {
+    "from": "storage/765/Web_2508x2508px-filigranacı-seve.webp",
+    "to": "img/acisever-combo-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/767/Web_2508x2508px-filigranFRIENDS-.webp",
+    "to": "img/friends-combo-doyuyo-doyasiya-citir-combo.webp"
+  },
+  {
+    "from": "storage/769/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-forum-diyarbakir-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/77/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-korupark-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/773/image-01-desktop-optimize-262-(2)-(1)-(1)-(1).webp",
+    "to": "img/doyuyo-adana-turgut-ozal-bulvari-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/775/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-izmit-yuruyus-yolu-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/79/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-m1-adana-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/81/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-mall-of-istanbul-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/817/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-meydan-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/829/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-espark-eskisehir-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/83/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-maltepe-park-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/833/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-citys-istanbul-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/837/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-denizli-teraspark-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/843/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-sur-yapi-metrogarden-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/849/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-sakarya-agora-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/85/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-manavgat-novamall-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/855/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/ankara-metromall-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/861/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/adana-optimum-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/867/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-bakirkoy-cadde-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/87/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-markantalya-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/874/20860151acba44d29636acd2c8e047d5-1-(2).png",
+    "to": "img/trendyol-online-siparis-logo.png"
+  },
+  {
+    "from": "storage/875/Property-1=migros,-Property-2=empty.svg",
+    "to": "img/migros-yemek-online-siparis-logo.svg"
+  },
+  {
+    "from": "storage/876/Property-1=migros,-Property-2=empty.svg",
+    "to": "img/migros-yemek-online-siparis-logo-en.svg"
+  },
+  {
+    "from": "storage/877/conversions/image-01-desktop-optimize-262-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-vega-avm-istanbul-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/883/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-istiklal-caddesi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/889/conversions/image-01-desktop-optimize-262-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-tekira-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/89/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-marmarapark-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/898/conversions/image-01-desktop-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-merkez-ankara-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/902/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-bagdat-caddesi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/907/conversions/image-01-desktop-optimize-262-optimize-744-optimize-744.webp",
+    "to": "img/doyuyo-batman-petrol-city-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/91/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-metropol-istanbul-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/911/conversions/image-01-desktop-optimize-262-(2)-(1)-(1)-(1)-(1)-optimize-262-optimize-744.webp",
+    "to": "img/doyuyo-mrf-cadde-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/915/f55d5e40838e4deba0a48501bacaf600.webp",
+    "to": "img/doyuyo-sera-kutahya-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/93/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-mng-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/95/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-ozdilekpark-istanbul-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/97/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-pendik-carsi-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/99/conversions/image-01-desktop-optimize-744.webp",
+    "to": "img/doyuyo-primemall-avm-doyuyo-sube.webp"
+  },
+  {
+    "from": "storage/images/045b7dafb93ed9b34c87ef3dd1df0b80.jpg",
+    "to": "img/ingredients-meat-and-chicken-products-doyuyo-en.jpg"
+  },
+  {
+    "from": "storage/images/9e7ea864a0d4e4ea84bfe74486d62602.png",
+    "to": "img/ingredients-et-ve-tavuk-urunleri-doyuyo.png"
+  }
+]
