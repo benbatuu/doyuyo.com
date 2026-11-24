@@ -1,6 +1,25 @@
 {
   "$schema": "https://turbo.build/schema.json",
-  "globalEnv": ["DATABASE_URL", "NEXT_PUBLIC_SITE_URL"],
+  "globalEnv": [
+    "DATABASE_URL",
+    "NEXT_PUBLIC_SITE_URL",
+    "NEXT_PUBLIC_GA_ID",
+    "NEXT_PUBLIC_TURNSTILE_SITE_KEY",
+    "NEXT_PUBLIC_MEDIA_BASE_URL",
+    "ADMIN_EMAIL",
+    "ADMIN_PASSWORD",
+    "ADMIN_SESSION_SECRET",
+    "ADMIN_PUBLIC_URL",
+    "INDEXNOW_KEY",
+    "GOOGLE_SITE_VERIFICATION",
+    "BING_SITE_VERIFICATION",
+    "YANDEX_SITE_VERIFICATION",
+    "RESEND_API_KEY",
+    "FORM_NOTIFY_TO",
+    "FORM_NOTIFY_FROM",
+    "TURNSTILE_SECRET_KEY",
+    "MEDIA_UPLOAD_DIR"
+  ],
   "tasks": {
     "build": { "dependsOn": ["^build"], "outputs": [".next/**", "!.next/cache/**", "dist/**"] },
     "dev": { "cache": false, "persistent": true },
